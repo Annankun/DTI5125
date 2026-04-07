@@ -1,0 +1,3292 @@
+[
+  {
+    "category": "Acupuncture",
+    "description": "Acupuncture treatment by a licensed acupuncturist. Involves inserting thin needles into specific body points to relieve pain, manage stress, or treat various conditions. Common for chronic pain, migraines, back pain, and muscle tension. Students often seek this for stress-related tension and sports injuries.",
+    "synonyms": [
+      "acupuncture therapy",
+      "needle therapy",
+      "acupuncture session",
+      "acupuncture treatment",
+      "TCM acupuncture",
+      "dry needling"
+    ],
+    "benefit_type": "Professional Services - Allied Health",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "acupuncture",
+      "needles",
+      "pain relief",
+      "traditional Chinese medicine",
+      "TCM",
+      "chronic pain"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Aerochamber",
+    "description": "An aerochamber or spacer device used with metered-dose inhalers (MDIs) to improve medication delivery to the lungs. Commonly used by asthma or COPD patients to ensure proper inhalation of prescribed medication. The chamber holds the aerosolized medicine so the patient can inhale it more effectively.",
+    "synonyms": [
+      "spacer",
+      "inhaler spacer",
+      "valved holding chamber",
+      "MDI spacer",
+      "asthma spacer",
+      "puffer spacer"
+    ],
+    "benefit_type": "Medical Items and Services - Respiratory Equipment",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "aerochamber",
+      "spacer",
+      "inhaler",
+      "asthma",
+      "COPD",
+      "respiratory"
+    ],
+    "benefit_group": "Medical Items - Respiratory Equipment"
+  },
+  {
+    "category": "Alcohol swabs",
+    "description": "Sterile alcohol swabs or prep pads used for disinfecting skin before injections, blood glucose testing, or wound care. Commonly needed by diabetic patients for daily insulin injections or blood sugar monitoring. Also used for general first aid and medical procedures at home.",
+    "synonyms": [
+      "alcohol prep pads",
+      "alcohol wipes",
+      "sterile swabs",
+      "disinfecting wipes",
+      "isopropyl alcohol pads",
+      "injection prep pads"
+    ],
+    "benefit_type": "Prescription Drugs / Medical Supplies",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "alcohol swabs",
+      "disinfecting",
+      "injection",
+      "diabetic supplies",
+      "sterilization"
+    ],
+    "benefit_group": "Prescription Drugs"
+  },
+  {
+    "category": "Ambulance",
+    "description": "Professional ambulance transportation service for medical emergencies. Covers land or air ambulance to the nearest equipped hospital when medically required due to injury, illness, or acute physical disability. Typically used in emergency situations like accidents, sudden illness, or severe injuries.",
+    "synonyms": [
+      "ambulance service",
+      "emergency transport",
+      "ambulance ride",
+      "EMS",
+      "paramedic transport",
+      "emergency medical transport"
+    ],
+    "benefit_type": "Emergency Transportation",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "ambulance",
+      "emergency",
+      "transport",
+      "paramedic",
+      "hospital transport"
+    ],
+    "benefit_group": "Emergency Transportation"
+  },
+  {
+    "category": "Ambulatory Blood Pressure Test",
+    "description": "A 24-hour ambulatory blood pressure monitoring test where a portable device measures blood pressure at regular intervals throughout the day and night. Used to diagnose hypertension, white coat syndrome, or monitor blood pressure medication effectiveness. The patient wears the device during normal daily activities.",
+    "synonyms": [
+      "24-hour blood pressure test",
+      "ABPM",
+      "blood pressure monitoring test",
+      "ambulatory BP monitor",
+      "24-hour BP test",
+      "Holter blood pressure"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "blood pressure",
+      "ambulatory",
+      "monitoring",
+      "hypertension",
+      "ABPM",
+      "diagnostic test"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Athletic Therapy",
+    "description": "Treatment by a certified athletic therapist for musculoskeletal injuries and conditions. Focuses on prevention, assessment, and rehabilitation of sports injuries and orthopedic conditions. Common for student athletes dealing with sprains, strains, concussions, and rehabilitation from sports-related injuries.",
+    "synonyms": [
+      "athletic therapist",
+      "sports therapy",
+      "sports rehabilitation",
+      "athletic rehabilitation",
+      "sports injury therapy",
+      "AT treatment"
+    ],
+    "benefit_type": "Professional Services - Allied Health",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "athletic therapy",
+      "sports injury",
+      "rehabilitation",
+      "musculoskeletal",
+      "sports medicine"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Audiologist Services",
+    "description": "Services provided by a licensed audiologist for hearing assessment, management, and rehabilitation. Includes hearing evaluations, hearing aid fittings, tinnitus management, and balance disorder assessment. Different from audiometric exam which is specifically the hearing test itself.",
+    "synonyms": [
+      "audiologist",
+      "hearing specialist",
+      "audiologist visit",
+      "hearing services",
+      "audiology appointment",
+      "hearing assessment"
+    ],
+    "benefit_type": "Professional Services - Hearing",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "audiologist",
+      "hearing",
+      "audiology",
+      "hearing loss",
+      "tinnitus",
+      "hearing aid fitting"
+    ],
+    "benefit_group": "Professional Services - Hearing"
+  },
+  {
+    "category": "Audiometric Exam",
+    "description": "A diagnostic audiometric examination to test hearing acuity. Measures the ability to hear sounds at different pitches and volumes. Used to detect hearing loss, determine its type and severity. Typically performed in a sound booth by an audiologist or hearing specialist.",
+    "synonyms": [
+      "hearing test",
+      "audiogram",
+      "hearing exam",
+      "audiometry",
+      "hearing screening",
+      "hearing evaluation"
+    ],
+    "benefit_type": "Professional Services - Hearing",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "audiometric",
+      "hearing test",
+      "audiogram",
+      "hearing loss",
+      "diagnosis"
+    ],
+    "benefit_group": "Professional Services - Hearing"
+  },
+  {
+    "category": "Bath Bench/Chair (purchase)",
+    "description": "Purchase of a bath bench or shower chair for safe bathing. An assistive device placed in the bathtub or shower to allow a person to sit while bathing. Used by individuals with mobility limitations, balance issues, or post-surgery recovery who cannot safely stand in the shower.",
+    "synonyms": [
+      "shower chair",
+      "bath seat",
+      "shower bench",
+      "bathtub chair",
+      "bath stool",
+      "shower seat",
+      "tub bench"
+    ],
+    "benefit_type": "Medical Items and Services - Aids for Daily Living",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "bath bench",
+      "shower chair",
+      "bathing aid",
+      "mobility",
+      "daily living"
+    ],
+    "benefit_group": "Medical Items - Aids for Daily Living"
+  },
+  {
+    "category": "Bed Rails (purchase)",
+    "description": "Purchase of bed rails or safety rails that attach to a hospital or home bed. Provides support for getting in and out of bed and prevents falls during sleep. Used by individuals with mobility challenges, post-surgery patients, or those at risk of falling out of bed.",
+    "synonyms": [
+      "bed safety rails",
+      "hospital bed rails",
+      "bed guard",
+      "bed side rails",
+      "safety bed rails",
+      "bed assist rail"
+    ],
+    "benefit_type": "Medical Items and Services - Aids for Daily Living",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "bed rails",
+      "safety rails",
+      "fall prevention",
+      "hospital bed",
+      "daily living"
+    ],
+    "benefit_group": "Medical Items - Aids for Daily Living"
+  },
+  {
+    "category": "Bedpan",
+    "description": "A bedpan used for toileting by individuals who are bedridden or unable to get to the bathroom. A medical device placed under or beside a patient in bed for collecting urine or feces. Used during recovery from surgery, illness, or for individuals with severe mobility limitations.",
+    "synonyms": [
+      "bed pan",
+      "toilet pan",
+      "bedside pan",
+      "patient bedpan"
+    ],
+    "benefit_type": "Medical Items and Services - Aids for Daily Living",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "bedpan",
+      "bedridden",
+      "toileting",
+      "daily living aid"
+    ],
+    "benefit_group": "Medical Items - Aids for Daily Living"
+  },
+  {
+    "category": "Blood glucose meter",
+    "description": "A blood glucose meter (glucometer) device used to measure blood sugar levels. A portable electronic device that reads blood glucose concentration from a small blood sample, typically from a finger prick. Essential for diabetic patients to monitor their blood sugar daily. This is the meter device itself, not the continuous monitoring system.",
+    "synonyms": [
+      "glucometer",
+      "blood sugar meter",
+      "glucose monitor",
+      "blood sugar monitor",
+      "diabetes meter",
+      "sugar testing device"
+    ],
+    "benefit_type": "Medical Items and Services - Diabetic Supplies",
+    "confusable_group": "Glucose Monitoring",
+    "disambiguation_attributes": [
+      "traditional finger-prick meter",
+      "the device itself not CGM",
+      "standalone glucometer not continuous system"
+    ],
+    "keywords": [
+      "glucose meter",
+      "glucometer",
+      "blood sugar",
+      "diabetes",
+      "finger prick"
+    ],
+    "benefit_group": "Medical Items - Diabetic Supplies"
+  },
+  {
+    "category": "Blood pressure monitor",
+    "description": "A home blood pressure monitor device for self-monitoring of blood pressure. An electronic device with an arm cuff that measures systolic and diastolic blood pressure. Used by patients with hypertension or those who need regular blood pressure tracking at home.",
+    "synonyms": [
+      "BP monitor",
+      "blood pressure cuff",
+      "sphygmomanometer",
+      "home blood pressure machine",
+      "BP machine",
+      "automatic blood pressure monitor"
+    ],
+    "benefit_type": "Medical Items and Services - Respiratory/Cardiology Equipment",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "blood pressure",
+      "monitor",
+      "hypertension",
+      "BP",
+      "cuff",
+      "sphygmomanometer"
+    ],
+    "benefit_group": "Medical Items - Respiratory Equipment"
+  },
+  {
+    "category": "Blood test for Allergies (IG test not eligible)",
+    "description": "A blood test to identify allergies, typically an IgE blood test (immunoglobulin E). Note that IG tests are not eligible for coverage. Used to identify specific allergens causing allergic reactions such as food allergies, environmental allergies, or drug allergies. Different from a scratch/skin test for allergies.",
+    "synonyms": [
+      "allergy blood test",
+      "IgE test",
+      "RAST test",
+      "allergy panel blood work",
+      "specific IgE blood test",
+      "allergen blood test"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "blood draw test not skin test",
+      "IG test not eligible"
+    ],
+    "keywords": [
+      "allergy",
+      "blood test",
+      "IgE",
+      "allergen",
+      "diagnostic",
+      "immunoglobulin"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Blood Withdrawal Fee",
+    "description": "The fee charged for drawing blood (venipuncture or phlebotomy). This covers the professional fee for a nurse or phlebotomist to draw blood for laboratory testing. Separate from the cost of the actual lab tests themselves. Common when getting blood work done at a clinic or lab.",
+    "synonyms": [
+      "blood draw fee",
+      "venipuncture fee",
+      "phlebotomy fee",
+      "blood collection fee",
+      "blood taking fee",
+      "needle fee for blood work"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "blood draw",
+      "withdrawal",
+      "venipuncture",
+      "phlebotomy",
+      "lab fee"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Brace (Non-custom)",
+    "description": "A non-custom (off-the-shelf) orthopedic brace for supporting or immobilizing a body part. Includes wrist braces, ankle braces, back braces, elbow braces, and other pre-made support devices. Purchased from a pharmacy or medical supply store without custom fitting. Used for sprains, strains, arthritis support, or post-injury stabilization.",
+    "synonyms": [
+      "off-the-shelf brace",
+      "store-bought brace",
+      "ready-made brace",
+      "standard brace",
+      "non-custom orthopedic brace",
+      "support brace"
+    ],
+    "benefit_type": "Medical Items and Services - Braces and Casts",
+    "confusable_group": "Brace",
+    "disambiguation_attributes": [
+      "non-custom / off-the-shelf",
+      "not specifically for knee",
+      "not AFO or KAFO"
+    ],
+    "keywords": [
+      "brace",
+      "non-custom",
+      "orthopedic",
+      "support",
+      "wrist brace",
+      "ankle brace",
+      "back brace"
+    ],
+    "benefit_group": "Medical Items - Braces and Casts"
+  },
+  {
+    "category": "Brace, AFO/KAFO (Custom)",
+    "description": "A custom-made ankle-foot orthosis (AFO) or knee-ankle-foot orthosis (KAFO). These are specialized orthopedic devices custom-fitted to support the ankle, foot, and/or knee. Used for conditions like drop foot, post-stroke rehabilitation, cerebral palsy, or other neuromuscular conditions affecting the lower limbs.",
+    "synonyms": [
+      "ankle foot orthosis",
+      "AFO brace",
+      "KAFO brace",
+      "custom ankle brace",
+      "custom leg brace",
+      "foot drop brace"
+    ],
+    "benefit_type": "Medical Items and Services - Braces and Casts",
+    "confusable_group": "Brace",
+    "disambiguation_attributes": [
+      "custom-made",
+      "AFO or KAFO specifically",
+      "ankle-foot or knee-ankle-foot orthosis"
+    ],
+    "keywords": [
+      "AFO",
+      "KAFO",
+      "custom brace",
+      "ankle foot orthosis",
+      "orthopedic",
+      "drop foot"
+    ],
+    "benefit_group": "Medical Items - Braces and Casts"
+  },
+  {
+    "category": "Brace, left knee (Custom)",
+    "description": "A custom-made knee brace specifically for the left knee. Custom-fitted and manufactured for the individual patient's left knee anatomy. Used for conditions like ACL/MCL injuries, knee osteoarthritis, post-surgical knee support, or chronic knee instability. Must specify left knee when submitting claim.",
+    "synonyms": [
+      "custom left knee brace",
+      "left knee support custom",
+      "custom knee brace left",
+      "left leg knee brace"
+    ],
+    "benefit_type": "Medical Items and Services - Braces and Casts",
+    "confusable_group": "Brace",
+    "disambiguation_attributes": [
+      "custom-made",
+      "specifically for left knee",
+      "not right knee"
+    ],
+    "keywords": [
+      "knee brace",
+      "left knee",
+      "custom",
+      "ACL",
+      "MCL",
+      "knee support"
+    ],
+    "benefit_group": "Medical Items - Braces and Casts"
+  },
+  {
+    "category": "Brace, right knee (Custom)",
+    "description": "A custom-made knee brace specifically for the right knee. Custom-fitted and manufactured for the individual patient's right knee anatomy. Used for conditions like ACL/MCL injuries, knee osteoarthritis, post-surgical knee support, or chronic knee instability. Must specify right knee when submitting claim.",
+    "synonyms": [
+      "custom right knee brace",
+      "right knee support custom",
+      "custom knee brace right",
+      "right leg knee brace"
+    ],
+    "benefit_type": "Medical Items and Services - Braces and Casts",
+    "confusable_group": "Brace",
+    "disambiguation_attributes": [
+      "custom-made",
+      "specifically for right knee",
+      "not left knee"
+    ],
+    "keywords": [
+      "knee brace",
+      "right knee",
+      "custom",
+      "ACL",
+      "MCL",
+      "knee support"
+    ],
+    "benefit_group": "Medical Items - Braces and Casts"
+  },
+  {
+    "category": "Breast Pump (purchase)",
+    "description": "Purchase of a breast pump for expressing breast milk. Can be manual or electric. Used by breastfeeding mothers to express and store milk for feeding infants. Useful for working mothers, those with latching difficulties, or to maintain milk supply.",
+    "synonyms": [
+      "breast milk pump",
+      "milk pump",
+      "electric breast pump",
+      "manual breast pump",
+      "lactation pump",
+      "breastfeeding pump"
+    ],
+    "benefit_type": "Medical Items and Services",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "breast pump",
+      "lactation",
+      "breastfeeding",
+      "milk expression",
+      "nursing"
+    ],
+    "benefit_group": "Medical Items - Other"
+  },
+  {
+    "category": "CA-125 (Cancer Antigen) Test",
+    "description": "A CA-125 blood test that measures the level of cancer antigen 125 protein in the blood. Primarily used as a tumor marker for ovarian cancer screening, diagnosis, and monitoring treatment response. May also be elevated in endometriosis, uterine fibroids, and other conditions.",
+    "synonyms": [
+      "CA125 test",
+      "cancer antigen 125",
+      "ovarian cancer test",
+      "tumor marker test CA-125",
+      "cancer screening blood test"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "CA-125",
+      "cancer antigen",
+      "ovarian cancer",
+      "tumor marker",
+      "blood test",
+      "screening"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Cane, standard",
+    "description": "A standard walking cane for mobility assistance. A single-point cane used by individuals who need balance support or weight-bearing assistance while walking. Different from a quad cane which has four feet. Used after injury, surgery, or for chronic mobility conditions.",
+    "synonyms": [
+      "walking cane",
+      "walking stick",
+      "single point cane",
+      "standard cane",
+      "mobility cane"
+    ],
+    "benefit_type": "Medical Items and Services - Mobility Aids",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "standard single-point cane",
+      "not quad cane"
+    ],
+    "keywords": [
+      "cane",
+      "walking aid",
+      "mobility",
+      "balance support"
+    ],
+    "benefit_group": "Medical Items - Mobility Aids"
+  },
+  {
+    "category": "Cast, fiberglass",
+    "description": "A fiberglass cast used to immobilize and protect a broken or fractured bone while it heals. Lighter and more durable than traditional plaster casts. Applied by a healthcare professional after fracture reduction. Common for broken arms, wrists, legs, and ankles.",
+    "synonyms": [
+      "fiberglass cast",
+      "bone cast",
+      "fracture cast",
+      "arm cast",
+      "leg cast",
+      "orthopedic cast"
+    ],
+    "benefit_type": "Medical Items and Services - Braces and Casts",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "cast",
+      "fiberglass",
+      "fracture",
+      "broken bone",
+      "immobilization"
+    ],
+    "benefit_group": "Medical Items - Braces and Casts"
+  },
+  {
+    "category": "Cervical Pillow",
+    "description": "A cervical pillow designed to support the natural curve of the neck during sleep. An orthopedic pillow that helps maintain proper spinal alignment and reduces neck pain. Used for cervical spondylosis, neck strain, whiplash recovery, or chronic neck pain management.",
+    "synonyms": [
+      "neck pillow",
+      "orthopedic pillow",
+      "neck support pillow",
+      "contour pillow",
+      "cervical support pillow",
+      "ergonomic neck pillow"
+    ],
+    "benefit_type": "Medical Items and Services",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "cervical pillow",
+      "neck support",
+      "orthopedic",
+      "neck pain",
+      "sleep support"
+    ],
+    "benefit_group": "Medical Items - Other"
+  },
+  {
+    "category": "Chiropody (Foot Care) Treatment",
+    "description": "Foot care treatment by a licensed chiropodist. Includes assessment and treatment of foot conditions such as corns, calluses, ingrown toenails, plantar warts, and diabetic foot care. Chiropody focuses on the treatment of foot ailments, distinct from podiatry which may include surgical interventions. Does not include orthotics or orthopedic shoes.",
+    "synonyms": [
+      "chiropodist",
+      "foot care",
+      "foot specialist treatment",
+      "chiropody visit",
+      "foot treatment"
+    ],
+    "benefit_type": "Professional Services - Foot Care",
+    "confusable_group": "Foot Care",
+    "disambiguation_attributes": [
+      "treatment by chiropodist",
+      "not orthotics or shoes",
+      "foot ailment treatment not devices"
+    ],
+    "keywords": [
+      "chiropody",
+      "foot care",
+      "chiropodist",
+      "corns",
+      "calluses",
+      "ingrown toenail",
+      "foot treatment"
+    ],
+    "benefit_group": "Professional Services - Foot Care"
+  },
+  {
+    "category": "Chiropractic",
+    "description": "Chiropractic treatment by a licensed chiropractor. Involves spinal adjustments, joint manipulation, and other manual therapies to treat musculoskeletal conditions. Common for back pain, neck pain, headaches, and joint problems. One of the most frequently claimed professional services by students.",
+    "synonyms": [
+      "chiropractor",
+      "chiropractic adjustment",
+      "spinal adjustment",
+      "chiro",
+      "chiropractic visit",
+      "back adjustment",
+      "spine alignment"
+    ],
+    "benefit_type": "Professional Services Group A",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "chiropractic",
+      "chiropractor",
+      "spinal adjustment",
+      "back pain",
+      "neck pain",
+      "joint manipulation"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Clinical Counsellor",
+    "description": "Mental health counselling services by a registered clinical counsellor (RCC). Provides therapy for anxiety, depression, stress, relationship issues, grief, trauma, and other mental health concerns. A clinical counsellor has specific training in therapeutic counselling techniques. Part of the mental health practitioner group alongside psychologists and social workers.",
+    "synonyms": [
+      "counsellor",
+      "counselor",
+      "mental health counsellor",
+      "RCC",
+      "registered clinical counsellor",
+      "therapist",
+      "counselling session"
+    ],
+    "benefit_type": "Professional Services Group B",
+    "confusable_group": "Mental Health",
+    "disambiguation_attributes": [
+      "registered clinical counsellor specifically",
+      "not psychologist or social worker",
+      "RCC designation"
+    ],
+    "keywords": [
+      "clinical counsellor",
+      "counselling",
+      "mental health",
+      "therapy",
+      "anxiety",
+      "depression",
+      "RCC"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Cold Therapy - Re-usable Items (purchase)",
+    "description": "Purchase of reusable cold therapy items for pain and inflammation management. Includes reusable ice packs, cold wraps, gel packs, and cold therapy systems. Used for acute injuries, post-surgery swelling, sprains, strains, and chronic pain management. Must be reusable, not single-use disposable products.",
+    "synonyms": [
+      "ice pack",
+      "cold pack",
+      "reusable ice pack",
+      "gel ice pack",
+      "cold wrap",
+      "cold therapy pack",
+      "cryo pack"
+    ],
+    "benefit_type": "Medical Items and Services",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "cold therapy",
+      "ice pack",
+      "reusable",
+      "inflammation",
+      "swelling",
+      "pain relief"
+    ],
+    "benefit_group": "Medical Items - Other"
+  },
+  {
+    "category": "Colonoscopy",
+    "description": "A colonoscopy procedure - an examination of the large intestine (colon) using a flexible camera scope. Used for colorectal cancer screening, investigating digestive symptoms like blood in stool, chronic diarrhea, or abdominal pain. Also used for polyp detection and removal. Usually performed by a gastroenterologist.",
+    "synonyms": [
+      "colon exam",
+      "colon screening",
+      "bowel scope",
+      "colorectal screening",
+      "lower GI endoscopy"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "colonoscopy",
+      "colon",
+      "colorectal",
+      "screening",
+      "polyp",
+      "gastroenterology"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Compression Calf Sleeves/Tights (footless), any length",
+    "description": "Compression calf sleeves or tights that are footless - they do not cover the foot. Any length available. These are sleeve-style compression garments worn on the calf/leg without a foot portion. Used for circulation support, varicose veins, or athletic recovery. Different from compression stockings which include the foot.",
+    "synonyms": [
+      "compression sleeves",
+      "calf sleeves",
+      "compression tights footless",
+      "leg sleeves",
+      "calf compression",
+      "footless compression"
+    ],
+    "benefit_type": "Medical Items and Services - Compression Stockings",
+    "confusable_group": "Compression Stockings",
+    "disambiguation_attributes": [
+      "footless / no foot portion",
+      "sleeve or tight style",
+      "any pressure level"
+    ],
+    "keywords": [
+      "compression",
+      "calf sleeve",
+      "footless",
+      "tights",
+      "circulation",
+      "varicose veins"
+    ],
+    "benefit_group": "Medical Items - Compression Stockings"
+  },
+  {
+    "category": "Compression Stockings, any length (up to 14 mmhg)",
+    "description": "Compression stockings of any length with pressure up to 14 mmHg (light compression). These are low-pressure support stockings for mild circulation issues or prevention. Note: the booklet requires 15 mmHg or higher for coverage, so these light-compression stockings may not be eligible under the plan.",
+    "synonyms": [
+      "light compression stockings",
+      "support stockings",
+      "mild compression hose",
+      "low pressure stockings",
+      "support hose"
+    ],
+    "benefit_type": "Medical Items and Services - Compression Stockings",
+    "confusable_group": "Compression Stockings",
+    "disambiguation_attributes": [
+      "up to 14 mmHg pressure",
+      "light compression",
+      "any length",
+      "may not meet minimum 15 mmHg requirement"
+    ],
+    "keywords": [
+      "compression stockings",
+      "14 mmHg",
+      "light compression",
+      "support stockings",
+      "circulation"
+    ],
+    "benefit_group": "Medical Items - Compression Stockings"
+  },
+  {
+    "category": "Compression Stockings, custom, any length",
+    "description": "Custom-made compression stockings of any length and pressure level. These are individually measured and manufactured to fit the patient's specific leg dimensions. Prescribed for chronic venous insufficiency, lymphedema, severe varicose veins, or post-surgical recovery. More expensive than off-the-shelf but provide better fit and pressure distribution.",
+    "synonyms": [
+      "custom compression stockings",
+      "made-to-measure compression stockings",
+      "bespoke compression hose",
+      "custom-fitted compression socks",
+      "prescription compression stockings"
+    ],
+    "benefit_type": "Medical Items and Services - Compression Stockings",
+    "confusable_group": "Compression Stockings",
+    "disambiguation_attributes": [
+      "custom-made / individually measured",
+      "any length",
+      "any pressure level"
+    ],
+    "keywords": [
+      "compression stockings",
+      "custom",
+      "made-to-measure",
+      "lymphedema",
+      "venous insufficiency"
+    ],
+    "benefit_group": "Medical Items - Compression Stockings"
+  },
+  {
+    "category": "Compression Stockings, knee length (15-19 mmhg)",
+    "description": "Knee-length compression stockings with 15-19 mmHg pressure (mild-to-moderate compression). Off-the-shelf stockings that extend to just below the knee. Used for mild varicose veins, tired/aching legs, mild swelling, and long travel. The lowest pressure level that meets the plan's 15 mmHg minimum requirement.",
+    "synonyms": [
+      "knee high compression socks 15-19",
+      "mild compression knee socks",
+      "compression socks knee length",
+      "support hose knee"
+    ],
+    "benefit_type": "Medical Items and Services - Compression Stockings",
+    "confusable_group": "Compression Stockings",
+    "disambiguation_attributes": [
+      "knee length",
+      "15-19 mmHg pressure",
+      "not custom"
+    ],
+    "keywords": [
+      "compression stockings",
+      "knee length",
+      "15-19 mmHg",
+      "mild compression",
+      "varicose veins"
+    ],
+    "benefit_group": "Medical Items - Compression Stockings"
+  },
+  {
+    "category": "Compression Stockings, knee length (20-29 mmhg)",
+    "description": "Knee-length compression stockings with 20-29 mmHg pressure (moderate compression). Off-the-shelf stockings extending to just below the knee. Used for moderate varicose veins, edema, post-sclerotherapy, mild lymphedema, and DVT prevention. A commonly prescribed compression level for medical conditions.",
+    "synonyms": [
+      "knee high compression socks 20-30",
+      "moderate compression knee socks",
+      "medical compression stockings knee",
+      "firm compression knee socks"
+    ],
+    "benefit_type": "Medical Items and Services - Compression Stockings",
+    "confusable_group": "Compression Stockings",
+    "disambiguation_attributes": [
+      "knee length",
+      "20-29 mmHg pressure",
+      "moderate compression",
+      "not custom"
+    ],
+    "keywords": [
+      "compression stockings",
+      "knee length",
+      "20-29 mmHg",
+      "moderate compression",
+      "edema",
+      "DVT"
+    ],
+    "benefit_group": "Medical Items - Compression Stockings"
+  },
+  {
+    "category": "Compression Stockings, knee length (30 mmhg & over)",
+    "description": "Knee-length compression stockings with 30 mmHg or higher pressure (firm to extra-firm compression). Off-the-shelf stockings extending to just below the knee. Used for severe varicose veins, severe edema, active venous ulcers, post-thrombotic syndrome, and severe lymphedema. Highest compression level in knee length.",
+    "synonyms": [
+      "high compression knee socks",
+      "firm compression knee stockings",
+      "strong compression knee socks",
+      "medical grade compression knee"
+    ],
+    "benefit_type": "Medical Items and Services - Compression Stockings",
+    "confusable_group": "Compression Stockings",
+    "disambiguation_attributes": [
+      "knee length",
+      "30 mmHg or higher pressure",
+      "firm/extra-firm compression",
+      "not custom"
+    ],
+    "keywords": [
+      "compression stockings",
+      "knee length",
+      "30 mmHg",
+      "firm compression",
+      "venous ulcer",
+      "lymphedema"
+    ],
+    "benefit_group": "Medical Items - Compression Stockings"
+  },
+  {
+    "category": "Compression Stockings, thigh/full (15-19 mmhg)",
+    "description": "Thigh-length or full-length compression stockings with 15-19 mmHg pressure (mild-to-moderate compression). Off-the-shelf stockings extending to the thigh or waist. Used for mild varicose veins in the upper leg, mild edema, and prevention during pregnancy or long travel.",
+    "synonyms": [
+      "thigh high compression stockings 15-19",
+      "full length compression hose mild",
+      "thigh compression stockings",
+      "pantyhose compression mild"
+    ],
+    "benefit_type": "Medical Items and Services - Compression Stockings",
+    "confusable_group": "Compression Stockings",
+    "disambiguation_attributes": [
+      "thigh or full length",
+      "15-19 mmHg pressure",
+      "not knee length",
+      "not custom"
+    ],
+    "keywords": [
+      "compression stockings",
+      "thigh length",
+      "full length",
+      "15-19 mmHg",
+      "mild compression"
+    ],
+    "benefit_group": "Medical Items - Compression Stockings"
+  },
+  {
+    "category": "Compression Stockings, thigh/full (20-29 mmhg)",
+    "description": "Thigh-length or full-length compression stockings with 20-29 mmHg pressure (moderate compression). Off-the-shelf stockings extending to the thigh or waist. Used for moderate varicose veins, post-surgical edema, DVT prevention, and lymphedema management in the full leg.",
+    "synonyms": [
+      "thigh high compression stockings 20-30",
+      "full length compression hose moderate",
+      "thigh compression stockings moderate",
+      "pantyhose compression firm"
+    ],
+    "benefit_type": "Medical Items and Services - Compression Stockings",
+    "confusable_group": "Compression Stockings",
+    "disambiguation_attributes": [
+      "thigh or full length",
+      "20-29 mmHg pressure",
+      "moderate compression",
+      "not knee length",
+      "not custom"
+    ],
+    "keywords": [
+      "compression stockings",
+      "thigh length",
+      "full length",
+      "20-29 mmHg",
+      "moderate compression",
+      "DVT"
+    ],
+    "benefit_group": "Medical Items - Compression Stockings"
+  },
+  {
+    "category": "Compression Stockings, thigh/full (30 mmhg & over)",
+    "description": "Thigh-length or full-length compression stockings with 30 mmHg or higher pressure (firm to extra-firm compression). Off-the-shelf stockings extending to the thigh or waist. Used for severe venous insufficiency, severe lymphedema, active venous ulcers, and post-thrombotic syndrome in the full leg.",
+    "synonyms": [
+      "thigh high compression stockings 30+",
+      "full length compression hose firm",
+      "strong thigh compression stockings",
+      "medical grade full compression"
+    ],
+    "benefit_type": "Medical Items and Services - Compression Stockings",
+    "confusable_group": "Compression Stockings",
+    "disambiguation_attributes": [
+      "thigh or full length",
+      "30 mmHg or higher pressure",
+      "firm/extra-firm compression",
+      "not knee length",
+      "not custom"
+    ],
+    "keywords": [
+      "compression stockings",
+      "thigh length",
+      "full length",
+      "30 mmHg",
+      "firm compression",
+      "severe venous"
+    ],
+    "benefit_group": "Medical Items - Compression Stockings"
+  },
+  {
+    "category": "CPAP, APAP, BIPAP Machine",
+    "description": "A CPAP (Continuous Positive Airway Pressure), APAP (Automatic Positive Airway Pressure), or BIPAP (Bilevel Positive Airway Pressure) machine for treating sleep apnea. The machine itself delivers pressurized air through a mask to keep airways open during sleep. This is for the machine/device only, not the mask or other supplies.",
+    "synonyms": [
+      "CPAP machine",
+      "sleep apnea machine",
+      "BIPAP machine",
+      "APAP machine",
+      "positive airway pressure device",
+      "breathing machine for sleep"
+    ],
+    "benefit_type": "Medical Items and Services - Respiratory Equipment",
+    "confusable_group": "CPAP/APAP/BIPAP",
+    "disambiguation_attributes": [
+      "the machine/device itself",
+      "not the mask",
+      "not supplies or accessories"
+    ],
+    "keywords": [
+      "CPAP",
+      "APAP",
+      "BIPAP",
+      "sleep apnea",
+      "positive airway pressure",
+      "machine"
+    ],
+    "benefit_group": "Medical Items - Respiratory Equipment"
+  },
+  {
+    "category": "CPAP, APAP, BIPAP Mask",
+    "description": "A mask for CPAP, APAP, or BIPAP machine used in sleep apnea treatment. The mask fits over the nose, mouth, or both and connects to the machine via tubing. Types include nasal mask, full face mask, and nasal pillow mask. This is specifically for the mask component, not the machine or other supplies.",
+    "synonyms": [
+      "CPAP mask",
+      "sleep apnea mask",
+      "BIPAP mask",
+      "nasal mask CPAP",
+      "full face mask CPAP",
+      "nasal pillow"
+    ],
+    "benefit_type": "Medical Items and Services - Respiratory Equipment",
+    "confusable_group": "CPAP/APAP/BIPAP",
+    "disambiguation_attributes": [
+      "the mask only",
+      "not the machine",
+      "not other supplies like tubing or filters"
+    ],
+    "keywords": [
+      "CPAP mask",
+      "BIPAP mask",
+      "sleep apnea mask",
+      "nasal mask",
+      "full face mask"
+    ],
+    "benefit_group": "Medical Items - Respiratory Equipment"
+  },
+  {
+    "category": "CPAP, APAP, BIPAP Supplies",
+    "description": "Supplies and accessories for CPAP, APAP, or BIPAP machines, excluding the machine and mask themselves. Includes tubing, filters, humidifier chambers, chin straps, headgear, water chambers, and replacement parts. These consumable items need regular replacement for proper machine function and hygiene.",
+    "synonyms": [
+      "CPAP supplies",
+      "CPAP accessories",
+      "BIPAP supplies",
+      "sleep apnea supplies",
+      "CPAP tubing",
+      "CPAP filters",
+      "CPAP replacement parts"
+    ],
+    "benefit_type": "Medical Items and Services - Respiratory Equipment",
+    "confusable_group": "CPAP/APAP/BIPAP",
+    "disambiguation_attributes": [
+      "supplies and accessories only",
+      "not the machine",
+      "not the mask",
+      "tubing, filters, etc."
+    ],
+    "keywords": [
+      "CPAP supplies",
+      "tubing",
+      "filters",
+      "accessories",
+      "replacement parts",
+      "sleep apnea supplies"
+    ],
+    "benefit_group": "Medical Items - Respiratory Equipment"
+  },
+  {
+    "category": "Crutches, pair",
+    "description": "A pair of standard underarm (axillary) crutches for mobility assistance after lower limb injury or surgery. Traditional crutches that go under the armpits with hand grips. Used for fractures, sprains, post-surgical recovery, or other conditions requiring non-weight-bearing or partial weight-bearing on a leg. This is for a standard pair, not forearm crutches.",
+    "synonyms": [
+      "underarm crutches",
+      "axillary crutches",
+      "walking crutches",
+      "standard crutches",
+      "pair of crutches"
+    ],
+    "benefit_type": "Medical Items and Services - Mobility Aids",
+    "confusable_group": "Crutches",
+    "disambiguation_attributes": [
+      "standard underarm/axillary crutches",
+      "pair (two crutches)",
+      "not forearm/elbow crutches"
+    ],
+    "keywords": [
+      "crutches",
+      "underarm",
+      "axillary",
+      "mobility aid",
+      "fracture",
+      "walking support"
+    ],
+    "benefit_group": "Medical Items - Mobility Aids"
+  },
+  {
+    "category": "Custom made foot orthotics",
+    "description": "Custom-made orthotic insoles or inserts for shoes, individually designed and manufactured based on a cast, mold, or 3D scan of the patient's feet. Prescribed by a podiatrist, chiropodist, or other qualified practitioner for conditions like plantar fasciitis, flat feet, high arches, overpronation, or diabetic foot care. More expensive than standard inserts but tailored to individual biomechanical needs.",
+    "synonyms": [
+      "custom orthotics",
+      "custom insoles",
+      "prescription orthotics",
+      "custom shoe inserts",
+      "custom arch supports",
+      "molded orthotics"
+    ],
+    "benefit_type": "Professional Services - Foot Care",
+    "confusable_group": "Foot Care",
+    "disambiguation_attributes": [
+      "custom-made from a mold/cast/scan",
+      "not off-the-shelf",
+      "orthotic insoles not shoes"
+    ],
+    "keywords": [
+      "custom orthotics",
+      "foot orthotics",
+      "insoles",
+      "plantar fasciitis",
+      "flat feet",
+      "arch support"
+    ],
+    "benefit_group": "Professional Services - Foot Care"
+  },
+  {
+    "category": "Dental Accident",
+    "description": "Dental treatment for teeth damaged in an accident - specifically a direct blow to the mouth that damages natural teeth. Covers emergency dental care, repair, or replacement of natural teeth injured in an accident. Must notify GreenShield immediately after the accident. Treatment must begin within 180 days. Does not cover damage from biting on objects.",
+    "synonyms": [
+      "dental injury",
+      "tooth accident",
+      "broken tooth from accident",
+      "knocked out tooth",
+      "dental trauma",
+      "emergency dental accident"
+    ],
+    "benefit_type": "Accidental Dental",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "accidental injury to teeth only",
+      "not routine dental",
+      "direct blow to mouth"
+    ],
+    "keywords": [
+      "dental accident",
+      "tooth injury",
+      "dental trauma",
+      "broken tooth",
+      "emergency dental"
+    ],
+    "benefit_group": "Dental"
+  },
+  {
+    "category": "Dental Estimate for Services",
+    "description": "A pre-treatment dental estimate or predetermination submitted to GreenShield before dental work is done. Used to confirm coverage and expected reimbursement amount before committing to expensive dental procedures. The dentist prepares an estimate of proposed treatment and costs, which is submitted for approval. Recommended for procedures over a certain cost threshold.",
+    "synonyms": [
+      "dental predetermination",
+      "dental pre-estimate",
+      "dental treatment estimate",
+      "dental pre-approval",
+      "dental cost estimate"
+    ],
+    "benefit_type": "Dental Services",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "pre-treatment estimate only",
+      "not actual dental treatment"
+    ],
+    "keywords": [
+      "dental estimate",
+      "predetermination",
+      "pre-approval",
+      "dental cost",
+      "treatment plan"
+    ],
+    "benefit_group": "Dental"
+  },
+  {
+    "category": "Dental Services",
+    "description": "General dental services including routine exams, cleanings, fillings, extractions, X-rays, and other basic to comprehensive dental treatments. This is the catch-all category for regular dental work not covered by more specific categories. Includes preventive care, basic restorative, oral surgery, and major services as outlined in the dental benefit plan.",
+    "synonyms": [
+      "dentist visit",
+      "dental cleaning",
+      "dental checkup",
+      "filling",
+      "tooth extraction",
+      "dental appointment",
+      "teeth cleaning",
+      "dental work"
+    ],
+    "benefit_type": "Dental Services",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "general dental treatment",
+      "not accidental dental",
+      "not orthodontic"
+    ],
+    "keywords": [
+      "dental",
+      "dentist",
+      "cleaning",
+      "filling",
+      "extraction",
+      "X-ray",
+      "checkup"
+    ],
+    "benefit_group": "Dental"
+  },
+  {
+    "category": "Diagnostic Vision Test",
+    "description": "A diagnostic vision test beyond a standard eye exam. Includes specialized testing such as visual field testing, optical coherence tomography (OCT), retinal imaging, corneal topography, or other diagnostic procedures to investigate eye diseases or conditions. Different from a routine eye exam which is for prescription updates.",
+    "synonyms": [
+      "vision diagnostic test",
+      "eye diagnostic",
+      "visual field test",
+      "OCT scan",
+      "retinal scan",
+      "eye disease test"
+    ],
+    "benefit_type": "Vision",
+    "confusable_group": "Vision",
+    "disambiguation_attributes": [
+      "diagnostic test for eye conditions",
+      "not routine eye exam for glasses prescription",
+      "specialized testing"
+    ],
+    "keywords": [
+      "diagnostic vision",
+      "visual field",
+      "OCT",
+      "retinal imaging",
+      "eye disease",
+      "diagnostic"
+    ],
+    "benefit_group": "Vision"
+  },
+  {
+    "category": "Dietitian Services",
+    "description": "Nutritional counselling and dietary planning services provided by a registered dietitian (RD). Includes meal planning, nutritional assessment, dietary management for medical conditions like diabetes, celiac disease, food allergies, eating disorders, or weight management. Dietitians are regulated healthcare professionals different from nutritionists.",
+    "synonyms": [
+      "dietitian",
+      "nutritionist",
+      "registered dietitian",
+      "dietary counselling",
+      "nutrition consultation",
+      "meal planning",
+      "RD visit"
+    ],
+    "benefit_type": "Professional Services - Allied Health",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "dietitian",
+      "nutrition",
+      "dietary",
+      "meal planning",
+      "food allergy",
+      "diabetes diet"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Digital Cognitive Behavioural Therapy",
+    "description": "Online or app-based cognitive behavioural therapy (CBT) programs. Digital mental health treatment that provides structured CBT techniques through a digital platform, often with therapist support. Used for anxiety, depression, insomnia, and other mental health conditions. Examples include programs like MindBeacon, BEACON, or similar digital CBT platforms.",
+    "synonyms": [
+      "digital CBT",
+      "online CBT",
+      "app-based therapy",
+      "internet CBT",
+      "iCBT",
+      "digital therapy program",
+      "e-therapy CBT"
+    ],
+    "benefit_type": "Professional Services Group B",
+    "confusable_group": "Mental Health",
+    "disambiguation_attributes": [
+      "digital/online platform",
+      "not in-person therapy",
+      "structured CBT program via app or website"
+    ],
+    "keywords": [
+      "digital CBT",
+      "cognitive behavioural therapy",
+      "online therapy",
+      "mental health app",
+      "iCBT"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Drug",
+    "description": "Prescription drugs and medications prescribed by a physician or dentist. Covers medications that legally require a prescription and have a Drug Identification Number (DIN). Includes most prescribed medications, insulin, diabetic supplies, and some vaccines. Uses the Pay Direct Drug Card. Generic substitution is enforced unless the physician specifies no substitution.",
+    "synonyms": [
+      "prescription medication",
+      "prescription drug",
+      "medication",
+      "medicine",
+      "pharmacy prescription",
+      "Rx",
+      "prescribed medicine"
+    ],
+    "benefit_type": "Prescription Drugs",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "drug",
+      "prescription",
+      "medication",
+      "pharmacy",
+      "DIN",
+      "medicine",
+      "Rx"
+    ],
+    "benefit_group": "Prescription Drugs"
+  },
+  {
+    "category": "Ear Plugs (custom made)",
+    "description": "Custom-made ear plugs molded to fit the individual's ear canal. Made from impressions taken of the ears for a precise fit. Used for noise protection, swimming protection, sleep, musician ear plugs, or industrial noise environments. Different from off-the-shelf disposable ear plugs. Must be custom-made to qualify.",
+    "synonyms": [
+      "custom ear plugs",
+      "molded ear plugs",
+      "custom ear molds",
+      "noise protection ear plugs",
+      "swimming ear plugs custom",
+      "musician ear plugs"
+    ],
+    "benefit_type": "Professional Services - Hearing",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "must be custom-made",
+      "not off-the-shelf"
+    ],
+    "keywords": [
+      "ear plugs",
+      "custom",
+      "hearing protection",
+      "noise protection",
+      "ear molds"
+    ],
+    "benefit_group": "Professional Services - Hearing"
+  },
+  {
+    "category": "Estimate/Pre-Authorization",
+    "description": "A pre-authorization or estimate request submitted to GreenShield before receiving medical treatment or purchasing medical equipment. Used to confirm coverage eligibility and expected reimbursement before incurring costs. Required for certain expensive items like wheelchairs, hearing aids, or specific treatments. Different from dental estimate which is specific to dental procedures.",
+    "synonyms": [
+      "pre-authorization",
+      "pre-approval",
+      "medical estimate",
+      "coverage estimate",
+      "pre-auth request",
+      "prior authorization"
+    ],
+    "benefit_type": "General - Administrative",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "general medical pre-authorization",
+      "not dental-specific estimate"
+    ],
+    "keywords": [
+      "estimate",
+      "pre-authorization",
+      "pre-approval",
+      "coverage",
+      "eligibility"
+    ],
+    "benefit_group": "Administrative"
+  },
+  {
+    "category": "Eye Exam",
+    "description": "A routine optometric eye examination to assess vision and check for eye health conditions. Includes refraction test for glasses/contact lens prescription, eye pressure measurement, and general eye health screening. Performed by an optometrist. Covered only in provinces where not covered by the provincial health plan. One exam every 2 years.",
+    "synonyms": [
+      "optometrist visit",
+      "eye test",
+      "vision exam",
+      "eye checkup",
+      "optometry exam",
+      "glasses prescription exam",
+      "eye appointment"
+    ],
+    "benefit_type": "Vision",
+    "confusable_group": "Vision",
+    "disambiguation_attributes": [
+      "routine eye exam by optometrist",
+      "for glasses/contacts prescription",
+      "not diagnostic vision test for eye diseases"
+    ],
+    "keywords": [
+      "eye exam",
+      "optometrist",
+      "vision test",
+      "glasses prescription",
+      "refraction"
+    ],
+    "benefit_group": "Vision"
+  },
+  {
+    "category": "Forearm Crutch (purchase)",
+    "description": "Purchase of a forearm crutch (also called elbow crutch or Lofstrand crutch). A crutch with a forearm cuff and hand grip, providing more stability and control than standard underarm crutches. Often used for long-term mobility needs, chronic conditions, or when upper body strength is limited. Different from standard underarm crutches.",
+    "synonyms": [
+      "elbow crutch",
+      "Lofstrand crutch",
+      "forearm walking crutch",
+      "Canadian crutch",
+      "arm cuff crutch"
+    ],
+    "benefit_type": "Medical Items and Services - Mobility Aids",
+    "confusable_group": "Crutches",
+    "disambiguation_attributes": [
+      "forearm/elbow style crutch",
+      "not standard underarm crutch",
+      "has forearm cuff"
+    ],
+    "keywords": [
+      "forearm crutch",
+      "elbow crutch",
+      "Lofstrand",
+      "mobility aid",
+      "crutch"
+    ],
+    "benefit_group": "Medical Items - Mobility Aids"
+  },
+  {
+    "category": "Glucose Monitoring System Receiver",
+    "description": "The receiver device for a continuous glucose monitoring (CGM) system. This is the handheld display unit that receives data from the transmitter and shows real-time glucose readings. Part of a CGM system like Dexcom or Freestyle Libre. This is only the receiver/reader, not the transmitter or sensors.",
+    "synonyms": [
+      "CGM receiver",
+      "glucose reader",
+      "Dexcom receiver",
+      "Freestyle Libre reader",
+      "continuous glucose monitor receiver",
+      "glucose display device"
+    ],
+    "benefit_type": "Medical Items and Services - Diabetic Supplies",
+    "confusable_group": "Glucose Monitoring",
+    "disambiguation_attributes": [
+      "receiver/reader device only",
+      "not the transmitter",
+      "not sensors/supplies",
+      "not traditional glucometer"
+    ],
+    "keywords": [
+      "glucose monitoring",
+      "CGM receiver",
+      "Dexcom",
+      "Freestyle Libre",
+      "reader",
+      "continuous monitoring"
+    ],
+    "benefit_group": "Medical Items - Diabetic Supplies"
+  },
+  {
+    "category": "Glucose Monitoring System Supplies/Sensors",
+    "description": "Supplies and sensors for a continuous glucose monitoring (CGM) system. Includes disposable sensor patches that are applied to the skin, adhesive patches, and other consumable supplies. These need regular replacement (typically every 7-14 days for sensors). Not the receiver or transmitter devices themselves.",
+    "synonyms": [
+      "CGM sensors",
+      "glucose sensors",
+      "Dexcom sensors",
+      "Freestyle Libre sensors",
+      "CGM patches",
+      "continuous glucose supplies"
+    ],
+    "benefit_type": "Medical Items and Services - Diabetic Supplies",
+    "confusable_group": "Glucose Monitoring",
+    "disambiguation_attributes": [
+      "consumable sensors and supplies",
+      "not the receiver device",
+      "not the transmitter",
+      "disposable items needing regular replacement"
+    ],
+    "keywords": [
+      "glucose sensors",
+      "CGM supplies",
+      "sensor patches",
+      "Dexcom sensor",
+      "Freestyle Libre sensor",
+      "disposable"
+    ],
+    "benefit_group": "Medical Items - Diabetic Supplies"
+  },
+  {
+    "category": "Glucose Monitoring System Transmitter",
+    "description": "The transmitter component of a continuous glucose monitoring (CGM) system. This small device attaches to the sensor on the body and wirelessly sends glucose data to the receiver or smartphone. Part of a CGM system like Dexcom. Transmitters typically last several months before needing replacement. This is only the transmitter, not the receiver or sensors.",
+    "synonyms": [
+      "CGM transmitter",
+      "Dexcom transmitter",
+      "glucose transmitter",
+      "wireless glucose transmitter",
+      "CGM wireless sender"
+    ],
+    "benefit_type": "Medical Items and Services - Diabetic Supplies",
+    "confusable_group": "Glucose Monitoring",
+    "disambiguation_attributes": [
+      "transmitter device only",
+      "not the receiver/reader",
+      "not sensors/supplies",
+      "sends data wirelessly from sensor to receiver"
+    ],
+    "keywords": [
+      "glucose transmitter",
+      "CGM transmitter",
+      "Dexcom transmitter",
+      "wireless",
+      "continuous monitoring"
+    ],
+    "benefit_group": "Medical Items - Diabetic Supplies"
+  },
+  {
+    "category": "Grab Bar/Bath Bar - permanent fixtures (purchase)",
+    "description": "Purchase of grab bars or bath bars that are permanently installed as safety fixtures. Metal or plastic bars mounted to bathroom walls near the toilet, bathtub, or shower for support and fall prevention. Used by individuals with mobility challenges, balance issues, or elderly care. These are permanent fixtures requiring installation, not portable devices.",
+    "synonyms": [
+      "grab bar",
+      "safety bar",
+      "bathroom grab bar",
+      "shower grab bar",
+      "toilet grab bar",
+      "support bar",
+      "bath safety rail"
+    ],
+    "benefit_type": "Medical Items and Services - Aids for Daily Living",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "permanent fixture",
+      "requires installation"
+    ],
+    "keywords": [
+      "grab bar",
+      "bath bar",
+      "safety",
+      "fall prevention",
+      "bathroom",
+      "permanent fixture"
+    ],
+    "benefit_group": "Medical Items - Aids for Daily Living"
+  },
+  {
+    "category": "Hearing Aids",
+    "description": "Hearing aid devices that amplify sound for individuals with hearing loss. Electronic devices worn in or behind the ear that make sounds louder and clearer. Includes behind-the-ear (BTE), in-the-ear (ITE), receiver-in-canal (RIC), and completely-in-canal (CIC) types. Requires audiologist assessment and fitting. Significant purchase typically requiring pre-authorization.",
+    "synonyms": [
+      "hearing device",
+      "hearing amplifier",
+      "ear hearing aid",
+      "BTE hearing aid",
+      "digital hearing aid",
+      "hearing aid pair"
+    ],
+    "benefit_type": "Professional Services - Hearing",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "hearing aid",
+      "hearing loss",
+      "amplification",
+      "audiologist",
+      "BTE",
+      "RIC"
+    ],
+    "benefit_group": "Professional Services - Hearing"
+  },
+  {
+    "category": "Heat Therapy - Re-usable items (purchase)",
+    "description": "Purchase of reusable heat therapy items for pain management and muscle relaxation. Includes reusable heat packs, heating pads, microwaveable heat wraps, hot water bottles, and similar devices. Used for muscle stiffness, chronic pain, menstrual cramps, arthritis, and muscle spasm relief. Must be reusable, not single-use disposable products.",
+    "synonyms": [
+      "heating pad",
+      "heat pack",
+      "hot water bottle",
+      "reusable heat wrap",
+      "microwave heat pack",
+      "thermal therapy pad"
+    ],
+    "benefit_type": "Medical Items and Services",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "heat therapy",
+      "heating pad",
+      "hot pack",
+      "reusable",
+      "muscle pain",
+      "pain relief"
+    ],
+    "benefit_group": "Medical Items - Other"
+  },
+  {
+    "category": "Homeopathic Treatment",
+    "description": "Treatment by a licensed homeopath or homeopathic practitioner. Homeopathy is an alternative medicine system that uses highly diluted substances to trigger the body's natural healing response. Used for various conditions including allergies, chronic fatigue, digestive issues, and skin conditions. Must be a registered homeopathic practitioner.",
+    "synonyms": [
+      "homeopath",
+      "homeopathy",
+      "homeopathic medicine",
+      "homeopathic consultation",
+      "homeopathic remedy",
+      "homeopath visit"
+    ],
+    "benefit_type": "Professional Services - Allied Health",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "homeopathy",
+      "homeopath",
+      "alternative medicine",
+      "natural healing",
+      "homeopathic"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Hospital (within your province)",
+    "description": "Hospital accommodation charges within your province of residence. Covers semi-private room charges in a public hospital. Includes stays in general, convalescent, rehabilitation, or chronic hospitals. Coverage is 50% co-pay for up to 5 days per disability. This is for the room charges, not for procedures or treatments.",
+    "synonyms": [
+      "hospital stay",
+      "hospital room",
+      "hospital admission",
+      "semi-private room",
+      "hospital accommodation",
+      "inpatient stay"
+    ],
+    "benefit_type": "Hospital",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "within your province only",
+      "room accommodation charges",
+      "not out-of-province"
+    ],
+    "keywords": [
+      "hospital",
+      "semi-private",
+      "admission",
+      "inpatient",
+      "room charges",
+      "hospital stay"
+    ],
+    "benefit_group": "Hospital"
+  },
+  {
+    "category": "Humidifier (Table Top)",
+    "description": "A table-top humidifier for medical use, adding moisture to indoor air. Used for respiratory conditions like dry cough, sinus congestion, nosebleeds from dry air, and to complement CPAP therapy. A compact unit designed for bedside or desk use, not a whole-house system. May be recommended for patients with chronic respiratory conditions.",
+    "synonyms": [
+      "room humidifier",
+      "bedside humidifier",
+      "desktop humidifier",
+      "cool mist humidifier",
+      "warm mist humidifier",
+      "medical humidifier"
+    ],
+    "benefit_type": "Medical Items and Services - Respiratory Equipment",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "table-top size",
+      "not whole-house unit"
+    ],
+    "keywords": [
+      "humidifier",
+      "table top",
+      "respiratory",
+      "dry air",
+      "moisture",
+      "sinus"
+    ],
+    "benefit_group": "Medical Items - Respiratory Equipment"
+  },
+  {
+    "category": "In Home Support Services",
+    "description": "Home care and support services provided in the patient's home. Includes registered nursing care, personal care assistance, and health support services delivered at home rather than in a healthcare facility. For patients recovering from surgery, managing chronic conditions, or requiring ongoing medical care at home. Requires pre-authorization from a physician.",
+    "synonyms": [
+      "home care",
+      "home nursing",
+      "home health aide",
+      "in-home care",
+      "home support",
+      "visiting nurse",
+      "home health services"
+    ],
+    "benefit_type": "Private Duty Nursing in the Home",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "home care",
+      "in-home support",
+      "nursing at home",
+      "home health",
+      "personal care"
+    ],
+    "benefit_group": "Private Duty Nursing"
+  },
+  {
+    "category": "Incontinence Supplies",
+    "description": "Medical supplies for managing urinary or fecal incontinence. Includes adult diapers, incontinence pads, protective underwear, bed pads, catheter supplies, and related products. Used by individuals with bladder control issues due to medical conditions, post-surgery, aging, or neurological conditions.",
+    "synonyms": [
+      "adult diapers",
+      "incontinence pads",
+      "bladder control products",
+      "protective underwear",
+      "incontinence products",
+      "catheter supplies"
+    ],
+    "benefit_type": "Medical Items and Services - Incontinence/Ostomy",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "incontinence",
+      "adult diapers",
+      "bladder control",
+      "catheter",
+      "pads",
+      "protective underwear"
+    ],
+    "benefit_group": "Medical Items - Incontinence/Ostomy"
+  },
+  {
+    "category": "Insulin Gun (automatic)",
+    "description": "An automatic insulin injection device (insulin pen with automatic injection mechanism). Automatically inserts the needle and delivers insulin with the push of a button, making self-injection easier. Used by diabetic patients who have difficulty with manual injection. Different from manual insulin pens and insulin pumps.",
+    "synonyms": [
+      "automatic insulin pen",
+      "auto-inject insulin",
+      "insulin auto-injector",
+      "automatic insulin injector",
+      "spring-loaded insulin pen"
+    ],
+    "benefit_type": "Medical Items and Services - Diabetic Supplies",
+    "confusable_group": "Insulin",
+    "disambiguation_attributes": [
+      "automatic injection mechanism",
+      "not manual",
+      "not an insulin pump"
+    ],
+    "keywords": [
+      "insulin gun",
+      "automatic",
+      "injection",
+      "diabetes",
+      "auto-injector"
+    ],
+    "benefit_group": "Medical Items - Diabetic Supplies"
+  },
+  {
+    "category": "Insulin Gun (manual)",
+    "description": "A manual insulin injection device or pen. The user manually pushes the plunger or dial to inject insulin. Standard insulin pens like NovoPen or similar devices. Used by diabetic patients for daily insulin injections. Requires manual operation unlike automatic insulin guns.",
+    "synonyms": [
+      "manual insulin pen",
+      "insulin pen",
+      "insulin syringe device",
+      "manual insulin injector",
+      "NovoPen"
+    ],
+    "benefit_type": "Medical Items and Services - Diabetic Supplies",
+    "confusable_group": "Insulin",
+    "disambiguation_attributes": [
+      "manual operation",
+      "not automatic",
+      "not an insulin pump"
+    ],
+    "keywords": [
+      "insulin gun",
+      "manual",
+      "insulin pen",
+      "injection",
+      "diabetes"
+    ],
+    "benefit_group": "Medical Items - Diabetic Supplies"
+  },
+  {
+    "category": "Insulin infusion pump",
+    "description": "An insulin infusion pump - a small electronic device that delivers continuous insulin through a thin tube (cannula) inserted under the skin. Provides both basal (continuous) and bolus (mealtime) insulin delivery. Used by Type 1 diabetic patients or Type 2 patients requiring intensive insulin therapy. A significant medical device different from injection pens.",
+    "synonyms": [
+      "insulin pump",
+      "continuous insulin pump",
+      "diabetes pump",
+      "Omnipod",
+      "Medtronic pump",
+      "insulin delivery pump"
+    ],
+    "benefit_type": "Medical Items and Services - Diabetic Supplies",
+    "confusable_group": "Insulin",
+    "disambiguation_attributes": [
+      "continuous infusion pump",
+      "not injection pen or gun",
+      "delivers insulin continuously through cannula"
+    ],
+    "keywords": [
+      "insulin pump",
+      "infusion",
+      "continuous delivery",
+      "diabetes",
+      "Type 1",
+      "basal"
+    ],
+    "benefit_group": "Medical Items - Diabetic Supplies"
+  },
+  {
+    "category": "Insulin infusion pump supplies",
+    "description": "Consumable supplies for an insulin infusion pump. Includes infusion sets (tubing and cannula), reservoirs/cartridges, insertion devices, adhesive patches, and other consumables needed to operate an insulin pump. These supplies need regular replacement, typically every 2-3 days for infusion sets.",
+    "synonyms": [
+      "pump supplies",
+      "infusion set",
+      "insulin pump cartridges",
+      "pump tubing",
+      "cannula supplies",
+      "insulin pump consumables"
+    ],
+    "benefit_type": "Medical Items and Services - Diabetic Supplies",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "supplies for the pump",
+      "not the pump itself"
+    ],
+    "keywords": [
+      "insulin pump supplies",
+      "infusion set",
+      "cartridge",
+      "tubing",
+      "cannula",
+      "consumable"
+    ],
+    "benefit_group": "Medical Items - Diabetic Supplies"
+  },
+  {
+    "category": "Insulin Pen Injector",
+    "description": "An insulin pen injector device used for administering insulin. A pen-shaped device that holds an insulin cartridge and allows precise dosing. Commonly used devices include reusable pens (where cartridges are replaced) and disposable pre-filled pens. This is the pen device itself, for general insulin pen claims.",
+    "synonyms": [
+      "insulin pen",
+      "pen injector",
+      "reusable insulin pen",
+      "disposable insulin pen",
+      "insulin pen device"
+    ],
+    "benefit_type": "Medical Items and Services - Diabetic Supplies",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "insulin pen",
+      "injector",
+      "pen device",
+      "diabetes",
+      "insulin delivery"
+    ],
+    "benefit_group": "Medical Items - Diabetic Supplies"
+  },
+  {
+    "category": "IV Stand (purchase)",
+    "description": "Purchase of an intravenous (IV) stand or pole for home use. A wheeled stand that holds IV fluid bags at the proper height for gravity-fed intravenous infusion. Used by patients receiving IV medications, fluids, or nutrition at home. Part of aids for daily living for home care patients.",
+    "synonyms": [
+      "IV pole",
+      "drip stand",
+      "intravenous stand",
+      "IV drip pole",
+      "saline stand"
+    ],
+    "benefit_type": "Medical Items and Services - Aids for Daily Living",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "IV stand",
+      "intravenous",
+      "drip stand",
+      "home care",
+      "infusion"
+    ],
+    "benefit_group": "Medical Items - Aids for Daily Living"
+  },
+  {
+    "category": "Lancet",
+    "description": "Lancets used with a lancing device for blood glucose testing. Small disposable needles that prick the finger to obtain a blood sample for glucose monitoring. Essential supply for diabetic patients who test their blood sugar regularly. Used with a spring-loaded lancing device for quick, relatively painless finger pricks.",
+    "synonyms": [
+      "lancets",
+      "finger pricker",
+      "blood lancet",
+      "lancing device needles",
+      "glucose test needles",
+      "diabetic lancets"
+    ],
+    "benefit_type": "Medical Items and Services - Diabetic Supplies",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "lancet",
+      "finger prick",
+      "blood glucose",
+      "diabetes",
+      "testing",
+      "disposable needle"
+    ],
+    "benefit_group": "Medical Items - Diabetic Supplies"
+  },
+  {
+    "category": "Mammogram",
+    "description": "A mammogram - an X-ray examination of the breast used to screen for or diagnose breast cancer. Can be a screening mammogram (routine) or a diagnostic mammogram (to investigate a lump or abnormality). Performed at a radiology clinic or hospital. Recommended for women over 40 or those with higher risk factors.",
+    "synonyms": [
+      "breast X-ray",
+      "breast screening",
+      "mammography",
+      "breast cancer screening",
+      "breast exam imaging"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "mammogram",
+      "breast cancer",
+      "screening",
+      "X-ray",
+      "mammography",
+      "breast imaging"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Massage",
+    "description": "Massage therapy treatment by a registered massage therapist (RMT). Includes therapeutic massage for pain management, muscle tension, stress relief, injury rehabilitation, and overall wellness. Common types include deep tissue, Swedish, sports massage, and myofascial release. One of the most frequently claimed services by students. Requires treatment by a licensed RMT.",
+    "synonyms": [
+      "massage therapy",
+      "RMT",
+      "registered massage therapist",
+      "therapeutic massage",
+      "deep tissue massage",
+      "sports massage",
+      "massage treatment"
+    ],
+    "benefit_type": "Professional Services Group A",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "massage",
+      "RMT",
+      "massage therapy",
+      "muscle tension",
+      "pain relief",
+      "deep tissue"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Mastectomy bra",
+    "description": "A specialized bra designed for individuals who have had a mastectomy (surgical removal of breast tissue). Features pockets to hold breast prostheses and is designed for comfort and support after breast surgery. Used as part of post-mastectomy recovery and ongoing daily wear. May be considered under prosthetics or medical items.",
+    "synonyms": [
+      "post-mastectomy bra",
+      "prosthesis bra",
+      "breast prosthesis bra",
+      "surgical bra",
+      "post-surgery bra"
+    ],
+    "benefit_type": "Medical Items and Services - Prosthetics",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "mastectomy",
+      "bra",
+      "breast prosthesis",
+      "post-surgery",
+      "breast cancer"
+    ],
+    "benefit_group": "Medical Items - Prosthetics"
+  },
+  {
+    "category": "Medic Alert Bracelet",
+    "description": "A MedicAlert bracelet or necklace that displays critical medical information for emergencies. Engraved with the wearer's medical conditions, allergies, and emergency contact information. Essential for individuals with severe allergies (anaphylaxis), diabetes, epilepsy, heart conditions, or other conditions requiring immediate medical attention in emergencies.",
+    "synonyms": [
+      "MedicAlert ID",
+      "medical ID bracelet",
+      "medical alert jewelry",
+      "medical identification bracelet",
+      "emergency medical bracelet",
+      "allergy bracelet"
+    ],
+    "benefit_type": "Medical Items and Services",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "MedicAlert",
+      "bracelet",
+      "medical ID",
+      "emergency",
+      "allergy alert",
+      "medical identification"
+    ],
+    "benefit_group": "Medical Items - Other"
+  },
+  {
+    "category": "Medical Cannabis",
+    "description": "Medical cannabis (marijuana) prescribed by a physician for medical purposes. Used for conditions like chronic pain, nausea from chemotherapy, multiple sclerosis, epilepsy, and PTSD. Note: Medical cannabis is explicitly listed as NOT covered under the GreenShield prescription drug plan. The category exists in the dropdown but claims will likely be denied.",
+    "synonyms": [
+      "medical marijuana",
+      "cannabis prescription",
+      "prescribed marijuana",
+      "medicinal cannabis",
+      "medical weed"
+    ],
+    "benefit_type": "Prescription Drugs (NOT COVERED)",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "explicitly not covered by the plan"
+    ],
+    "keywords": [
+      "medical cannabis",
+      "marijuana",
+      "prescription cannabis",
+      "not covered"
+    ],
+    "benefit_group": "Prescription Drugs"
+  },
+  {
+    "category": "MRI (Magnetic Resonance Imaging)",
+    "description": "A magnetic resonance imaging (MRI) scan - a diagnostic imaging procedure that uses magnetic fields and radio waves to create detailed images of organs and tissues. Used to diagnose or investigate conditions affecting the brain, spine, joints, abdomen, or other body areas. Often ordered when more detail than an X-ray or ultrasound can provide is needed. May involve long wait times in the public system, leading patients to seek private MRI.",
+    "synonyms": [
+      "MRI scan",
+      "magnetic resonance imaging",
+      "MRI test",
+      "brain MRI",
+      "spine MRI",
+      "knee MRI",
+      "body scan MRI"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "MRI",
+      "magnetic resonance",
+      "imaging",
+      "diagnostic scan",
+      "brain scan",
+      "joint scan"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Naturopathic Treatment",
+    "description": "Treatment by a licensed naturopathic doctor (ND). Naturopathy uses natural therapies including herbal medicine, nutrition, hydrotherapy, and lifestyle counseling to support the body's healing. Used for digestive issues, hormonal balance, chronic fatigue, skin conditions, and general wellness. Must be a licensed naturopathic practitioner.",
+    "synonyms": [
+      "naturopath",
+      "naturopathic doctor",
+      "ND visit",
+      "naturopathy",
+      "natural medicine",
+      "naturopathic consultation"
+    ],
+    "benefit_type": "Professional Services Group A",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "naturopath",
+      "naturopathic",
+      "natural medicine",
+      "herbal",
+      "holistic health"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Nursing Home and Long Term Care",
+    "description": "Charges related to nursing home residence or long-term care facility. Covers costs associated with residing in a licensed nursing home or long-term care facility for individuals who require ongoing medical care and assistance with daily living. Different from in-home support services. Typically for chronic conditions requiring continuous professional care.",
+    "synonyms": [
+      "nursing home",
+      "long term care",
+      "LTC",
+      "care facility",
+      "nursing facility",
+      "residential care",
+      "long-term care home"
+    ],
+    "benefit_type": "Medical Items and Services",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "nursing home",
+      "long term care",
+      "LTC",
+      "residential care",
+      "chronic care"
+    ],
+    "benefit_group": "Medical Items - Other"
+  },
+  {
+    "category": "Occupational Therapy",
+    "description": "Occupational therapy (OT) services by a registered occupational therapist. Helps patients develop, recover, or maintain daily living and work skills after injury, illness, or disability. Includes assessment and treatment for fine motor skills, adaptive equipment training, workplace ergonomics, and rehabilitation for daily activities like dressing, cooking, and bathing.",
+    "synonyms": [
+      "occupational therapist",
+      "OT",
+      "occupational therapy session",
+      "OT visit",
+      "daily living skills therapy",
+      "rehabilitation therapy"
+    ],
+    "benefit_type": "Professional Services - Allied Health",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "occupational therapy",
+      "OT",
+      "daily living",
+      "rehabilitation",
+      "adaptive",
+      "ergonomics"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Orthodontic Services (Braces - initial and monthly fee)",
+    "description": "Orthodontic treatment services including dental braces, initial consultation and fitting fees, and monthly adjustment fees. Covers the straightening and alignment of teeth using braces, retainers, or other orthodontic appliances. Includes initial assessment, appliance installation, regular adjustments, and retainer fitting. A long-term dental treatment typically spanning 1-3 years.",
+    "synonyms": [
+      "dental braces",
+      "orthodontics",
+      "teeth braces",
+      "orthodontic braces",
+      "braces monthly fee",
+      "teeth straightening",
+      "orthodontist"
+    ],
+    "benefit_type": "Dental Services - Orthodontic",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "orthodontic treatment specifically",
+      "not general dental"
+    ],
+    "keywords": [
+      "orthodontic",
+      "braces",
+      "teeth alignment",
+      "orthodontist",
+      "retainer",
+      "monthly fee"
+    ],
+    "benefit_group": "Dental"
+  },
+  {
+    "category": "Orthopaedic or custom made shoes",
+    "description": "Orthopedic shoes or custom-made shoes designed for medical conditions. Specially constructed footwear for individuals with foot deformities, diabetic foot conditions, severe biomechanical issues, or post-surgical foot care. Custom-made from measurements or casts of the patient's feet. Different from standard shoes with orthotic inserts.",
+    "synonyms": [
+      "orthopedic shoes",
+      "custom shoes",
+      "medical shoes",
+      "therapeutic shoes",
+      "diabetic shoes",
+      "corrective shoes",
+      "special footwear"
+    ],
+    "benefit_type": "Professional Services - Foot Care",
+    "confusable_group": "Foot Care",
+    "disambiguation_attributes": [
+      "complete shoes not just inserts",
+      "orthopedic or custom-made",
+      "not orthotics (insoles)"
+    ],
+    "keywords": [
+      "orthopedic shoes",
+      "custom shoes",
+      "medical footwear",
+      "diabetic shoes",
+      "corrective"
+    ],
+    "benefit_group": "Professional Services - Foot Care"
+  },
+  {
+    "category": "Osteopath",
+    "description": "Treatment by a licensed osteopath or doctor of osteopathic medicine. Osteopathy uses manual therapy techniques including joint manipulation, stretching, and massage to treat musculoskeletal conditions. Focuses on the relationship between the body's structure and function. Used for back pain, neck pain, headaches, and joint problems.",
+    "synonyms": [
+      "osteopathy",
+      "osteopathic treatment",
+      "osteopathic manipulation",
+      "DO visit",
+      "osteopath visit",
+      "osteopathic manual therapy"
+    ],
+    "benefit_type": "Professional Services - Allied Health",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "osteopath",
+      "osteopathy",
+      "manual therapy",
+      "musculoskeletal",
+      "joint manipulation"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Ostomy",
+    "description": "Ostomy supplies and equipment for individuals with an ostomy (surgically created opening for waste elimination). Includes ostomy bags/pouches, skin barriers, flanges, adhesives, deodorizers, and related accessories. Used after colostomy, ileostomy, or urostomy surgery. These are ongoing consumable supplies that need regular replacement.",
+    "synonyms": [
+      "ostomy supplies",
+      "colostomy supplies",
+      "ostomy bag",
+      "stoma supplies",
+      "ileostomy supplies",
+      "ostomy pouch",
+      "stoma bag"
+    ],
+    "benefit_type": "Medical Items and Services - Incontinence/Ostomy",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "ostomy",
+      "colostomy",
+      "stoma",
+      "ostomy bag",
+      "ileostomy",
+      "urostomy"
+    ],
+    "benefit_group": "Medical Items - Incontinence/Ostomy"
+  },
+  {
+    "category": "Other emergency services",
+    "description": "Emergency medical services not covered by other specific categories. May include emergency room fees, urgent care visits, emergency medical procedures, or other emergency-related costs not fitting into ambulance or hospital categories. A catch-all for miscellaneous emergency medical expenses.",
+    "synonyms": [
+      "emergency room",
+      "ER visit",
+      "urgent care",
+      "emergency medical services",
+      "emergency treatment"
+    ],
+    "benefit_type": "Emergency Transportation / Medical Items",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "emergency services not in other categories"
+    ],
+    "keywords": [
+      "emergency",
+      "ER",
+      "urgent care",
+      "emergency room",
+      "acute care"
+    ],
+    "benefit_group": "Emergency Transportation"
+  },
+  {
+    "category": "Other foot care services (i.e. orthopedic shoe modification)",
+    "description": "Foot care services not covered by other specific categories, such as orthopedic shoe modifications, heel lifts, metatarsal pads, shoe adjustments for medical conditions, and other specialized foot care. The catch-all for foot-related services that are not treatment (chiropody/podiatry), orthotics, or complete orthopedic shoes.",
+    "synonyms": [
+      "shoe modification",
+      "heel lift",
+      "shoe adjustment",
+      "orthopedic modification",
+      "foot care other",
+      "metatarsal pad"
+    ],
+    "benefit_type": "Professional Services - Foot Care",
+    "confusable_group": "Foot Care",
+    "disambiguation_attributes": [
+      "miscellaneous foot care services",
+      "shoe modifications",
+      "not treatment, not orthotics, not complete shoes"
+    ],
+    "keywords": [
+      "foot care",
+      "shoe modification",
+      "heel lift",
+      "orthopedic modification",
+      "metatarsal"
+    ],
+    "benefit_group": "Professional Services - Foot Care"
+  },
+  {
+    "category": "Other garment brace services (i.e. compression gloves)",
+    "description": "Garment brace services not covered by other specific categories, such as compression gloves, compression arm sleeves, abdominal binders, and other support garments. The catch-all for compression garments and braces that are not compression stockings or standard orthopedic braces.",
+    "synonyms": [
+      "compression gloves",
+      "arm sleeves",
+      "abdominal binder",
+      "support garment",
+      "compression garment",
+      "wrist compression"
+    ],
+    "benefit_type": "Medical Items and Services - Braces and Casts",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "garment-style braces and compression items",
+      "not stockings or standard braces"
+    ],
+    "keywords": [
+      "compression gloves",
+      "garment brace",
+      "support garment",
+      "compression sleeve",
+      "abdominal binder"
+    ],
+    "benefit_group": "Medical Items - Braces and Casts"
+  },
+  {
+    "category": "Other health specialists",
+    "description": "Health specialist services not covered by other specific practitioner categories. A catch-all for visits to licensed health professionals who do not fall into the named categories like chiropractor, physiotherapist, psychologist, etc. May include kinesiologists, reflexologists, or other regulated practitioners.",
+    "synonyms": [
+      "health specialist",
+      "other practitioner",
+      "other therapist",
+      "alternative health professional",
+      "other health professional"
+    ],
+    "benefit_type": "Professional Services",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "practitioners not listed in other specific categories"
+    ],
+    "keywords": [
+      "health specialist",
+      "other practitioner",
+      "alternative health",
+      "specialist"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Other hearing services",
+    "description": "Hearing-related services not covered by other specific hearing categories (audiologist, audiometric exam, hearing aids, custom ear plugs). May include hearing aid repairs, ear mold impressions, assistive listening devices, or other hearing-related professional services.",
+    "synonyms": [
+      "hearing service",
+      "hearing aid repair",
+      "ear mold",
+      "assistive listening",
+      "hearing device service"
+    ],
+    "benefit_type": "Professional Services - Hearing",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "hearing services not in other specific hearing categories"
+    ],
+    "keywords": [
+      "hearing",
+      "hearing aid repair",
+      "ear mold",
+      "assistive listening",
+      "hearing service"
+    ],
+    "benefit_group": "Professional Services - Hearing"
+  },
+  {
+    "category": "Other laboratory and diagnostic tests",
+    "description": "Laboratory and diagnostic tests not covered by other specific test categories (blood tests, MRI, ultrasound, mammogram, etc.). May include CT scans, bone density tests, pulmonary function tests, EEG, ECG, and other medical tests. The catch-all for diagnostic procedures not specifically listed.",
+    "synonyms": [
+      "lab test",
+      "diagnostic test",
+      "medical test",
+      "CT scan",
+      "bone density test",
+      "ECG",
+      "EEG",
+      "blood work other"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "diagnostic tests not in other specific categories"
+    ],
+    "keywords": [
+      "laboratory",
+      "diagnostic",
+      "test",
+      "CT scan",
+      "bone density",
+      "ECG",
+      "EEG"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Other medical items",
+    "description": "Medical items and devices not covered by other specific categories. A catch-all for miscellaneous medical equipment, devices, or supplies that do not fit into named categories. May include thermometers, nebulizers, pulse oximeters, or other health monitoring and treatment devices.",
+    "synonyms": [
+      "medical supplies",
+      "medical equipment",
+      "medical device other",
+      "health supplies",
+      "medical item"
+    ],
+    "benefit_type": "Medical Items and Services",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "medical items not in other specific categories"
+    ],
+    "keywords": [
+      "medical item",
+      "equipment",
+      "device",
+      "supplies",
+      "other"
+    ],
+    "benefit_group": "Medical Items - Other"
+  },
+  {
+    "category": "Other mental health services",
+    "description": "Mental health services not covered by other specific mental health categories (psychologist, psychotherapist, social worker, clinical counsellor, digital CBT). May include art therapy, music therapy, group therapy programs, psychiatric nursing, or other therapeutic mental health services.",
+    "synonyms": [
+      "mental health service",
+      "therapy other",
+      "art therapy",
+      "group therapy",
+      "psychiatric service",
+      "mental health support"
+    ],
+    "benefit_type": "Professional Services Group B",
+    "confusable_group": "Mental Health",
+    "disambiguation_attributes": [
+      "mental health services not in other specific categories"
+    ],
+    "keywords": [
+      "mental health",
+      "therapy",
+      "art therapy",
+      "group therapy",
+      "psychiatric",
+      "counselling other"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Other Orthodontic/Dental Services (i.e. orthodontic records)",
+    "description": "Orthodontic or dental services not covered by other specific dental categories. Includes orthodontic records (X-rays, photographs, impressions taken for orthodontic treatment planning), dental appliances, night guards, mouth guards, and other specialized dental services.",
+    "synonyms": [
+      "orthodontic records",
+      "dental records",
+      "night guard",
+      "mouth guard",
+      "dental appliance",
+      "dental X-ray records"
+    ],
+    "benefit_type": "Dental Services",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "specialized dental/orthodontic services not in other categories"
+    ],
+    "keywords": [
+      "orthodontic records",
+      "dental appliance",
+      "night guard",
+      "mouth guard",
+      "dental service other"
+    ],
+    "benefit_group": "Dental"
+  },
+  {
+    "category": "Other vision services (i.e. safety glasses)",
+    "description": "Vision-related services and products not covered by other specific vision categories (eye exam, prescription glasses, prescription contacts, diagnostic vision test). May include safety glasses with prescription lenses, sports goggles, low vision aids, or other vision-related items and services.",
+    "synonyms": [
+      "safety glasses prescription",
+      "sports goggles",
+      "low vision aid",
+      "vision service other",
+      "protective eyewear"
+    ],
+    "benefit_type": "Vision",
+    "confusable_group": "Vision",
+    "disambiguation_attributes": [
+      "vision items/services not in other specific categories",
+      "includes safety eyewear"
+    ],
+    "keywords": [
+      "vision",
+      "safety glasses",
+      "sports goggles",
+      "low vision",
+      "protective eyewear"
+    ],
+    "benefit_group": "Vision"
+  },
+  {
+    "category": "Peak Flow Meter",
+    "description": "A peak flow meter - a portable device that measures how fast a person can blow air out of their lungs. Used primarily by asthma patients to monitor lung function and detect early signs of an asthma attack. Provides a peak expiratory flow rate (PEFR) reading. A simple, low-cost device for daily home monitoring.",
+    "synonyms": [
+      "peak flow monitor",
+      "asthma peak flow meter",
+      "lung function meter",
+      "PEFR meter",
+      "asthma monitor"
+    ],
+    "benefit_type": "Medical Items and Services - Respiratory Equipment",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "peak flow",
+      "asthma",
+      "lung function",
+      "PEFR",
+      "respiratory monitoring"
+    ],
+    "benefit_group": "Medical Items - Respiratory Equipment"
+  },
+  {
+    "category": "Physiotherapy",
+    "description": "Physiotherapy treatment by a licensed physiotherapist. Includes assessment and treatment of physical conditions through exercise, manual therapy, modalities (ultrasound, electrical stimulation), and education. Used for injury rehabilitation, post-surgical recovery, chronic pain management, sports injuries, and movement disorders. One of the most commonly claimed professional services.",
+    "synonyms": [
+      "physio",
+      "physiotherapist",
+      "physical therapy",
+      "PT",
+      "physio session",
+      "physiotherapy treatment",
+      "rehabilitation"
+    ],
+    "benefit_type": "Professional Services Group A",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "physiotherapy",
+      "physio",
+      "physical therapy",
+      "rehabilitation",
+      "exercise therapy",
+      "manual therapy"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Podiatry Treatment",
+    "description": "Foot care treatment by a licensed podiatrist (doctor of podiatric medicine). Podiatrists can diagnose and treat foot and ankle conditions including bunions, heel pain, plantar fasciitis, ingrown toenails, foot infections, and sports injuries. May include minor surgical procedures. Different from chiropody which focuses on general foot care.",
+    "synonyms": [
+      "podiatrist",
+      "foot doctor",
+      "podiatry visit",
+      "podiatric treatment",
+      "foot specialist doctor"
+    ],
+    "benefit_type": "Professional Services - Foot Care",
+    "confusable_group": "Foot Care",
+    "disambiguation_attributes": [
+      "podiatrist (doctor level)",
+      "may include surgical procedures",
+      "different from chiropodist"
+    ],
+    "keywords": [
+      "podiatry",
+      "podiatrist",
+      "foot doctor",
+      "bunion",
+      "heel pain",
+      "plantar fasciitis"
+    ],
+    "benefit_group": "Professional Services - Foot Care"
+  },
+  {
+    "category": "Prescription Contacts",
+    "description": "Prescription contact lenses for vision correction. Includes soft contact lenses, rigid gas-permeable lenses, toric lenses for astigmatism, multifocal contacts, and medically necessary contact lenses for conditions like keratoconus. Prescribed by an optometrist or ophthalmologist. Coverage of $150 per 24 months combined with prescription glasses.",
+    "synonyms": [
+      "contact lenses",
+      "contacts",
+      "prescription contact lenses",
+      "vision contacts",
+      "soft contacts",
+      "daily contacts",
+      "monthly contacts"
+    ],
+    "benefit_type": "Vision",
+    "confusable_group": "Vision",
+    "disambiguation_attributes": [
+      "contact lenses specifically",
+      "not glasses or sunglasses",
+      "prescription required"
+    ],
+    "keywords": [
+      "contacts",
+      "contact lenses",
+      "prescription",
+      "vision correction",
+      "soft lenses",
+      "keratoconus"
+    ],
+    "benefit_group": "Vision"
+  },
+  {
+    "category": "Prescription Glasses",
+    "description": "Prescription eyeglasses for vision correction. Includes frames and lenses prescribed by an optometrist or ophthalmologist. Covers single vision, bifocal, progressive, and other prescription lens types. Also includes replacement parts for prescription glasses. Coverage of $150 per 24 months combined with prescription contacts.",
+    "synonyms": [
+      "eyeglasses",
+      "glasses",
+      "prescription eyewear",
+      "spectacles",
+      "reading glasses prescription",
+      "bifocals",
+      "progressive lenses"
+    ],
+    "benefit_type": "Vision",
+    "confusable_group": "Vision",
+    "disambiguation_attributes": [
+      "eyeglasses specifically",
+      "not contact lenses",
+      "not safety glasses",
+      "prescription required"
+    ],
+    "keywords": [
+      "glasses",
+      "eyeglasses",
+      "prescription",
+      "lenses",
+      "frames",
+      "vision correction",
+      "bifocal"
+    ],
+    "benefit_group": "Vision"
+  },
+  {
+    "category": "Provincial Replacement Plan",
+    "description": "Coverage or reimbursement related to provincial health insurance plan replacement or coordination. Used when a service is typically covered by the provincial health plan but needs to be claimed through the private insurance instead. May apply when provincial coverage is not available or has been exhausted.",
+    "synonyms": [
+      "provincial plan",
+      "OHIP replacement",
+      "provincial health coverage",
+      "government plan supplement"
+    ],
+    "benefit_type": "General - Administrative",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "provincial plan",
+      "OHIP",
+      "provincial coverage",
+      "replacement",
+      "government plan"
+    ],
+    "benefit_group": "Administrative"
+  },
+  {
+    "category": "PSA Test (Prostate Specific Antigen)",
+    "description": "A PSA blood test that measures the level of prostate-specific antigen in the blood. Used as a screening test for prostate cancer or to monitor prostate health. Elevated PSA levels may indicate prostate cancer, benign prostatic hyperplasia (BPH), or prostatitis. Typically recommended for men over 50 or those with risk factors.",
+    "synonyms": [
+      "prostate test",
+      "PSA blood test",
+      "prostate cancer screening",
+      "prostate specific antigen test",
+      "prostate screening"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "PSA",
+      "prostate",
+      "cancer screening",
+      "blood test",
+      "prostate specific antigen"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Psychologist",
+    "description": "Mental health therapy provided by a registered psychologist (PhD or PsyD). Psychologists provide assessment, diagnosis, and treatment of mental health conditions through various therapeutic approaches including CBT, psychodynamic therapy, and behavioral therapy. Treats anxiety, depression, PTSD, OCD, and other psychological conditions. Higher qualification level than counsellors or psychotherapists.",
+    "synonyms": [
+      "psychology",
+      "psychologist session",
+      "psychological assessment",
+      "therapy with psychologist",
+      "psych appointment"
+    ],
+    "benefit_type": "Professional Services Group B",
+    "confusable_group": "Mental Health",
+    "disambiguation_attributes": [
+      "registered psychologist specifically",
+      "PhD or PsyD level",
+      "not psychiatrist (MD)",
+      "not psychotherapist or counsellor"
+    ],
+    "keywords": [
+      "psychologist",
+      "psychology",
+      "mental health",
+      "therapy",
+      "CBT",
+      "anxiety",
+      "depression",
+      "assessment"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Psychotherapist",
+    "description": "Mental health therapy by a registered psychotherapist. Provides talk therapy and therapeutic interventions for emotional and mental health conditions. Psychotherapists use various therapeutic modalities to help with anxiety, depression, relationship issues, trauma, and personal growth. Different from psychologists (who can do assessments/diagnosis) and counsellors.",
+    "synonyms": [
+      "psychotherapy",
+      "psychotherapist session",
+      "talk therapy",
+      "registered psychotherapist",
+      "therapy session"
+    ],
+    "benefit_type": "Professional Services Group B",
+    "confusable_group": "Mental Health",
+    "disambiguation_attributes": [
+      "registered psychotherapist specifically",
+      "not psychologist",
+      "not social worker or counsellor"
+    ],
+    "keywords": [
+      "psychotherapist",
+      "psychotherapy",
+      "talk therapy",
+      "mental health",
+      "emotional wellness"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Quad Cane (purchase)",
+    "description": "Purchase of a quad cane - a walking cane with a four-footed base for extra stability. Provides more support than a standard single-point cane, standing upright on its own when released. Used by individuals who need significant balance support but do not require a walker. Good for stroke recovery, balance disorders, or significant mobility limitations.",
+    "synonyms": [
+      "four-point cane",
+      "quad base cane",
+      "4-footed cane",
+      "small base quad cane",
+      "large base quad cane",
+      "four-legged cane"
+    ],
+    "benefit_type": "Medical Items and Services - Mobility Aids",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "four-footed base",
+      "not standard single-point cane"
+    ],
+    "keywords": [
+      "quad cane",
+      "four-point",
+      "mobility aid",
+      "balance support",
+      "walking cane"
+    ],
+    "benefit_group": "Medical Items - Mobility Aids"
+  },
+  {
+    "category": "Raised Toilet seat (purchase)",
+    "description": "Purchase of a raised toilet seat that adds height to a standard toilet. Makes sitting down and standing up easier for individuals with hip, knee, or back problems, or those recovering from surgery. May come with handles/armrests for additional support. An aid for daily living that helps maintain independence in the bathroom.",
+    "synonyms": [
+      "toilet riser",
+      "elevated toilet seat",
+      "toilet seat booster",
+      "high toilet seat",
+      "toilet seat raiser"
+    ],
+    "benefit_type": "Medical Items and Services - Aids for Daily Living",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "raised toilet seat",
+      "toilet riser",
+      "elevated",
+      "bathroom aid",
+      "daily living"
+    ],
+    "benefit_group": "Medical Items - Aids for Daily Living"
+  },
+  {
+    "category": "Safety Glasses",
+    "description": "Safety glasses for eye protection, potentially with prescription lenses. Protective eyewear designed to shield eyes from hazards in work, lab, or sports environments. May include prescription safety glasses for those who need vision correction while wearing protective eyewear. Different from regular prescription glasses or sunglasses.",
+    "synonyms": [
+      "protective eyewear",
+      "safety eyeglasses",
+      "lab glasses",
+      "work safety glasses",
+      "prescription safety glasses",
+      "protective goggles"
+    ],
+    "benefit_type": "Vision",
+    "confusable_group": "Vision",
+    "disambiguation_attributes": [
+      "safety/protective purpose",
+      "may have prescription lenses",
+      "for workplace or lab use"
+    ],
+    "keywords": [
+      "safety glasses",
+      "protective eyewear",
+      "lab safety",
+      "prescription safety",
+      "eye protection"
+    ],
+    "benefit_group": "Vision"
+  },
+  {
+    "category": "Scratch Test for Allergies",
+    "description": "A scratch test (skin prick test) for identifying allergies. Small amounts of suspected allergens are placed on the skin (usually the forearm or back), and the skin is lightly scratched. Positive reactions appear as raised bumps. Tests for environmental allergies, food allergies, and other allergens. Different from blood tests for allergies.",
+    "synonyms": [
+      "skin prick test",
+      "allergy scratch test",
+      "skin allergy test",
+      "prick test",
+      "allergy skin test",
+      "allergen skin test"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "skin-based test not blood test",
+      "scratch/prick method"
+    ],
+    "keywords": [
+      "scratch test",
+      "skin prick",
+      "allergy",
+      "allergen",
+      "skin test",
+      "allergy testing"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Screening (for DNA/Genetic purposes)",
+    "description": "Genetic screening or DNA testing for medical purposes. Includes genetic testing to identify inherited conditions, carrier status, or genetic risk factors for diseases. Used for conditions like BRCA gene testing for breast cancer risk, genetic counseling, carrier screening for family planning, or pharmacogenomic testing for medication response.",
+    "synonyms": [
+      "genetic testing",
+      "DNA test",
+      "gene screening",
+      "genetic screening",
+      "BRCA test",
+      "carrier screening",
+      "pharmacogenomics"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "genetic",
+      "DNA",
+      "screening",
+      "BRCA",
+      "carrier",
+      "hereditary",
+      "gene test"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Sleep Study",
+    "description": "A sleep study (polysomnography) to diagnose sleep disorders. Monitors brain activity, eye movements, heart rate, breathing patterns, and oxygen levels during sleep. Used to diagnose sleep apnea, insomnia, narcolepsy, restless leg syndrome, and other sleep disorders. Can be done in a sleep lab (in-lab) or at home (home sleep test).",
+    "synonyms": [
+      "polysomnography",
+      "sleep test",
+      "sleep lab",
+      "sleep clinic",
+      "home sleep test",
+      "PSG",
+      "sleep apnea test"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "sleep study",
+      "polysomnography",
+      "sleep apnea",
+      "sleep disorder",
+      "sleep test",
+      "sleep lab"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Social Worker (Bachelors)",
+    "description": "Mental health services provided by a registered social worker with a Bachelor's degree (BSW). Provides counselling, case management, and support for mental health, relationship, and social issues. A bachelor-level social worker may have different scope of practice than a master-level social worker in some jurisdictions. Part of the mental health practitioner group.",
+    "synonyms": [
+      "BSW social worker",
+      "bachelor social worker",
+      "social worker BSW",
+      "registered social worker bachelors"
+    ],
+    "benefit_type": "Professional Services Group B",
+    "confusable_group": "Mental Health",
+    "disambiguation_attributes": [
+      "Bachelor's degree level (BSW)",
+      "not Master's level",
+      "social worker not counsellor or psychologist"
+    ],
+    "keywords": [
+      "social worker",
+      "BSW",
+      "bachelors",
+      "mental health",
+      "counselling",
+      "case management"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Social Worker (Masters level)",
+    "description": "Mental health services provided by a registered social worker with a Master's degree (MSW). Master's-level social workers have advanced clinical training and broader scope of practice for psychotherapy and clinical assessment. Provides individual and group therapy, clinical assessment, crisis intervention, and specialized mental health treatment. Higher qualification than BSW.",
+    "synonyms": [
+      "MSW social worker",
+      "master social worker",
+      "social worker MSW",
+      "clinical social worker",
+      "master of social work"
+    ],
+    "benefit_type": "Professional Services Group B",
+    "confusable_group": "Mental Health",
+    "disambiguation_attributes": [
+      "Master's degree level (MSW)",
+      "not Bachelor's level",
+      "advanced clinical training"
+    ],
+    "keywords": [
+      "social worker",
+      "MSW",
+      "masters",
+      "clinical",
+      "mental health",
+      "psychotherapy"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Speech Therapy",
+    "description": "Speech therapy services by a licensed speech-language pathologist (SLP). Treats communication disorders including speech articulation, language development, stuttering, voice disorders, and swallowing difficulties (dysphagia). Used for stroke recovery, developmental delays, head injury recovery, and neurological conditions affecting speech.",
+    "synonyms": [
+      "speech language pathologist",
+      "SLP",
+      "speech therapist",
+      "speech pathology",
+      "speech and language therapy",
+      "speech treatment"
+    ],
+    "benefit_type": "Professional Services Group A",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "speech therapy",
+      "SLP",
+      "speech pathology",
+      "communication disorder",
+      "stuttering",
+      "swallowing"
+    ],
+    "benefit_group": "Professional Services"
+  },
+  {
+    "category": "Standard foot orthotics or shoe inserts",
+    "description": "Off-the-shelf (non-custom) foot orthotics or shoe inserts for foot support. Pre-made arch supports, insoles, or orthotic inserts purchased from a pharmacy or shoe store without custom fitting. Used for mild arch support, cushioning, or minor foot discomfort. Less expensive than custom orthotics but not individually tailored.",
+    "synonyms": [
+      "shoe inserts",
+      "arch supports",
+      "insoles",
+      "off-the-shelf orthotics",
+      "foot inserts",
+      "Dr. Scholls",
+      "over-the-counter orthotics"
+    ],
+    "benefit_type": "Professional Services - Foot Care",
+    "confusable_group": "Foot Care",
+    "disambiguation_attributes": [
+      "off-the-shelf / pre-made",
+      "not custom orthotics",
+      "standard inserts not shoes"
+    ],
+    "keywords": [
+      "foot orthotics",
+      "shoe inserts",
+      "insoles",
+      "arch support",
+      "standard",
+      "off-the-shelf"
+    ],
+    "benefit_group": "Professional Services - Foot Care"
+  },
+  {
+    "category": "Stationary Commode (purchase)",
+    "description": "Purchase of a stationary commode - a portable toilet chair that does not have wheels. Placed beside a bed or in a room for individuals who have difficulty reaching the bathroom. Used by patients who are bedridden, recovering from surgery, or have severe mobility limitations. Different from a wheeled commode or raised toilet seat.",
+    "synonyms": [
+      "portable toilet",
+      "bedside commode",
+      "commode chair",
+      "portable commode",
+      "bedside toilet"
+    ],
+    "benefit_type": "Medical Items and Services - Aids for Daily Living",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "stationary (no wheels)",
+      "different from wheeled commode"
+    ],
+    "keywords": [
+      "commode",
+      "stationary",
+      "portable toilet",
+      "bedside",
+      "daily living aid"
+    ],
+    "benefit_group": "Medical Items - Aids for Daily Living"
+  },
+  {
+    "category": "Stimulator, muscle/nerve (TENS)",
+    "description": "A TENS (Transcutaneous Electrical Nerve Stimulation) unit or muscle/nerve stimulator device. Delivers low-voltage electrical impulses through the skin to relieve pain. Used for chronic pain, back pain, arthritis, fibromyalgia, and post-surgical pain management. This is the device itself, not the supplies/pads/electrodes.",
+    "synonyms": [
+      "TENS machine",
+      "TENS unit",
+      "electrical nerve stimulator",
+      "muscle stimulator",
+      "EMS device",
+      "pain stimulator"
+    ],
+    "benefit_type": "Medical Items and Services",
+    "confusable_group": "Stimulator",
+    "disambiguation_attributes": [
+      "the TENS device itself",
+      "not supplies, pads, or electrodes"
+    ],
+    "keywords": [
+      "TENS",
+      "stimulator",
+      "nerve stimulation",
+      "pain relief",
+      "electrical stimulation",
+      "muscle stimulator"
+    ],
+    "benefit_group": "Medical Items - Other"
+  },
+  {
+    "category": "Stimulator, supplies",
+    "description": "Supplies and accessories for a TENS or muscle/nerve stimulator device. Includes electrode pads, lead wires, batteries, conductive gel, and replacement parts. These consumable items need regular replacement for the stimulator to function properly. This is for supplies only, not the stimulator device itself.",
+    "synonyms": [
+      "TENS pads",
+      "electrode pads",
+      "stimulator electrodes",
+      "TENS supplies",
+      "TENS replacement pads",
+      "stimulator accessories"
+    ],
+    "benefit_type": "Medical Items and Services",
+    "confusable_group": "Stimulator",
+    "disambiguation_attributes": [
+      "supplies and consumables only",
+      "not the TENS device itself",
+      "electrode pads, wires, batteries"
+    ],
+    "keywords": [
+      "stimulator supplies",
+      "TENS pads",
+      "electrode",
+      "lead wires",
+      "replacement",
+      "consumable"
+    ],
+    "benefit_group": "Medical Items - Other"
+  },
+  {
+    "category": "TB Test/Mantoux",
+    "description": "A tuberculosis (TB) skin test, also called a Mantoux test or PPD test (purified protein derivative). A small amount of tuberculin is injected under the skin of the forearm, and the area is checked 48-72 hours later for a reaction. Used to screen for latent TB infection. Often required for healthcare workers, students in health programs, or international students.",
+    "synonyms": [
+      "TB test",
+      "tuberculosis test",
+      "Mantoux test",
+      "PPD test",
+      "TB skin test",
+      "tuberculin test"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "TB test",
+      "Mantoux",
+      "tuberculosis",
+      "PPD",
+      "skin test",
+      "screening"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Transport Wheelchair",
+    "description": "A transport wheelchair - a lightweight wheelchair designed to be pushed by a caregiver rather than self-propelled by the user. Has smaller wheels than a standard wheelchair. Used for transporting patients who cannot walk long distances but do not need a full self-propelling wheelchair. Good for medical appointments, travel, or occasional use.",
+    "synonyms": [
+      "transport chair",
+      "companion wheelchair",
+      "lightweight wheelchair",
+      "push wheelchair",
+      "travel wheelchair"
+    ],
+    "benefit_type": "Medical Items and Services - Mobility Aids",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "pushed by caregiver",
+      "smaller wheels than standard wheelchair"
+    ],
+    "keywords": [
+      "transport wheelchair",
+      "wheelchair",
+      "mobility aid",
+      "companion chair",
+      "lightweight"
+    ],
+    "benefit_group": "Medical Items - Mobility Aids"
+  },
+  {
+    "category": "Ultrasound",
+    "description": "An ultrasound diagnostic imaging procedure that uses high-frequency sound waves to create images of internal body structures. Used for examining organs, muscles, tendons, and blood vessels. Common uses include pregnancy monitoring, abdominal imaging, thyroid evaluation, musculoskeletal assessment, and cardiac evaluation (echocardiogram).",
+    "synonyms": [
+      "sonogram",
+      "ultrasound scan",
+      "diagnostic ultrasound",
+      "echo",
+      "echocardiogram",
+      "US scan",
+      "ultrasound imaging"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "ultrasound",
+      "sonogram",
+      "imaging",
+      "diagnostic",
+      "echocardiogram",
+      "sound wave"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Urinal (purchase)",
+    "description": "Purchase of a urinal for home medical use. A container used for urination by individuals who are bedridden or have difficulty reaching the bathroom. Available in male and female designs. Part of aids for daily living for patients with mobility limitations or during recovery from surgery or illness.",
+    "synonyms": [
+      "medical urinal",
+      "bedside urinal",
+      "portable urinal",
+      "urine bottle",
+      "male urinal",
+      "female urinal"
+    ],
+    "benefit_type": "Medical Items and Services - Aids for Daily Living",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "urinal",
+      "bedside",
+      "portable",
+      "daily living aid",
+      "bedridden"
+    ],
+    "benefit_group": "Medical Items - Aids for Daily Living"
+  },
+  {
+    "category": "Vaporizer (table top)",
+    "description": "A table-top vaporizer that produces steam or warm mist for respiratory relief. Used for congestion, croup, sinusitis, and respiratory conditions. Heats water to create steam that is inhaled for therapeutic benefit. Different from a humidifier in that it produces warm steam rather than cool mist. Compact tabletop size for bedside use.",
+    "synonyms": [
+      "steam vaporizer",
+      "warm mist vaporizer",
+      "steam inhaler",
+      "medical vaporizer",
+      "respiratory vaporizer"
+    ],
+    "benefit_type": "Medical Items and Services - Respiratory Equipment",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "warm steam/mist",
+      "different from cool mist humidifier"
+    ],
+    "keywords": [
+      "vaporizer",
+      "steam",
+      "respiratory",
+      "congestion",
+      "warm mist",
+      "inhalation"
+    ],
+    "benefit_group": "Medical Items - Respiratory Equipment"
+  },
+  {
+    "category": "Versa Frame (purchase)",
+    "description": "Purchase of a Versa Frame - an adjustable toilet safety frame that fits around a standard toilet to provide support rails for sitting down and standing up. A freestanding frame with armrests that does not require permanent installation. Used by individuals with mobility issues, post-surgery recovery, or balance problems. Different from grab bars which are permanently mounted.",
+    "synonyms": [
+      "toilet safety frame",
+      "toilet support frame",
+      "toilet surround frame",
+      "bathroom safety frame",
+      "toilet rails frame"
+    ],
+    "benefit_type": "Medical Items and Services - Aids for Daily Living",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "freestanding frame around toilet",
+      "not permanently mounted grab bars"
+    ],
+    "keywords": [
+      "Versa Frame",
+      "toilet frame",
+      "safety frame",
+      "toilet support",
+      "bathroom aid"
+    ],
+    "benefit_group": "Medical Items - Aids for Daily Living"
+  },
+  {
+    "category": "Vitamin D Test",
+    "description": "A blood test to measure the level of vitamin D (25-hydroxyvitamin D) in the blood. Used to detect vitamin D deficiency or insufficiency, which is common in Canada due to limited sun exposure. Important for bone health, immune function, and mood regulation. Often ordered by physicians for patients with fatigue, bone pain, or depression symptoms.",
+    "synonyms": [
+      "vitamin D blood test",
+      "25-hydroxy vitamin D test",
+      "vitamin D level test",
+      "vitamin D deficiency test"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "vitamin D",
+      "blood test",
+      "deficiency",
+      "25-hydroxy",
+      "bone health"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  },
+  {
+    "category": "Walker - non wheeled (purchase)",
+    "description": "Purchase of a non-wheeled walker (standard walker). A lightweight metal frame with four legs and rubber tips that must be lifted and placed with each step. Provides maximum stability for individuals with significant balance or weight-bearing issues. Used after surgery, for elderly mobility, or chronic conditions. Different from wheeled walkers which roll forward.",
+    "synonyms": [
+      "standard walker",
+      "walking frame",
+      "pick-up walker",
+      "non-wheeled walker",
+      "basic walker"
+    ],
+    "benefit_type": "Medical Items and Services - Mobility Aids",
+    "confusable_group": "Walker",
+    "disambiguation_attributes": [
+      "no wheels",
+      "must be lifted each step",
+      "maximum stability"
+    ],
+    "keywords": [
+      "walker",
+      "non-wheeled",
+      "walking frame",
+      "mobility aid",
+      "stability"
+    ],
+    "benefit_group": "Medical Items - Mobility Aids"
+  },
+  {
+    "category": "Walker - with wheels (purchase)",
+    "description": "Purchase of a wheeled walker (rollator). A walking frame with wheels that rolls forward, making it easier to move than a standard walker. May have two or four wheels, hand brakes, a seat, and a basket. Used by individuals who need walking support but have enough balance to use wheels. More versatile than non-wheeled walkers for outdoor and longer-distance use.",
+    "synonyms": [
+      "rollator",
+      "rolling walker",
+      "wheeled walker",
+      "walker with wheels",
+      "four-wheel walker",
+      "rollator walker"
+    ],
+    "benefit_type": "Medical Items and Services - Mobility Aids",
+    "confusable_group": "Walker",
+    "disambiguation_attributes": [
+      "has wheels",
+      "rolls forward",
+      "may have brakes and seat"
+    ],
+    "keywords": [
+      "walker",
+      "wheeled",
+      "rollator",
+      "rolling walker",
+      "mobility aid",
+      "wheels"
+    ],
+    "benefit_group": "Medical Items - Mobility Aids"
+  },
+  {
+    "category": "Wheeled Commode (purchase)",
+    "description": "Purchase of a wheeled commode - a portable toilet chair with wheels for easy repositioning. Combines the function of a commode (portable toilet) with wheels for mobility. Can often be used as a shower chair or rolled over a standard toilet. Different from stationary commode which has no wheels.",
+    "synonyms": [
+      "rolling commode",
+      "commode on wheels",
+      "mobile commode",
+      "wheeled toilet chair",
+      "shower commode"
+    ],
+    "benefit_type": "Medical Items and Services - Aids for Daily Living",
+    "confusable_group": null,
+    "disambiguation_attributes": [
+      "has wheels",
+      "different from stationary commode"
+    ],
+    "keywords": [
+      "wheeled commode",
+      "rolling commode",
+      "mobile toilet",
+      "shower commode",
+      "daily living aid"
+    ],
+    "benefit_group": "Medical Items - Aids for Daily Living"
+  },
+  {
+    "category": "Wig",
+    "description": "A medical wig (cranial prosthesis) for individuals who have lost hair due to medical conditions or treatments. Commonly needed after chemotherapy, radiation therapy, alopecia areata, or other medical hair loss conditions. Includes full wigs and partial hairpieces. May require a physician's prescription or letter of medical necessity.",
+    "synonyms": [
+      "cranial prosthesis",
+      "medical wig",
+      "hair prosthesis",
+      "chemo wig",
+      "alopecia wig",
+      "hair replacement"
+    ],
+    "benefit_type": "Medical Items and Services - Prosthetics",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "wig",
+      "cranial prosthesis",
+      "hair loss",
+      "chemotherapy",
+      "alopecia",
+      "medical hair"
+    ],
+    "benefit_group": "Medical Items - Prosthetics"
+  },
+  {
+    "category": "X-Ray",
+    "description": "An X-ray diagnostic imaging procedure that uses radiation to create images of internal body structures, particularly bones. Used to diagnose fractures, dislocations, infections, tumors, and other conditions. Common X-rays include chest X-ray, limb X-rays for fractures, dental X-rays, and spinal X-rays. A basic and widely available imaging modality.",
+    "synonyms": [
+      "X-ray scan",
+      "radiograph",
+      "bone X-ray",
+      "chest X-ray",
+      "diagnostic X-ray",
+      "skeletal X-ray"
+    ],
+    "benefit_type": "Medical Items and Services - Diagnostic Tests",
+    "confusable_group": null,
+    "disambiguation_attributes": [],
+    "keywords": [
+      "X-ray",
+      "radiograph",
+      "fracture",
+      "bone imaging",
+      "diagnostic imaging",
+      "radiation"
+    ],
+    "benefit_group": "Medical Items - Diagnostic Tests"
+  }
+]

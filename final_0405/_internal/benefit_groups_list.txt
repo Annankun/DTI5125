@@ -1,0 +1,169 @@
+Administrative (2):
+  [General - Administrative] Estimate/Pre-Authorization
+  [General - Administrative] Provincial Replacement Plan
+
+Dental (5):
+  [Accidental Dental] Dental Accident
+  [Dental Services] Dental Estimate for Services
+  [Dental Services] Dental Services
+  [Dental Services - Orthodontic] Orthodontic Services (Braces - initial and monthly fee)
+  [Dental Services] Other Orthodontic/Dental Services (i.e. orthodontic records)
+
+Emergency Transportation (2):
+  [Emergency Transportation] Ambulance
+  [Emergency Transportation / Medical Items] Other emergency services
+
+Hospital (1):
+  [Hospital] Hospital (within your province)
+
+Medical Items - Aids for Daily Living (10):
+  [Medical Items and Services - Aids for Daily Living] Bath Bench/Chair (purchase)
+  [Medical Items and Services - Aids for Daily Living] Bed Rails (purchase)
+  [Medical Items and Services - Aids for Daily Living] Bedpan
+  [Medical Items and Services - Aids for Daily Living] Grab Bar/Bath Bar - permanent fixtures (purchase)
+  [Medical Items and Services - Aids for Daily Living] IV Stand (purchase)
+  [Medical Items and Services - Aids for Daily Living] Raised Toilet seat (purchase)
+  [Medical Items and Services - Aids for Daily Living] Stationary Commode (purchase)
+  [Medical Items and Services - Aids for Daily Living] Urinal (purchase)
+  [Medical Items and Services - Aids for Daily Living] Versa Frame (purchase)
+  [Medical Items and Services - Aids for Daily Living] Wheeled Commode (purchase)
+
+Medical Items - Braces and Casts (6):
+  [Medical Items and Services - Braces and Casts] Brace (Non-custom)
+  [Medical Items and Services - Braces and Casts] Brace, AFO/KAFO (Custom)
+  [Medical Items and Services - Braces and Casts] Brace, left knee (Custom)
+  [Medical Items and Services - Braces and Casts] Brace, right knee (Custom)
+  [Medical Items and Services - Braces and Casts] Cast, fiberglass
+  [Medical Items and Services - Braces and Casts] Other garment brace services (i.e. compression gloves)
+
+Medical Items - Compression Stockings (9):
+  [Medical Items and Services - Compression Stockings] Compression Calf Sleeves/Tights (footless), any length
+  [Medical Items and Services - Compression Stockings] Compression Stockings, any length (up to 14 mmhg)
+  [Medical Items and Services - Compression Stockings] Compression Stockings, custom, any length
+  [Medical Items and Services - Compression Stockings] Compression Stockings, knee length (15-19 mmhg)
+  [Medical Items and Services - Compression Stockings] Compression Stockings, knee length (20-29 mmhg)
+  [Medical Items and Services - Compression Stockings] Compression Stockings, knee length (30 mmhg & over)
+  [Medical Items and Services - Compression Stockings] Compression Stockings, thigh/full (15-19 mmhg)
+  [Medical Items and Services - Compression Stockings] Compression Stockings, thigh/full (20-29 mmhg)
+  [Medical Items and Services - Compression Stockings] Compression Stockings, thigh/full (30 mmhg & over)
+
+Medical Items - Diabetic Supplies (10):
+  [Medical Items and Services - Diabetic Supplies] Blood glucose meter
+  [Medical Items and Services - Diabetic Supplies] Glucose Monitoring System Receiver
+  [Medical Items and Services - Diabetic Supplies] Glucose Monitoring System Supplies/Sensors
+  [Medical Items and Services - Diabetic Supplies] Glucose Monitoring System Transmitter
+  [Medical Items and Services - Diabetic Supplies] Insulin Gun (automatic)
+  [Medical Items and Services - Diabetic Supplies] Insulin Gun (manual)
+  [Medical Items and Services - Diabetic Supplies] Insulin infusion pump
+  [Medical Items and Services - Diabetic Supplies] Insulin infusion pump supplies
+  [Medical Items and Services - Diabetic Supplies] Insulin Pen Injector
+  [Medical Items and Services - Diabetic Supplies] Lancet
+
+Medical Items - Diagnostic Tests (16):
+  [Medical Items and Services - Diagnostic Tests] Ambulatory Blood Pressure Test
+  [Medical Items and Services - Diagnostic Tests] Blood test for Allergies (IG test not eligible)
+  [Medical Items and Services - Diagnostic Tests] Blood Withdrawal Fee
+  [Medical Items and Services - Diagnostic Tests] CA-125 (Cancer Antigen) Test
+  [Medical Items and Services - Diagnostic Tests] Colonoscopy
+  [Medical Items and Services - Diagnostic Tests] Mammogram
+  [Medical Items and Services - Diagnostic Tests] MRI (Magnetic Resonance Imaging)
+  [Medical Items and Services - Diagnostic Tests] Other laboratory and diagnostic tests
+  [Medical Items and Services - Diagnostic Tests] PSA Test (Prostate Specific Antigen)
+  [Medical Items and Services - Diagnostic Tests] Scratch Test for Allergies
+  [Medical Items and Services - Diagnostic Tests] Screening (for DNA/Genetic purposes)
+  [Medical Items and Services - Diagnostic Tests] Sleep Study
+  [Medical Items and Services - Diagnostic Tests] TB Test/Mantoux
+  [Medical Items and Services - Diagnostic Tests] Ultrasound
+  [Medical Items and Services - Diagnostic Tests] Vitamin D Test
+  [Medical Items and Services - Diagnostic Tests] X-Ray
+
+Medical Items - Incontinence/Ostomy (2):
+  [Medical Items and Services - Incontinence/Ostomy] Incontinence Supplies
+  [Medical Items and Services - Incontinence/Ostomy] Ostomy
+
+Medical Items - Mobility Aids (7):
+  [Medical Items and Services - Mobility Aids] Cane, standard
+  [Medical Items and Services - Mobility Aids] Crutches, pair
+  [Medical Items and Services - Mobility Aids] Forearm Crutch (purchase)
+  [Medical Items and Services - Mobility Aids] Quad Cane (purchase)
+  [Medical Items and Services - Mobility Aids] Transport Wheelchair
+  [Medical Items and Services - Mobility Aids] Walker - non wheeled (purchase)
+  [Medical Items and Services - Mobility Aids] Walker - with wheels (purchase)
+
+Medical Items - Other (9):
+  [Medical Items and Services] Breast Pump (purchase)
+  [Medical Items and Services] Cervical Pillow
+  [Medical Items and Services] Cold Therapy - Re-usable Items (purchase)
+  [Medical Items and Services] Heat Therapy - Re-usable items (purchase)
+  [Medical Items and Services] Medic Alert Bracelet
+  [Medical Items and Services] Nursing Home and Long Term Care
+  [Medical Items and Services] Other medical items
+  [Medical Items and Services] Stimulator, muscle/nerve (TENS)
+  [Medical Items and Services] Stimulator, supplies
+
+Medical Items - Prosthetics (2):
+  [Medical Items and Services - Prosthetics] Mastectomy bra
+  [Medical Items and Services - Prosthetics] Wig
+
+Medical Items - Respiratory Equipment (8):
+  [Medical Items and Services - Respiratory Equipment] Aerochamber
+  [Medical Items and Services - Respiratory/Cardiology Equipment] Blood pressure monitor
+  [Medical Items and Services - Respiratory Equipment] CPAP, APAP, BIPAP Machine
+  [Medical Items and Services - Respiratory Equipment] CPAP, APAP, BIPAP Mask
+  [Medical Items and Services - Respiratory Equipment] CPAP, APAP, BIPAP Supplies
+  [Medical Items and Services - Respiratory Equipment] Humidifier (Table Top)
+  [Medical Items and Services - Respiratory Equipment] Peak Flow Meter
+  [Medical Items and Services - Respiratory Equipment] Vaporizer (table top)
+
+Prescription Drugs (3):
+  [Prescription Drugs / Medical Supplies] Alcohol swabs
+  [Prescription Drugs] Drug
+  [Prescription Drugs (NOT COVERED)] Medical Cannabis
+
+Private Duty Nursing (1):
+  [Private Duty Nursing in the Home] In Home Support Services
+
+Professional Services (19):
+  [Professional Services - Allied Health] Acupuncture
+  [Professional Services - Allied Health] Athletic Therapy
+  [Professional Services Group A] Chiropractic
+  [Professional Services Group B] Clinical Counsellor
+  [Professional Services - Allied Health] Dietitian Services
+  [Professional Services Group B] Digital Cognitive Behavioural Therapy
+  [Professional Services - Allied Health] Homeopathic Treatment
+  [Professional Services Group A] Massage
+  [Professional Services Group A] Naturopathic Treatment
+  [Professional Services - Allied Health] Occupational Therapy
+  [Professional Services - Allied Health] Osteopath
+  [Professional Services] Other health specialists
+  [Professional Services Group B] Other mental health services
+  [Professional Services Group A] Physiotherapy
+  [Professional Services Group B] Psychologist
+  [Professional Services Group B] Psychotherapist
+  [Professional Services Group B] Social Worker (Bachelors)
+  [Professional Services Group B] Social Worker (Masters level)
+  [Professional Services Group A] Speech Therapy
+
+Professional Services - Foot Care (6):
+  [Professional Services - Foot Care] Chiropody (Foot Care) Treatment
+  [Professional Services - Foot Care] Custom made foot orthotics
+  [Professional Services - Foot Care] Orthopaedic or custom made shoes
+  [Professional Services - Foot Care] Other foot care services (i.e. orthopedic shoe modification)
+  [Professional Services - Foot Care] Podiatry Treatment
+  [Professional Services - Foot Care] Standard foot orthotics or shoe inserts
+
+Professional Services - Hearing (5):
+  [Professional Services - Hearing] Audiologist Services
+  [Professional Services - Hearing] Audiometric Exam
+  [Professional Services - Hearing] Ear Plugs (custom made)
+  [Professional Services - Hearing] Hearing Aids
+  [Professional Services - Hearing] Other hearing services
+
+Vision (6):
+  [Vision] Diagnostic Vision Test
+  [Vision] Eye Exam
+  [Vision] Other vision services (i.e. safety glasses)
+  [Vision] Prescription Contacts
+  [Vision] Prescription Glasses
+  [Vision] Safety Glasses
+

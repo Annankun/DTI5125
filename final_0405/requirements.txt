@@ -1,0 +1,96 @@
+Final Project (CRS): Presentations and Deliverables
+
+Hide Assignment Information
+Group Category
+Assignment_Teams
+Group Name
+DSA_202101_ 27
+Instructions
+Please decide the Data Science subject to write your final project proposal by the group. As a suggestion you can choose a combination from the below list to equip your CRS with:
+Information Extraction and Named Entity Extractions (Use SpaCy library)
+Summarization Systems, Knowledge Graphs,
+Question-Answering System, or any of the sub-system of it
+Intelligent Chatbot System (N8N, RAG), or any of the sub-system of it
+Recommender System, or any of the sub-system of it (use Surprise library), ideally house the data in a database (make it available to your CRS).
+Research the above topics, Google Scholar the above subjects and review the paper or papers of your interest to inspire you to decide your project activities.
+ 
+It is required that you use the similar Classification Clustering techniques you have already been learning, as part of your final project, in the context of the above items!
+ 
+Sections required in the proposal:
+Title
+Problem formulation
+Methodology (such as techniques and Python libraries etc.)
+Data Description and Data Sources
+Evaluation Method/s
+Results Expectations
+
+Rubric:
+
+Problem Formulation/Explanation 2.5%
+Data Preparation (e.g., data integration, cleaning, etc.)    2.5%
+Clustering (at least one algorithm) 3%
+Text Feature Engineering 3%
+Classification or Recommender Engine (use at least three different algorithms) 3%
+Evaluation of ML Results (e.g., results of clustering, classification or recommender engine, results of the designed system/model, etc.) 4%
+Error Analysis 3%
+Visualization of results, and graphical intuition and analysis (e.g., chatbot live demonstration, graphs showing performance increase after applying your model, etc.) 3%
+
+Innovativeness (i.e., what is your contribution? what sets your project apart from others?) 1%
+Quality of presentation and report (including README) 5%
+
+Total: 30%
+
+
+announcement
+Proposals Common Feedback
+Mar 28, 2026 9:45 AM
+Dear Students, Well done with your proposals.
+
+Here are few items to note, improve with your proposal and the final:
+
+Make sure you have found relevant data to support your recommender engine, as part of the CRS.
+
+The important quality factor to consider for your final is innovation. The following are the other attribures:
+
+Relevant and current, updated with recent literature review.
+
+The formulation and requirements are appropriate to solve by a CRS.
+
+It has a potential to use the material of the course to solve and achieve the intended results. 
+
+Potential to become part of an app.
+
+What is highly encourages and appreciated is to beware and use what matters in the frontiers of CRS research:
+
+Grounding, Trustworthiness, Decision Support & Recommendation
+Evaluations and Benchmarks
+User Modelling, Persona, Memory
+LLM Reasoning, chain-of-thought, Generation
+Preference Modelling, template filling, Personalization
+The Conversational Recommender Systems (CRS) have gone through transformations, they are still viable more than ever. Review the above items within CRS research in 2025-6, to see what features you would be able to implement for your final.
+
+Alternative agentic development tools: N8N
+Mar 26, 2026 11:22 AM
+FYI (alternative tool for the final) From N8N instance you can export metadata in JSON and submit, your respected TA can import the JSON instance of your RAG implementation on N8N. Test and import your exported instance to make sure that it works, before submission. Include users' guide in the submission. 
+
+FYI How to connect Python code to RAG? For the final, connecting the recommender engine/model to the N8N (desktop) instance, you can use the Fast API python library (easier than ngrok or Flask dockers) on the local host to connect through the (N8N) Agent tools, select the HTTP connect and give it the local host port of the Fast API.
+
+n8n.io
+
+上课说到：
+有rag
+llm/gpt做不了
+有用户personalized
+有dialog flow就行
+目标：学了课堂内的内容，感觉需要确保用到课程的东西（re，supervisor ml， clustering，ontology， 不同的evaluation方式，和error analysis）--可以refer到a1，a2，a3，a4的requirement。
+"D:\project\5125\G-A1\a1-requirement.txt"
+"D:\project\5125\G-A2\G-A2 requirement.txt"
+"D:\project\5125\A3_proposal\A3 requirement.txt"
+"D:\project\5125\A3_proposal\proposal\Group27_Project Proposal.pdf"-这个项目基于之前的proposal
+
+choose one kind of 推荐系统，如context based，collaborative filter等，三选1.
+重点参考
+"D:\project\5125\final\Recommender Systems.pdf"
+"D:\project\5125\final\Recommendation Systems_2.pdf"
+"D:\project\5125\final\NIPS-2017-attention-is-all-you-need-Paper.pdf"
+"D:\project\5125\final\Dynamic Chatbot (1).pdf"

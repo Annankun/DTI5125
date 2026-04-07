@@ -1,0 +1,82 @@
+uOttawa Student Health Plan — Detailed Coverage (Undergraduate)
+Source: https://studentcare.ca/plan/en-CA/IHaveAPlan_Ottawa/understanding-my-coverage
+Retrieved: 2026-03-08
+
+Note: This is the undergraduate plan from studentcare.ca. GSA (graduate) plan may differ slightly.
+See uottawa_gsa_plan_coverage.txt for graduate-specific info.
+
+=== PRESCRIPTION DRUGS & VACCINATIONS ===
+
+- Coverage: up to 80%
+- Annual maximum: $1,000
+- Dispensing fee cap: $5 per prescription/refill
+- Eligible contraceptives: combined max $300
+
+=== MENTAL HEALTH SERVICES ===
+
+- Psychologists, MSW, Social Workers, Counsellors, Psychotherapists
+- Coverage: 80% per visit
+- Annual maximum: $1,500 combined
+
+=== ALLIED HEALTH PRACTITIONERS ===
+
+All at 100% up to $40/visit, $500 annual combined maximum across all:
+- Chiropractors
+- Physiotherapists (MD or nurse practitioner referral every 12 months)
+- Occupational therapists
+- Homeopaths
+- Podiatrists
+- Osteopaths
+- Speech therapists
+- Naturopaths
+- Massage therapists (MD referral needed)
+- Dietitians
+- Acupuncturists
+
+=== VISION CARE ===
+
+- Prescription glasses or contacts: $150 every 24 months
+- Eye exams: included in above or separate (check booklet)
+- Medically necessary contact lenses: $200 every 24 months
+
+=== DENTAL ===
+
+- Annual maximum: $750 per policy year
+- Recall exams/cleanings: 70%
+- Fillings/basic oral surgery: 75%
+- Root canals/gum treatments/dentures: 75%
+- Extractions: 50%
+- X-rays/scaling: covered
+
+=== TRAVEL ===
+
+- Duration: 120 days per trip
+- Medical incident: $5,000,000 lifetime maximum
+- Trip cancellation: $3,000 per trip
+- Trip interruption: $7,500 per trip
+
+=== ADDITIONAL SERVICES ===
+
+- Virtual healthcare (HI - Dialogue) for full-time/part-time undergraduates
+- Mental health/wellness program (EmpowerMe)
+
+=== CLAIM SUBMISSION ===
+
+Group Number: UNV
+Member ID: UNV + student ID (up to 10 digits) + 2-digit dependent code
+
+Four submission methods:
+1. Pay-Direct Card — present at provider
+2. Mobile App — GreenShield+ app
+3. Online Portal — app.greenshieldplus.ca
+4. Mail — download claim form, attach docs, mail
+
+All claims must be received within 12 months of expense date.
+
+=== KEY LINKS ===
+
+- GreenShield+ portal: https://app.greenshieldplus.ca/signin
+- How to claim: https://studentcare.ca/rte/en/IHaveAPlan_Ottawa_Claims_HowtoClaim
+- Understanding coverage: https://studentcare.ca/plan/en-CA/IHaveAPlan_Ottawa/understanding-my-coverage
+- GSA plan page: https://www.greenshield.ca/en-ca/student-centre/uottawa-grads-gsa
+- Opt-out info: https://www.uottawa.ca/financial-resources/student-accounts/health-and-dental-insurance

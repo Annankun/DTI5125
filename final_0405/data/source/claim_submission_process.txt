@@ -1,0 +1,110 @@
+GreenShield+ Claim Submission Process
+Source: https://studentcare.ca/rte/en/IHaveAPlan_Ottawa_Claims_HowtoClaim
+Retrieved: 2026-03-08
+
+=== SUBMISSION FLOW (from GreenShield+ app/web) ===
+
+1. Log in to GreenShield+ (app.greenshieldplus.ca)
+2. Click "Submit a claim"
+3. Select claim category from dropdown (129 categories)
+   - Flat list, no subcategories
+   - No description or help text per category
+   - User must know the correct category name
+4. Select or search provider (shows "Recently Visited Providers")
+5. Enter amount and date
+6. Submit
+
+=== THE PROBLEM (why our chatbot is needed) ===
+
+- 129 categories in a flat dropdown with no explanations
+- Many categories are similar (e.g., 7 types of Compression Stockings)
+- Users describe services in natural language but must map to exact category names
+- No guidance from the system on which category to pick
+
+=== CONFUSABLE CATEGORY GROUPS ===
+
+Group: Compression Stockings (7 categories)
+- Compression Calf Sleeves/Tights (footless), any length
+- Compression Stockings, any length (up to 14 mmhg)
+- Compression Stockings, custom, any length
+- Compression Stockings, knee length (15-19 mmhg)
+- Compression Stockings, knee length (20-29 mmhg)
+- Compression Stockings, knee length (30 mmhg & over)
+- Compression Stockings, thigh/full (15-19 mmhg)
+- Compression Stockings, thigh/full (20-29 mmhg)
+- Compression Stockings, thigh/full (30 mmhg & over)
+Disambiguation: length (calf/knee/thigh) -> pressure level (mmhg) -> custom?
+
+Group: Brace (3 categories)
+- Brace (Non-custom)
+- Brace, AFO/KAFO (Custom)
+- Brace, left knee (Custom)
+- Brace, right knee (Custom)
+Disambiguation: custom or not? -> body part?
+
+Group: Glucose Monitoring (4 categories)
+- Blood glucose meter
+- Glucose Monitoring System Receiver
+- Glucose Monitoring System Supplies/Sensors
+- Glucose Monitoring System Transmitter
+Disambiguation: the device itself or accessories?
+
+Group: CPAP/APAP/BIPAP (3 categories)
+- CPAP, APAP, BIPAP Machine
+- CPAP, APAP, BIPAP Mask
+- CPAP, APAP, BIPAP Supplies
+Disambiguation: machine / mask / other supplies?
+
+Group: Social Worker (2 categories)
+- Social Worker (Bachelors)
+- Social Worker (Masters level)
+Disambiguation: practitioner's education level?
+
+Group: Walker (2 categories)
+- Walker - non wheeled (purchase)
+- Walker - with wheels (purchase)
+Disambiguation: does it have wheels?
+
+Group: Insulin (3 categories)
+- Insulin Gun (automatic)
+- Insulin Gun (manual)
+- Insulin infusion pump
+Disambiguation: injection method?
+
+Group: Crutches (2 categories)
+- Crutches, pair
+- Forearm Crutch (purchase)
+Disambiguation: standard underarm or forearm?
+
+Group: Stimulator (2 categories)
+- Stimulator, muscle/nerve (TENS)
+- Stimulator, supplies
+Disambiguation: the device or supplies?
+
+Group: Foot Care (3+ categories)
+- Chiropody (Foot Care) Treatment
+- Custom made foot orthotics
+- Standard foot orthotics or shoe inserts
+- Orthopaedic or custom made shoes
+- Other foot care services (i.e. orthopedic shoe modification)
+- Podiatry Treatment
+Disambiguation: treatment vs device? custom vs standard?
+
+Group: Mental Health (5+ categories)
+- Clinical Counsellor
+- Psychologist
+- Psychotherapist
+- Social Worker (Bachelors)
+- Social Worker (Masters level)
+- Other mental health services
+- Digital Cognitive Behavioural Therapy
+Disambiguation: practitioner type and qualification?
+
+Group: Vision (4+ categories)
+- Eye Exam
+- Diagnostic Vision Test
+- Prescription Glasses
+- Prescription Contacts
+- Safety Glasses
+- Other vision services (i.e. safety glasses)
+Disambiguation: exam vs corrective device? type of device?

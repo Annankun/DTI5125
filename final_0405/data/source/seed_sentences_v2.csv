@@ -1,0 +1,891 @@
+text,label,style
+annual eye exam,Eye Exam,terse
+What category for a brace I bought off the shelf at the pharmacy?,Brace (Non-custom),question
+"I bought the thing that sends electric pulses to my muscles, it has pads you stick on","Stimulator, muscle/nerve (TENS)",confused_student
+"contacts, not glasses! I keep accidentally selecting the glasses category for my prescription contacts",Prescription Contacts,complaint
+compression gloves arthritis,Other garment brace services (i.e. compression gloves),terse
+the allergist put drops on my arm and poked them to see what I'm allergic to,Scratch Test for Allergies,confused_student
+Claiming a comprehensive environmental and food allergen skin prick testing panel performed by a certified allergist,Scratch Test for Allergies,detailed_clinical
+Submitting for cephalometric radiograph and dental model impressions for orthodontic treatment planning,Other Orthodontic/Dental Services (i.e. orthodontic records),detailed_clinical
+bought an automatic insulin gun for my son because he's scared of injecting himself,Insulin Gun (automatic),parent_or_dependent
+I filed under 'Other medical items' but it's actually a TENS machine for nerve stimulation,"Stimulator, muscle/nerve (TENS)",wrong_guess
+purchased a Carex raised toilet seat with handles from Shoppers Home Health,Raised Toilet seat (purchase),brand_specific
+stationary bedside commode,Stationary Commode (purchase),terse
+purchased a Hugo Adjustable quad cane from Medichair,Quad Cane (purchase),brand_specific
+"my dentist wants to submit an estimate before doing the work, for pre-approval",Dental Estimate for Services,confused_student
+I saw a therapist who helps me do everyday tasks again after my wrist surgery,Occupational Therapy,confused_student
+"I bought one of those bags you microwave and put on your sore neck, it's reusable",Heat Therapy - Re-usable items (purchase),confused_student
+home BP monitor cuff,Blood pressure monitor,terse
+"I put this under 'Podiatry Treatment' but my receipt says chiropodist, not podiatrist",Chiropody (Foot Care) Treatment,wrong_guess
+I couldn't wait 6 months for a public MRI so I paid out of pocket at a private clinic for my knee scan,MRI (Magnetic Resonance Imaging),storyteller
+submitting for my husband's knee-high compression stockings at 22 mmhg after his vein surgery,"Compression Stockings, knee length (20-29 mmhg)",parent_or_dependent
+OT occupational therapy,Occupational Therapy,terse
+I buy the knee sock with compression number 15 to 19 for my leg problem,"Compression Stockings, knee length (15-19 mmhg)",esl_speaker
+psychologist therapy sessions,Psychologist,terse
+installed grab bars in the bathroom for my elderly mother's safety,Grab Bar/Bath Bar - permanent fixtures (purchase),parent_or_dependent
+Claiming a subscription to a clinician-guided internet-delivered cognitive behavioural therapy program for generalized anxiety disorder,Digital Cognitive Behavioural Therapy,detailed_clinical
+I bought a special bra that holds a prosthetic breast after my surgery,Mastectomy bra,confused_student
+Claiming single-vision CR-39 lenses with anti-reflective coating and titanium frames fitted to prescription,Prescription Glasses,detailed_clinical
+ordered Medtronic Quick-set infusion sets and reservoir refills from Diabetes Express,Insulin infusion pump supplies,brand_specific
+misc medical item claim,Other medical items,terse
+Filing a claim for a programmable subcutaneous insulin infusion pump system with basal-bolus delivery capability,Insulin infusion pump,detailed_clinical
+claiming a custom right knee brace for my daughter's ligament injury from skiing,"Brace, right knee (Custom)",parent_or_dependent
+Claiming podiatric medical treatment including biomechanical assessment and therapeutic intervention for plantar fasciitis,Podiatry Treatment,detailed_clinical
+purchased a Drive Medical Deluxe folding walker from Medichair,Walker - non wheeled (purchase),brand_specific
+purchased an Inject-Ease automatic insulin injection aid from Diabetes Express,Insulin Gun (automatic),brand_specific
+"my child had a blood test to identify food allergies, submitting the lab receipt",Blood test for Allergies (IG test not eligible),parent_or_dependent
+bought a Drive Medical padded bath bench from Home Health Depot,Bath Bench/Chair (purchase),brand_specific
+"I need more of those sticky patches that read my sugar, they go on my arm",Glucose Monitoring System Supplies/Sensors,confused_student
+Submitting for a diagnostic colonoscopy with polypectomy and biopsy for colorectal cancer screening,Colonoscopy,detailed_clinical
+my doctor wants to get something pre-approved by insurance before the procedure,Estimate/Pre-Authorization,confused_student
+got an Omron Platinum wireless blood pressure monitor from Costco,Blood pressure monitor,brand_specific
+audiometry hearing test,Audiometric Exam,terse
+What category do I use for replacement sensors for my continuous glucose monitor?,Glucose Monitoring System Supplies/Sensors,question
+I got one of those bracelets that says what medical conditions I have in case of emergency,Medic Alert Bracelet,confused_student
+"I buy small needle for prick finger, for check sugar in blood, many in box",Lancet,esl_speaker
+contact lenses rx claim,Prescription Contacts,terse
+buying a blood pressure monitor for my husband to track his hypertension at home,Blood pressure monitor,parent_or_dependent
+kinesiologist reflexologist visit,Other health specialists,terse
+"I go to foot doctor, she is chiropodist, she cut nail and treat hard skin on foot",Chiropody (Foot Care) Treatment,esl_speaker
+I went to get a special brace built for my left knee specifically,"Brace, left knee (Custom)",confused_student
+Where do I file dental work that was needed because of an accident?,Dental Accident,question
+Which category for purchasing prescription eyeglasses?,Prescription Glasses,question
+Which category for a visit with a naturopathic doctor?,Naturopathic Treatment,question
+psychotherapist sessions RP,Psychotherapist,terse
+got 3M Virtua CCS prescription safety glasses through SafeVision at the university,Safety Glasses,brand_specific
+digital CBT app subscription,Digital Cognitive Behavioural Therapy,terse
+urinal bottle bedside,Urinal (purchase),terse
+"I picked 'CPAP Mask' but it's actually tubing and filters, not a mask","CPAP, APAP, BIPAP Supplies",wrong_guess
+"these aren't regular stockings, they were literally custom made at a clinic, why is this so hard to find in the dropdown","Compression Stockings, custom, any length",complaint
+my child sees an occupational therapist for fine motor skill development and sensory processing,Occupational Therapy,parent_or_dependent
+buying incontinence supplies for my elderly father who has bladder control issues,Incontinence Supplies,parent_or_dependent
+I had a breast x-ray screening done at the clinic,Mammogram,confused_student
+pump infusion set supplies,Insulin infusion pump supplies,terse
+Where do I submit speech therapy sessions?,Speech Therapy,question
+Claiming custom-fabricated orthopaedic footwear constructed to accommodate bilateral pes planus with medial arch support modification,Orthopaedic or custom made shoes,detailed_clinical
+I see a social worker for therapy and I'm pretty sure she only has a four-year degree,Social Worker (Bachelors),confused_student
+bought a wheeled rollator walker for my grandfather to use for his daily walks,Walker - with wheels (purchase),parent_or_dependent
+purchased a Drive Medical adjustable IV pole for my husband's home IV therapy,IV Stand (purchase),brand_specific
+RMT massage session,Massage,terse
+Filing a claim for bespoke compression hosiery fabricated from patient-specific measurements and cast impressions,"Compression Stockings, custom, any length",detailed_clinical
+It had been two years since my last eye check so I booked a routine exam at the optometrist to update my prescription,Eye Exam,storyteller
+bought a basic non-wheeled walker for my elderly mother after her hip replacement,Walker - non wheeled (purchase),parent_or_dependent
+BSW social worker sessions,Social Worker (Bachelors),terse
+"I not understand, this claim go through provincial plan? I am confused about which one",Provincial Replacement Plan,esl_speaker
+I had that camera procedure where they check inside your colon,Colonoscopy,confused_student
+"there are four glucose monitoring categories and I just need the reader screen, not the sensor or transmitter",Glucose Monitoring System Receiver,complaint
+I put it under 'Compression Stockings any length up to 14' but these are actually 18 mmhg knee length,"Compression Stockings, knee length (15-19 mmhg)",wrong_guess
+I had a blood clot in my calf last year and my doctor prescribed firm knee-high stockings at 25 mmhg to prevent it from happening again,"Compression Stockings, knee length (20-29 mmhg)",storyteller
+"this is the PUMP not the gun or pen, it's worn on my body 24/7, the categories are confusing for diabetic supplies",Insulin infusion pump,complaint
+MRI scan private clinic,MRI (Magnetic Resonance Imaging),terse
+"my doctor prescribed marijuana for my chronic pain, the legal medical kind",Medical Cannabis,confused_student
+Where do I claim a raised toilet seat I bought for post-surgery recovery?,Raised Toilet seat (purchase),question
+chiropody foot care visit,Chiropody (Foot Care) Treatment,terse
+buying a transport wheelchair for my mother so we can take her to appointments easily,Transport Wheelchair,parent_or_dependent
+I bought those pads and underwear things for bladder leaks,Incontinence Supplies,confused_student
+ordered Coloplast SenSura Mio ostomy bags from Byram Healthcare,Ostomy,brand_specific
+I've been dealing with severe leg swelling for years and now I need the strongest thigh-high compression at 40 mmhg just to keep it manageable,"Compression Stockings, thigh/full (30 mmhg & over)",storyteller
+"claiming replacement CPAP supplies for my spouse - new tubing, filters, and water chamber","CPAP, APAP, BIPAP Supplies",parent_or_dependent
+homeopath consultation treatment,Homeopathic Treatment,terse
+Claiming bilateral receiver-in-canal digital hearing instruments with adaptive directional microphone technology,Hearing Aids,detailed_clinical
+"Where do I claim the actual CPAP machine, not the mask or accessories?","CPAP, APAP, BIPAP Machine",question
+Claiming a gadolinium-enhanced MRI of the lumbar spine for intervertebral disc herniation evaluation,MRI (Magnetic Resonance Imaging),detailed_clinical
+"What category for an insulin pen, not a pump or gun?",Insulin Pen Injector,question
+What category for occupational therapy sessions?,Occupational Therapy,question
+knee high 15-19 mmhg socks,"Compression Stockings, knee length (15-19 mmhg)",terse
+I was diagnosed with pre-diabetes so my doctor referred me to a dietitian who created a meal plan for me,Dietitian Services,storyteller
+taking my mother for her annual mammogram screening and need to claim it,Mammogram,parent_or_dependent
+Claiming a quantitative serum PSA assay for prostate cancer screening,PSA Test (Prostate Specific Antigen),detailed_clinical
+retinal scan diagnostic test,Diagnostic Vision Test,terse
+my mother was taken by ambulance to the Civic Hospital and I'm helping her file the claim,Ambulance,parent_or_dependent
+What category for an overnight sleep study test?,Sleep Study,question
+My optometrist noticed something during my exam and ordered a retinal OCT scan and visual field test to check for early glaucoma,Diagnostic Vision Test,storyteller
+signed up for MedicAlert Foundation and bought the stainless steel bracelet,Medic Alert Bracelet,brand_specific
+"I got my wrist zapped at the clinic to see if it's broken, like a picture of the bones",X-Ray,confused_student
+"there's knee and thigh options with different pressures, mine are thigh-high 20-29, this system needs better labels","Compression Stockings, thigh/full (20-29 mmhg)",complaint
+dental cleaning filling claim,Dental Services,terse
+Filing for an auto-titrating positive airway pressure device prescribed for moderate obstructive sleep apnea with AHI of 22,"CPAP, APAP, BIPAP Machine",detailed_clinical
+"my provider is specifically a REGISTERED PSYCHOTHERAPIST, not a psychologist or counsellor, RP designation",Psychotherapist,complaint
+"my father had colon surgery and now needs ostomy supplies, claiming the monthly order",Ostomy,parent_or_dependent
+"my husband needed emergency medical services at the ski resort, not an ambulance ride",Other emergency services,parent_or_dependent
+What category do I pick for treatment from a certified athletic therapist?,Athletic Therapy,question
+"I see psychologist for my anxiety, she have PhD and do special test and therapy",Psychologist,esl_speaker
+"these are NOT custom, just regular off-the-shelf shoe inserts, don't know why the categories make it so confusing",Standard foot orthotics or shoe inserts,complaint
+IV pole stand purchase,IV Stand (purchase),terse
+auto insulin gun,Insulin Gun (automatic),terse
+Where do I submit claims for nursing home or long-term care facility costs?,Nursing Home and Long Term Care,question
+got new prescription glasses with Essilor Varilux progressive lenses at Hakim Optical,Prescription Glasses,brand_specific
+My chiropractor says my L4 is slightly rotated so I've been getting weekly adjustments to fix my alignment,Chiropractic,storyteller
+"supplies means tubing, filters, water chambers right? NOT the mask or machine? just making sure","CPAP, APAP, BIPAP Supplies",complaint
+I've been getting weekly acupuncture for my stress headaches and it's actually been helping a lot,Acupuncture,storyteller
+I have drop foot from a nerve injury so my orthotist took a cast of my leg and made me a custom AFO that fits inside my shoe,"Brace, AFO/KAFO (Custom)",storyteller
+"I filed under 'knee length 20-29' but mine are actually 35 mmhg, need to fix this","Compression Stockings, knee length (30 mmhg & over)",wrong_guess
+"doctor give me paper for medical cannabis, I buy from special website, legal prescription",Medical Cannabis,esl_speaker
+I was at a remote hiking site and needed emergency helicopter medical transport to hospital,Other emergency services,storyteller
+I picked 'Other vision services' but I just bought regular prescription glasses,Prescription Glasses,wrong_guess
+Claiming a multi-point traditional Chinese acupuncture session performed by a licensed R.Ac for myofascial pain syndrome,Acupuncture,detailed_clinical
+I got a cane that has four little feet at the bottom instead of just one point,Quad Cane (purchase),confused_student
+walking cane basic,"Cane, standard",terse
+"I got these special insoles that were molded to my feet, they took a cast of my arches",Custom made foot orthotics,confused_student
+Claiming a nasal pillow interface mask with adjustable headgear for PAP therapy,"CPAP, APAP, BIPAP Mask",detailed_clinical
+"already submitted twice under the wrong stocking category, these are THIGH length OVER 30 mmhg, please just process my claim","Compression Stockings, thigh/full (30 mmhg & over)",complaint
+I've had heel pain for months so I saw a podiatrist who diagnosed plantar fasciitis and did some manual therapy,Podiatry Treatment,storyteller
+Where do I claim a vitamin D blood test?,Vitamin D Test,question
+tabletop humidifier purchase,Humidifier (Table Top),terse
+"I had to call 911 and they took me in an ambulance, how do I submit the bill?",Ambulance,confused_student
+Where do I claim a tuberculosis skin test?,TB Test/Mantoux,question
+I was having panic attacks so my GP referred me to a psychologist with a PhD who does exposure therapy,Psychologist,storyteller
+"I got the strongest knee socks my doctor prescribed, they're really hard to put on, I think 30-40 pressure","Compression Stockings, knee length (30 mmhg & over)",confused_student
+"I went to someone who checked my hearing and adjusted my hearing aids, she's an audiologist",Audiologist Services,confused_student
+bathroom grab bars purchase,Grab Bar/Bath Bar - permanent fixtures (purchase),terse
+"I buy new glass for see, doctor write prescription and I get glass made at store",Prescription Glasses,esl_speaker
+dietitian nutrition counselling,Dietitian Services,terse
+toilet versa frame safety,Versa Frame (purchase),terse
+submitting a pre-authorization for my husband's upcoming MRI that needs prior approval,Estimate/Pre-Authorization,parent_or_dependent
+"I have insulin gun but it is not automatic, I must push by myself with hand",Insulin Gun (manual),esl_speaker
+claiming my mother's CA-125 cancer marker blood test from the oncology lab,CA-125 (Cancer Antigen) Test,parent_or_dependent
+I was in the hospital for a few days and there's a bill for stuff OHIP didn't cover,Hospital (within your province),confused_student
+they injected something in my forearm and I have to go back in two days for them to check it,TB Test/Mantoux,confused_student
+quad cane 4-foot base,Quad Cane (purchase),terse
+"I got a test to check my DNA for hereditary diseases, like BRCA genes",Screening (for DNA/Genetic purposes),confused_student
+Filing for cognitive-behavioural therapy sessions with a registered psychologist licensed by the College of Psychologists of Ontario,Psychologist,detailed_clinical
+reusable ice pack gel,Cold Therapy - Re-usable Items (purchase),terse
+my wife had custom compression stockings fabricated after her surgery and I need to submit the receipt,"Compression Stockings, custom, any length",parent_or_dependent
+"I switched from glasses to contacts because they're easier for sports, I got a year supply of dailies from my optometrist",Prescription Contacts,storyteller
+"I filed under 'Psychologist' but my therapist is a registered psychotherapist, not a psychologist",Psychotherapist,wrong_guess
+thigh high 15-19 mmhg stockings,"Compression Stockings, thigh/full (15-19 mmhg)",terse
+booking massage therapy for my spouse's chronic shoulder tension,Massage,parent_or_dependent
+cervical neck pillow rx,Cervical Pillow,terse
+"I buy small machine that make air wet in my room, for my nose dry at night",Humidifier (Table Top),esl_speaker
+vision therapy sessions claim,Other vision services (i.e. safety glasses),terse
+TENS electrode pads refill,"Stimulator, supplies",terse
+"I bought some light squeezy socks for flying, the pressure is really low like 10 or something","Compression Stockings, any length (up to 14 mmhg)",confused_student
+bought Jobst UltraSheer 8-15 mmHg stockings from Well.ca,"Compression Stockings, any length (up to 14 mmhg)",brand_specific
+Filing for orthoptic vision therapy sessions to treat binocular vision dysfunction and convergence insufficiency,Other vision services (i.e. safety glasses),detailed_clinical
+"I have a bag attached to my stomach for waste after my surgery, I need supplies for it",Ostomy,confused_student
+I chose 'Compression Stockings knee length 15-19' but mine are actually only 12 mmhg,"Compression Stockings, any length (up to 14 mmhg)",wrong_guess
+Where do I claim a pair of standard underarm crutches?,"Crutches, pair",question
+My son was having trouble reading because his eyes don't track together well so we started vision therapy sessions with an optometrist,Other vision services (i.e. safety glasses),storyteller
+"I go to therapy with psychotherapist, she is RP, registered psychotherapist, for my depression",Psychotherapist,esl_speaker
+"Submitting a receipt for a twelve-month supply of daily disposable silicone hydrogel toric contact lenses, prescription-fitted",Prescription Contacts,detailed_clinical
+Submitting for thigh-length graduated compression hosiery rated 15-20 mmHg with silicone grip band,"Compression Stockings, thigh/full (15-19 mmhg)",detailed_clinical
+"doctor say I need special shoe made for my foot, not regular shoe from store, custom shoe",Orthopaedic or custom made shoes,esl_speaker
+Which category for a skin prick or scratch test for allergies?,Scratch Test for Allergies,question
+Where do I file a claim for a walker that has wheels and a seat?,Walker - with wheels (purchase),question
+Does it matter if my social worker has a bachelor's vs master's degree? Mine has a BSW,Social Worker (Bachelors),question
+manual insulin gun device,Insulin Gun (manual),terse
+Where do I claim compression garments that aren't stockings like compression gloves or arm sleeves?,Other garment brace services (i.e. compression gloves),question
+Where do I claim the separate fee they charge just for drawing blood?,Blood Withdrawal Fee,question
+my father's ophthalmologist ordered diagnostic vision tests for his macular degeneration monitoring,Diagnostic Vision Test,parent_or_dependent
+picked up a pair of Guardian aluminum underarm crutches from Shoppers Home Health Care,"Crutches, pair",brand_specific
+it's the tube thing you put between your mouth and the puffer so you breathe in the medicine better,Aerochamber,confused_student
+purchased a NovoPen 6 reusable insulin pen injector from my pharmacy,Insulin Pen Injector,brand_specific
+skin prick allergy test,Scratch Test for Allergies,terse
+they put me in a soundproof room and played beeps to test my hearing,Audiometric Exam,confused_student
+Submitting a claim for below-knee graduated compression stockings rated 15-19 mmHg for mild venous insufficiency,"Compression Stockings, knee length (15-19 mmhg)",detailed_clinical
+lancets blood sugar testing,Lancet,terse
+My physiotherapist noticed my arches collapsing and referred me to a pedorthist who scanned my feet and made custom orthotics,Custom made foot orthotics,storyteller
+booked my wife's sessions with a dietitian through Revive Wellness for postpartum nutrition,Dietitian Services,parent_or_dependent
+basic walker no wheels,Walker - non wheeled (purchase),terse
+"I buy rail for bed side, to stop falling when sleep, for safety",Bed Rails (purchase),esl_speaker
+Filing for a dedicated receiver unit for a continuous glucose monitoring system to display interstitial glucose readings,Glucose Monitoring System Receiver,detailed_clinical
+I have a leg length discrepancy so my pedorthist added a heel lift to my left shoe and adjusted the sole,Other foot care services (i.e. orthopedic shoe modification),storyteller
+bought standard arch support insoles for my son's running shoes from the pharmacy,Standard foot orthotics or shoe inserts,parent_or_dependent
+"my doctor ordered an ultrasound to check a lump I found, I went to a private imaging clinic",Ultrasound,storyteller
+"I filed under 'Diagnostic Vision Test' but it was just a regular eye exam, nothing special",Eye Exam,wrong_guess
+had a full hearing evaluation with an audiologist at the Ottawa Audiology Clinic,Audiologist Services,brand_specific
+Claiming a comprehensive pharmacogenomic panel and BRCA1/BRCA2 mutation screening,Screening (for DNA/Genetic purposes),detailed_clinical
+"I go to podiatrist, foot doctor, he treat my foot pain and check how I walk",Podiatry Treatment,esl_speaker
+Do I pick the 20-29 mmHg knee-length option for stockings rated at 25?,"Compression Stockings, knee length (20-29 mmhg)",question
+My old CPAP mask was leaking air around the seal so I went to the sleep store and got a new full-face mask that fits better,"CPAP, APAP, BIPAP Mask",storyteller
+bought a raised toilet seat for my father after his hip replacement surgery,Raised Toilet seat (purchase),parent_or_dependent
+I submitted under 'CPAP Supplies' but it's the machine itself,"CPAP, APAP, BIPAP Machine",wrong_guess
+purchased a Philips Personal Best peak flow meter from the pharmacy,Peak Flow Meter,brand_specific
+chiropody and podiatry both treat feet so what's the difference? my receipt says chiropody treatment,Chiropody (Foot Care) Treatment,complaint
+seeing a registered psychotherapist through Greenspace Mental Health for weekly sessions,Psychotherapist,brand_specific
+my father was hospitalized in Ontario and we need to claim the non-OHIP covered charges,Hospital (within your province),parent_or_dependent
+"my grandma is in a facility full-time now, how do I claim the care costs?",Nursing Home and Long Term Care,confused_student
+"I go to pharmacy and buy medicine doctor give prescription for, the pill I take every day",Drug,esl_speaker
+Submitting for a serum Cancer Antigen 125 quantitative assay for ovarian malignancy surveillance,CA-125 (Cancer Antigen) Test,detailed_clinical
+"I bought a pump for breastfeeding, the electric kind",Breast Pump (purchase),confused_student
+"I see a doctor who does therapy, not a medical doctor but has a PhD in psychology",Psychologist,confused_student
+"my doctor write prescription for very strong knee sock, 30 mmhg or more, very hard to wear","Compression Stockings, knee length (30 mmhg & over)",esl_speaker
+I have severe bunions and regular shoes don't fit so my podiatrist ordered custom orthopedic shoes built specifically for my feet,Orthopaedic or custom made shoes,storyteller
+had custom orthotics made at Kintec using Paris Orthotics lab fabrication,Custom made foot orthotics,brand_specific
+Submitting a receipt for prefabricated over-the-counter biomechanical arch support insoles for plantar fasciitis,Standard foot orthotics or shoe inserts,detailed_clinical
+"I just need to claim the MASK, not the machine or supplies, there should be a clearer label for this","CPAP, APAP, BIPAP Mask",complaint
+CPAP tubing filters,"CPAP, APAP, BIPAP Supplies",terse
+purchased a Medline Guardian toilet safety frame from Medical Mart,Versa Frame (purchase),brand_specific
+"I selected 'Custom made foot orthotics' but I got entire custom shoes, not just insoles",Orthopaedic or custom made shoes,wrong_guess
+"I use alcohol pad before injection every day for diabetes, I buy many box",Alcohol swabs,esl_speaker
+My feet were hurting after running so my physio said to try some good off-the-shelf insoles before going custom,Standard foot orthotics or shoe inserts,storyteller
+"I buy walker that have wheel, you push and it roll, also has chair to sit",Walker - with wheels (purchase),esl_speaker
+"What's the right category for CPAP accessories like tubing, filters, and humidifier tanks?","CPAP, APAP, BIPAP Supplies",question
+Filing for the initial placement fee and monthly adjustment charges for fixed ceramic orthodontic brackets,Orthodontic Services (Braces - initial and monthly fee),detailed_clinical
+buying a forearm crutch for my spouse who needs long-term mobility support,Forearm Crutch (purchase),parent_or_dependent
+had OT sessions at Ottawa Hand Therapy Clinic for my carpal tunnel rehab,Occupational Therapy,brand_specific
+claiming hearing aid batteries and cleaning service for my father's devices,Other hearing services,parent_or_dependent
+Where do I file for appointments with a registered clinical counsellor?,Clinical Counsellor,question
+purchased a FreeStyle Libre 2 reader device from the pharmacy,Glucose Monitoring System Receiver,brand_specific
+"this is an ONLINE CBT program not an in-person therapist visit, none of the mental health practitioner categories fit",Digital Cognitive Behavioural Therapy,complaint
+"I go for therapy but my therapist is not psychologist or social worker, she do different type, art therapy",Other mental health services,esl_speaker
+reusable heat pack purchase,Heat Therapy - Re-usable items (purchase),terse
+I run a lot and my calves swell up so I got these sleeves that go from ankle to knee but have no feet,"Compression Calf Sleeves/Tights (footless), any length",storyteller
+"there's machine, mask, and supplies options - I'm claiming the ACTUAL MACHINE not the other parts","CPAP, APAP, BIPAP Machine",complaint
+bought the CGM receiver for my teenage son so he can monitor his glucose at school,Glucose Monitoring System Receiver,parent_or_dependent
+Claiming individual therapy sessions with a Canadian Certified Counsellor registered with the CCPA,Clinical Counsellor,detailed_clinical
+rollator walker with wheels,Walker - with wheels (purchase),terse
+got a TENS machine for my wife who has chronic neck pain from her desk job,"Stimulator, muscle/nerve (TENS)",parent_or_dependent
+my daughter's podiatrist prescribed custom foot orthotics for her flat feet,Custom made foot orthotics,parent_or_dependent
+"I picked 'Social Worker Bachelors' but she actually has an MSW, is there a difference in coverage?",Social Worker (Masters level),wrong_guess
+How do I claim a bath bench I bought after my knee surgery?,Bath Bench/Chair (purchase),question
+dental pre-determination estimate,Dental Estimate for Services,terse
+Claiming a bilateral screening mammogram with computer-aided detection at a breast imaging centre,Mammogram,detailed_clinical
+my son needs to claim his custom left knee brace after his hockey injury,"Brace, left knee (Custom)",parent_or_dependent
+"is a glucometer the same as a glucose monitoring system? mine just does finger pricks, no sensors",Blood glucose meter,complaint
+Claiming custom-fitted bilateral thigh-length compression garments rated 30-40 mmHg for stage III chronic lymphedema,"Compression Stockings, thigh/full (30 mmhg & over)",detailed_clinical
+athletic therapy session,Athletic Therapy,terse
+bedpan purchase,Bedpan,terse
+"I purchase the sock with small compression, only 10 mmhg, for standing at work long time","Compression Stockings, any length (up to 14 mmhg)",esl_speaker
+claiming my father's PSA test from his annual prostate screening,PSA Test (Prostate Specific Antigen),parent_or_dependent
+"I need a new face thing for my breathing machine, just the part that goes on my face","CPAP, APAP, BIPAP Mask",confused_student
+What category for an insulin pump that I wear on my body for continuous delivery?,Insulin infusion pump,question
+purchased a ResMed AirSense 11 AutoSet CPAP from VitalAire,"CPAP, APAP, BIPAP Machine",brand_specific
+"I need safety glass for work in laboratory, it have my prescription and protect eyes",Safety Glasses,esl_speaker
+I found a great therapist through my school's referral list and she's a registered clinical counsellor specializing in student anxiety,Clinical Counsellor,storyteller
+I bought a commode chair that has wheels so you can roll it around,Wheeled Commode (purchase),confused_student
+Which category for bed rails I purchased for fall prevention?,Bed Rails (purchase),question
+knee length 20-29 mmhg stockings,"Compression Stockings, knee length (20-29 mmhg)",terse
+"my wife sees an osteopath for her chronic neck pain, claiming the appointments",Osteopath,parent_or_dependent
+"I went for a rub-down at the massage place, a real registered therapist though",Massage,confused_student
+bought a blood glucose meter for my diabetic father to use at home,Blood glucose meter,parent_or_dependent
+Which category for a treatment session with a chiropodist for foot care?,Chiropody (Foot Care) Treatment,question
+"the foot place made me actual shoes, not just insoles, they built the whole shoe",Orthopaedic or custom made shoes,confused_student
+need to claim knee-high 18 mmhg compression stockings for my daughter's circulation issues,"Compression Stockings, knee length (15-19 mmhg)",parent_or_dependent
+How do I submit a claim under the provincial replacement plan?,Provincial Replacement Plan,question
+it's the screen thingy that shows my sugar levels from the sensor on my arm,Glucose Monitoring System Receiver,confused_student
+"I buy pump for breast milk, electric type, for feeding baby",Breast Pump (purchase),esl_speaker
+I got little devices that go in my ears to help me hear better,Hearing Aids,confused_student
+"I buy insole from pharmacy for my shoe, it is not custom, just regular insole from shelf",Standard foot orthotics or shoe inserts,esl_speaker
+those little wet pad things I use before I prick my finger for blood sugar,Alcohol swabs,confused_student
+"brace is custom make for right knee only, orthotist take measurement of right leg","Brace, right knee (Custom)",esl_speaker
+Where do I claim a blood glucose meter device purchase?,Blood glucose meter,question
+Which category for hearing-related services that aren't exams or new hearing aids?,Other hearing services,question
+Filing for replacement self-adhesive carbon film TENS electrodes and lead wire accessories,"Stimulator, supplies",detailed_clinical
+Where do I submit a claim for a routine eye examination?,Eye Exam,question
+purchased a Jon Renau human hair wig from Continental Hair in Toronto,Wig,brand_specific
+vision therapy sessions at the Ottawa Vision Therapy Centre,Other vision services (i.e. safety glasses),brand_specific
+24hr blood pressure monitoring test,Ambulatory Blood Pressure Test,terse
+"Where do I claim a lab test that doesn't match allergy, vitamin D, PSA, or other specific categories?",Other laboratory and diagnostic tests,question
+Which category for the wireless transmitter part of my glucose monitoring system?,Glucose Monitoring System Transmitter,question
+I bought one of those pan things for using the bathroom in bed,Bedpan,confused_student
+"I have treatment for eye that is not exam and not glass, it is exercise for eyes to work together",Other vision services (i.e. safety glasses),esl_speaker
+"I accidentally submitted under knee-length last time but these go up to my thighs, 18 mmhg, please help","Compression Stockings, thigh/full (15-19 mmhg)",complaint
+Where do I file for replacement electrode pads and wires for my TENS unit?,"Stimulator, supplies",question
+"I need TB test for my school, they put small injection in arm and check after 2 day",TB Test/Mantoux,esl_speaker
+alcohol prep pads diabetes,Alcohol swabs,terse
+"I saw someone about my eating, she's a registered dietitian who makes meal plans",Dietitian Services,confused_student
+Where do I file a claim for an x-ray?,X-Ray,question
+purchased a Hugo Elite rollator walker from Costco,Walker - with wheels (purchase),brand_specific
+I switched from multiple daily injections to an insulin pump that sticks to my stomach and delivers insulin all day based on my settings,Insulin infusion pump,storyteller
+my doctor thinks my blood pressure spikes only at the clinic so she ordered a 24-hour portable monitor test,Ambulatory Blood Pressure Test,storyteller
+Where do I file for ostomy pouches and related supplies?,Ostomy,question
+lab test blood work other,Other laboratory and diagnostic tests,terse
+Claiming bilateral below-knee medical-grade compression hosiery rated 30-40 mmHg for chronic venous insufficiency stage C4,"Compression Stockings, knee length (30 mmhg & over)",detailed_clinical
+Where do I claim genetic screening for hereditary conditions?,Screening (for DNA/Genetic purposes),question
+"these are SUPPLIES for my TENS machine, not the machine itself - just electrode pads and new lead wires","Stimulator, supplies",complaint
+Submitting for a custom-fabricated right knee unloader brace for medial compartment osteoarthritis,"Brace, right knee (Custom)",detailed_clinical
+"my eye doctor ordered some special test beyond the regular exam, something about checking the back of my eye",Diagnostic Vision Test,confused_student
+my mother had a hip replacement and needs a home care worker to come help her bathe and get dressed,In Home Support Services,parent_or_dependent
+Where do I submit my pharmacy receipt for a prescription drug?,Drug,question
+I installed those metal bars in my bathroom so I can grab onto something in the shower,Grab Bar/Bath Bar - permanent fixtures (purchase),confused_student
+Claiming a dual-channel transcutaneous electrical nerve stimulation unit with adjustable frequency and intensity,"Stimulator, muscle/nerve (TENS)",detailed_clinical
+Which category for my social worker who has a master's degree?,Social Worker (Masters level),question
+my daughter's co-op placement requires prescription safety glasses for the lab,Safety Glasses,parent_or_dependent
+picked up Bauerfeind VenoTrain micro knee-high 15-20 mmHg from MedPro,"Compression Stockings, knee length (15-19 mmhg)",brand_specific
+"got a microwave heat pack for my back pain, I use it every night after work",Heat Therapy - Re-usable items (purchase),storyteller
+I've had ongoing right knee problems from an old meniscus tear so my surgeon sent me to get a custom brace made for my right side,"Brace, right knee (Custom)",storyteller
+I selected 'Compression Stockings knee length 20-29' but these were actually custom-fabricated,"Compression Stockings, custom, any length",wrong_guess
+"it's just a REGULAR eye exam, not a diagnostic test or vision therapy, just the basic checkup",Eye Exam,complaint
+I see someone who helps me talk better after my stroke,Speech Therapy,confused_student
+custom AFO brace rx,"Brace, AFO/KAFO (Custom)",terse
+I tore my left ACL playing basketball and the orthotist built a custom brace fitted to my left knee measurements,"Brace, left knee (Custom)",storyteller
+"I went to a foot doctor who has a DPM degree, is that different from a chiropodist?",Podiatry Treatment,confused_student
+the brace person made one specifically for my right knee after my injury,"Brace, right knee (Custom)",confused_student
+claiming alcohol swabs for my diabetic husband's daily insulin injections,Alcohol swabs,parent_or_dependent
+CPAP machine purchase,"CPAP, APAP, BIPAP Machine",terse
+"I filed under 'Insulin Gun automatic' but it's actually a pump I wear 24/7, not a gun",Insulin infusion pump,wrong_guess
+I use a CGM sensor on my arm but instead of using my phone I bought the dedicated handheld receiver to see my glucose readings,Glucose Monitoring System Receiver,storyteller
+I selected 'knee length 30 and over' but the receipt actually says 25 mmhg,"Compression Stockings, knee length (20-29 mmhg)",wrong_guess
+"very strong stocking for all my leg from foot to top, 30 mmhg or more, doctor say I must wear","Compression Stockings, thigh/full (30 mmhg & over)",esl_speaker
+"I get hit in mouth during basketball game and tooth break, accident not regular dental",Dental Accident,esl_speaker
+"I go to eye doctor for check, she look in my eye and test if I can see good",Eye Exam,esl_speaker
+diagnostic ultrasound scan,Ultrasound,terse
+"my doctor say check blood pressure at home every day, so I buy machine",Blood pressure monitor,esl_speaker
+"I went to someone who put tiny needles all over my back, is that acupuncture?",Acupuncture,confused_student
+"I need protective glasses for my job in the lab, with my prescription in them",Safety Glasses,confused_student
+Submitting a claim for a Bluetooth-enabled wireless transmitter unit for continuous glucose monitoring system data relay,Glucose Monitoring System Transmitter,detailed_clinical
+Claiming individualized medical nutrition therapy consultation with a Registered Dietitian for type 2 diabetes management,Dietitian Services,detailed_clinical
+Claiming CSA Z94.3 rated prescription polycarbonate safety eyewear with wraparound side shields,Safety Glasses,detailed_clinical
+"I just bought some arch support insoles at the drugstore, nothing custom",Standard foot orthotics or shoe inserts,confused_student
+"Where do I submit a vision-related claim that doesn't fit glasses, contacts, or eye exams?",Other vision services (i.e. safety glasses),question
+"I need to get my hearing aid fixed, it's not a new purchase just a repair",Other hearing services,confused_student
+My sensors last about 10 days each so I buy a three-month supply at a time and need to claim the box,Glucose Monitoring System Supplies/Sensors,storyteller
+I hurt my shoulder playing rugby and went to an athletic therapist at the university clinic,Athletic Therapy,storyteller
+"I got the crutch that has a ring around my forearm, not the underarm type",Forearm Crutch (purchase),confused_student
+sessions with my BSW social worker through Inkblot Therapy platform,Social Worker (Bachelors),brand_specific
+Claiming a 90-day supply of disposable subcutaneous glucose oxidase-based sensors for continuous interstitial glucose monitoring,Glucose Monitoring System Supplies/Sensors,detailed_clinical
+"my elderly mother needs a shower chair for safety, claiming the purchase",Bath Bench/Chair (purchase),parent_or_dependent
+"I'm diabetic so my doctor said I need regular foot care from a chiropodist, she trimmed my nails and treated a callus",Chiropody (Foot Care) Treatment,storyteller
+wheeled commode chair rolling,Wheeled Commode (purchase),terse
+I went to someone who cracked my back and adjusted my spine,Chiropractic,confused_student
+"podiatry and chiropody are both foot treatments, my provider is a PODIATRIST specifically",Podiatry Treatment,complaint
+I specifically looked for a social worker with advanced training and found one with an MSW who specializes in trauma therapy,Social Worker (Masters level),storyteller
+Claiming specific IgE serum allergy testing panel for environmental and food allergen identification,Blood test for Allergies (IG test not eligible),detailed_clinical
+"I need special glasses for my lab that protect my eyes, they have my prescription in them too",Safety Glasses,confused_student
+I picked 'Crutches pair' but mine is actually a forearm crutch with an elbow cuff,Forearm Crutch (purchase),wrong_guess
+CGM sensors refill,Glucose Monitoring System Supplies/Sensors,terse
+"I go to social worker for counselling, she have bachelor degree in social work, BSW",Social Worker (Bachelors),esl_speaker
+Where do I file physiotherapy treatment sessions?,Physiotherapy,question
+I think this claim is supposed to go through my provincial plan first?,Provincial Replacement Plan,confused_student
+"my daughter needs new prescription glasses, her eyes got worse since last year",Prescription Glasses,parent_or_dependent
+chiro back adjustment,Chiropractic,terse
+"my mom uses a manual insulin gun because she doesn't like the spring-loaded ones, need to claim it",Insulin Gun (manual),parent_or_dependent
+"I selected 'Glucose Monitoring System Transmitter' but these are the adhesive sensors, not the transmitter",Glucose Monitoring System Supplies/Sensors,wrong_guess
+"I picked 'knee length 15-19' but these are thigh-high, not knee-high","Compression Stockings, thigh/full (15-19 mmhg)",wrong_guess
+"my father has diabetic neuropathy and needs custom orthopedic shoes, submitting the claim for him",Orthopaedic or custom made shoes,parent_or_dependent
+Where do I claim an acupuncture session for chronic migraines?,Acupuncture,question
+Where do I claim replacement supplies for my insulin pump like infusion sets?,Insulin infusion pump supplies,question
+What category for sessions with a registered psychotherapist?,Psychotherapist,question
+"they put a lift in my existing shoe to make one side higher, is that a modification?",Other foot care services (i.e. orthopedic shoe modification),confused_student
+other mental health service claim,Other mental health services,terse
+prescription safety glasses lab,Safety Glasses,terse
+ordered a year supply of Acuvue Oasys daily contacts from Clearly.ca,Prescription Contacts,brand_specific
+my dentist says she needs to send in an estimate before starting my crown work so insurance can pre-approve it,Dental Estimate for Services,storyteller
+I picked 'Orthopaedic or custom made shoes' but I just got my existing shoes modified with a heel lift,Other foot care services (i.e. orthopedic shoe modification),wrong_guess
+I had some kind of emergency medical thing happen but it wasn't an ambulance,Other emergency services,confused_student
+I broke my foot playing soccer and the ER gave me a pair of standard crutches that go under my arms,"Crutches, pair",storyteller
+"I wear small machine on body all time, it give insulin slowly, not injection, it is pump",Insulin infusion pump,esl_speaker
+What category for a bra designed to be worn after a mastectomy?,Mastectomy bra,question
+I got those bars that attach to the side of the bed so you don't fall out,Bed Rails (purchase),confused_student
+Which category for a peak flow meter to monitor my asthma?,Peak Flow Meter,question
+claiming a Trudell AeroChamber Plus Flow-Vu spacer from Shoppers Drug Mart,Aerochamber,brand_specific
+I bought the little machine that pricks your finger and tells you your sugar number,Blood glucose meter,confused_student
+got a Mueller adjustable knee brace from Walmart,Brace (Non-custom),brand_specific
+My physio uses a TENS machine in sessions and said I should buy my own for home use to help manage my chronic back pain,"Stimulator, muscle/nerve (TENS)",storyteller
+ordered a ResMed AirSense accessory kit with ClimateLineAir tubing and HypoAllergenic filters from CPAP.com,"CPAP, APAP, BIPAP Supplies",brand_specific
+purchased a Vicks Warm Steam Vaporizer from Shoppers Drug Mart,Vaporizer (table top),brand_specific
+insulin pump device,Insulin infusion pump,terse
+"I went to someone who cut my toenails and scraped the hard skin off my feet, is that a chiropodist?",Chiropody (Foot Care) Treatment,confused_student
+my doctor ordered blood work specifically to check my vitamin D levels,Vitamin D Test,confused_student
+it's the little piece that clips onto the sensor and sends data to my phone wirelessly,Glucose Monitoring System Transmitter,confused_student
+buying a quad cane for my grandmother who needs extra stability,Quad Cane (purchase),parent_or_dependent
+"I buy the machine for breathing when sleep, doctor say I have sleep apnea, machine push air","CPAP, APAP, BIPAP Machine",esl_speaker
+bought a Tempur-Pedic TEMPUR-Neck pillow from Sleep Country,Cervical Pillow,brand_specific
+How do I claim medical cannabis that was prescribed by my doctor?,Medical Cannabis,question
+signed my daughter up for a digital CBT app to help her manage school-related anxiety,Digital Cognitive Behavioural Therapy,parent_or_dependent
+subscribed to MindBeacon Therapist Guided iCBT program through my plan,Digital Cognitive Behavioural Therapy,brand_specific
+Submitting for a 24-hour ambulatory blood pressure monitoring study for white coat hypertension evaluation,Ambulatory Blood Pressure Test,detailed_clinical
+purchased a TENS 7000 digital unit from HealthyKin,"Stimulator, muscle/nerve (TENS)",brand_specific
+ambulance bill ER trip,Ambulance,terse
+I picked 'Glucose Monitoring System Receiver' but it's just a regular finger-prick glucometer,Blood glucose meter,wrong_guess
+What category for a prescription cervical support pillow?,Cervical Pillow,question
+Submitting receipt for bilateral below-knee support hosiery rated 8-14 mmHg for venous insufficiency prophylaxis,"Compression Stockings, any length (up to 14 mmhg)",detailed_clinical
+"I need IV stand for home, for medicine that go in my vein, I buy the metal stand with hook",IV Stand (purchase),esl_speaker
+What category for a medical device or item that doesn't fit any specific category?,Other medical items,question
+the audiologist took a mold of my ear canals and made plugs that fit perfectly,Ear Plugs (custom made),confused_student
+Submitting for therapeutic sessions with a certified expressive arts therapist for trauma-informed mental health support,Other mental health services,detailed_clinical
+"it's the little device I wear all the time that gives me insulin continuously, it's attached to my body",Insulin infusion pump,confused_student
+"these are CUSTOM orthotics, not the $30 insoles from Shoppers, they were made from a 3D scan of my feet",Custom made foot orthotics,complaint
+What category for a versa frame or toilet safety frame?,Versa Frame (purchase),question
+"Where do I submit a claim for a mental health practitioner who isn't a psychologist, counsellor, or social worker?",Other mental health services,question
+I started seeing a registered psychotherapist who does EMDR for my PTSD from a car accident,Psychotherapist,storyteller
+"After standing all day at my retail job my legs ache, so I got knee-high compression socks at about 18 mmhg","Compression Stockings, knee length (15-19 mmhg)",storyteller
+purchased a Drive Medical 3-in-1 wheeled commode from Medichair,Wheeled Commode (purchase),brand_specific
+colonoscopy screening procedure,Colonoscopy,terse
+Claiming therapy sessions with a Registered Social Worker holding a Bachelor of Social Work from an accredited program,Social Worker (Bachelors),detailed_clinical
+is there really a difference between custom and non-custom in the dropdown? mine is just from shoppers,Brace (Non-custom),complaint
+had custom orthopedic shoes made by P.W. Minor through my pedorthist at SoleFit,Orthopaedic or custom made shoes,brand_specific
+Filing for optical coherence tomography and automated visual field perimetry ordered for glaucoma suspect evaluation,Diagnostic Vision Test,detailed_clinical
+my dad needs a rolling commode so the PSW can move him to the bathroom easier,Wheeled Commode (purchase),parent_or_dependent
+orthotist measure my left knee and make special brace only for left side,"Brace, left knee (Custom)",esl_speaker
+"I buy contact lens for eye, doctor give prescription, I wear lens not glass",Prescription Contacts,esl_speaker
+Where do I submit a claim for a medical alert identification bracelet?,Medic Alert Bracelet,question
+bought a BIPAP machine for my husband who was just diagnosed with sleep apnea,"CPAP, APAP, BIPAP Machine",parent_or_dependent
+Which category for a tabletop humidifier?,Humidifier (Table Top),question
+purchased a Medline fracture bedpan from Medical Mart,Bedpan,brand_specific
+I put this under 'Brace Non-custom' but it's actually a custom brace for my left knee,"Brace, left knee (Custom)",wrong_guess
+CA-125 blood test ovarian,CA-125 (Cancer Antigen) Test,terse
+had a deep tissue massage at Massage Addict clinic on Merivale Road,Massage,brand_specific
+My CPAP therapist told me to replace the tubing and filters every three months so I bought a supply kit,"CPAP, APAP, BIPAP Supplies",storyteller
+claiming custom ear plugs for my son who is a musician and needs hearing protection,Ear Plugs (custom made),parent_or_dependent
+taking my mom to the podiatrist for her bunion treatment and need to claim it,Podiatry Treatment,parent_or_dependent
+I tried to file under 'Clinical Counsellor' but my provider is actually a certified art therapist,Other mental health services,wrong_guess
+CSA safety glasses prescription,Safety Glasses,terse
+"I buy machine for test sugar in blood, you prick finger and it show number",Blood glucose meter,esl_speaker
+"I wear contact lenses instead of glasses, they're prescription",Prescription Contacts,confused_student
+had a Zeiss OCT retinal scan at Dr. Bhatt's ophthalmology practice,Diagnostic Vision Test,brand_specific
+"I go for talk therapy, my therapist is clinical counsellor, she have CCC after name",Clinical Counsellor,esl_speaker
+What category for having my regular shoes modified with orthopedic adjustments?,Other foot care services (i.e. orthopedic shoe modification),question
+I turned 50 and my family doctor said it's time for a colonoscopy to screen for colon cancer,Colonoscopy,storyteller
+"my therapist is a social worker with a graduate degree, I think a masters in social work",Social Worker (Masters level),confused_student
+"I went to a therapist who does music therapy, I can't find a category for that",Other mental health services,confused_student
+Which category for a spacer device I use with my asthma inhaler?,Aerochamber,question
+sessions with my RCC clinical counsellor through the Onyx Therapy Group,Clinical Counsellor,brand_specific
+store bought ankle brace,Brace (Non-custom),terse
+Which option do I select for compression stockings that are under 14 mmHg?,"Compression Stockings, any length (up to 14 mmhg)",question
+MSW social worker claim,Social Worker (Masters level),terse
+"I just grabbed a wrist thing from the drugstore, it's not custom or anything",Brace (Non-custom),confused_student
+My doctor recommended I try a digital CBT program since the waitlist for in-person therapy was six months long,Digital Cognitive Behavioural Therapy,storyteller
+my child sees a play therapist for emotional regulation and I can't find the right category,Other mental health services,parent_or_dependent
+"I saw a kinesiologist, I can't find that in the category list anywhere",Other health specialists,confused_student
+custom right knee brace rx,"Brace, right knee (Custom)",terse
+filing a claim for my dad's thigh-length 25 mmhg stockings post his bypass surgery,"Compression Stockings, thigh/full (20-29 mmhg)",parent_or_dependent
+I picked 'Psychotherapist' but my provider is a registered psychologist with a doctorate,Psychologist,wrong_guess
+had a chiropody session at FeetFirst Foot Care Clinic in Ottawa,Chiropody (Foot Care) Treatment,brand_specific
+why do I need to know if my social worker has a bachelors or masters? her profile says BSW so I guess bachelors,Social Worker (Bachelors),complaint
+"I buy crutch that hold my arm near elbow, not under arm type, it is forearm style",Forearm Crutch (purchase),esl_speaker
+purchased a Chattanooga ColPaC reusable cold therapy gel pack from physio supplies,Cold Therapy - Re-usable Items (purchase),brand_specific
+CPAP mask replacement,"CPAP, APAP, BIPAP Mask",terse
+What's the right category for knee-length compression stockings at 30 mmHg or higher?,"Compression Stockings, knee length (30 mmhg & over)",question
+shoe lift modification claim,Other foot care services (i.e. orthopedic shoe modification),terse
+claiming an ultrasound my wife had done privately because the wait was too long,Ultrasound,parent_or_dependent
+claiming shoe modifications for my child's shoes to correct his gait issue,Other foot care services (i.e. orthopedic shoe modification),parent_or_dependent
+my son sees an athletic therapist for his recurring hamstring injury from track,Athletic Therapy,parent_or_dependent
+"I filed under 'CPAP Machine' but I only bought a new mask, the machine was already claimed","CPAP, APAP, BIPAP Mask",wrong_guess
+"I went to get measured and they made stockings just for my legs, not off the rack","Compression Stockings, custom, any length",confused_student
+"I got new glasses with my updated prescription, frames and lenses",Prescription Glasses,confused_student
+sessions with a mental health nurse at the Royal Ottawa through their outpatient program,Other mental health services,brand_specific
+"I buy new mask for my CPAP machine, the part that cover nose when sleeping","CPAP, APAP, BIPAP Mask",esl_speaker
+ordered a 3-pack of Dexcom G7 sensors from Diabetes Express,Glucose Monitoring System Supplies/Sensors,brand_specific
+"my asthma doctor say I should check breathing at home, I buy the tube I blow in",Peak Flow Meter,esl_speaker
+Where do I claim in-home support services I received during recovery?,In Home Support Services,question
+my daughter needs a Mantoux TB test for her university residence requirement,TB Test/Mantoux,parent_or_dependent
+my grandmother is bedridden after surgery and we needed to buy a bedpan,Bedpan,parent_or_dependent
+orthodontic braces monthly fee,Orthodontic Services (Braces - initial and monthly fee),terse
+"I want to claim the ACTUAL TENS device, not the electrode pads or replacement supplies","Stimulator, muscle/nerve (TENS)",complaint
+"getting a replacement CPAP nasal mask for my wife, her old one cracked","CPAP, APAP, BIPAP Mask",parent_or_dependent
+had my annual eye exam at FYidoctors location in Rideau Centre,Eye Exam,brand_specific
+"the dropdown has like seven compression stocking options and mine are just mild ones under 14 mmhg, which one??","Compression Stockings, any length (up to 14 mmhg)",complaint
+bought a pair of underarm crutches for my son after his ankle fracture,"Crutches, pair",parent_or_dependent
+"I have the compression stocking that go high to my leg top, 25 mmhg pressure","Compression Stockings, thigh/full (20-29 mmhg)",esl_speaker
+incontinence pads underwear,Incontinence Supplies,terse
+"I filed under 'Chiropody Foot Care Treatment' but my receipt says podiatrist, not chiropodist",Podiatry Treatment,wrong_guess
+Where do I file for prescription contact lenses?,Prescription Contacts,question
+"there are three different knee-length options by pressure, mine are 15-19 mmhg, I almost picked the wrong one last time","Compression Stockings, knee length (15-19 mmhg)",complaint
+Claiming a musculoskeletal diagnostic ultrasound of the right shoulder for rotator cuff evaluation,Ultrasound,detailed_clinical
+"Claiming graduated compression calf sleeves, open-toe design, 15-20 mmHg, bilateral","Compression Calf Sleeves/Tights (footless), any length",detailed_clinical
+purchased a SmartCrutch forearm crutch from Motion Specialties,Forearm Crutch (purchase),brand_specific
+Where do I claim a bedpan for home recovery?,Bedpan,question
+off-shelf insoles claim,Standard foot orthotics or shoe inserts,terse
+"Which category for a forearm crutch with an arm cuff, not the standard underarm kind?",Forearm Crutch (purchase),question
+"I buy walker for walk, it have no wheel, you must lift and move, metal frame",Walker - non wheeled (purchase),esl_speaker
+What category for a cane with a four-pronged base?,Quad Cane (purchase),question
+I bought a regular single cane to help me walk after my ankle healed,"Cane, standard",confused_student
+I got metal braces on my teeth and pay a monthly fee to the orthodontist,Orthodontic Services (Braces - initial and monthly fee),confused_student
+"doctor send me to place where they scan foot and make special insole only for me, custom",Custom made foot orthotics,esl_speaker
+"I need long stocking up to thigh, the pressure is 15 to 19, for my circulation","Compression Stockings, thigh/full (15-19 mmhg)",esl_speaker
+"claiming my daughter's orthodontic braces treatment, both the initial fee and monthly adjustments",Orthodontic Services (Braces - initial and monthly fee),parent_or_dependent
+"my son got hit by a ball at recess and cracked his front teeth, claiming the emergency dental",Dental Accident,parent_or_dependent
+footless calf sleeves claim,"Compression Calf Sleeves/Tights (footless), any length",terse
+Where do I file for compression stockings that were custom made to my measurements?,"Compression Stockings, custom, any length",question
+speech therapy SLP session,Speech Therapy,terse
+"Claiming a comprehensive optometric examination including refraction, tonometry, and fundoscopy",Eye Exam,detailed_clinical
+"I use this pen thing to give myself insulin, you click the dose and push it in",Insulin Pen Injector,confused_student
+claiming the ambulatory BP test for my spouse who wore the monitor for a full day,Ambulatory Blood Pressure Test,parent_or_dependent
+purchased Medi Comfort knee-high 20-30 mmHg from Shoppers Home Health,"Compression Stockings, knee length (20-29 mmhg)",brand_specific
+"the doctor send me to special place, they measure my leg and make stocking only for me, not from store","Compression Stockings, custom, any length",esl_speaker
+claiming chiropractic visits for my wife's lower back pain from pregnancy,Chiropractic,parent_or_dependent
+"I saw a naturopath, they're like a holistic doctor who uses natural remedies",Naturopathic Treatment,confused_student
+I put this under 'Prescription Glasses' but these are actually CSA-certified safety glasses for the lab,Safety Glasses,wrong_guess
+I bought those little needle things that prick your finger for blood sugar testing,Lancet,confused_student
+ordered prescribed medical cannabis from Shoppers Cannabis Care online,Medical Cannabis,brand_specific
+"it's a MANUAL gun not automatic, I don't understand why there are two separate categories for basically the same thing",Insulin Gun (manual),complaint
+What category for adult incontinence products?,Incontinence Supplies,question
+"doctor say I need special test for eye, not normal check, special machine look inside eye for problem",Diagnostic Vision Test,esl_speaker
+Filing for patient-specific custom-fabricated biomechanical foot orthoses manufactured from three-dimensional foot impressions,Custom made foot orthotics,detailed_clinical
+podiatrist visit treatment,Podiatry Treatment,terse
+TB skin test Mantoux,TB Test/Mantoux,terse
+got prescription safety glasses through the SafeVision program at Clearly,Safety Glasses,brand_specific
+Which category for a commode without wheels?,Stationary Commode (purchase),question
+had a custom Fillauer AFO fabricated at Ottawa Orthotics clinic,"Brace, AFO/KAFO (Custom)",brand_specific
+claiming physio sessions for my husband's post-surgical knee rehabilitation,Physiotherapy,parent_or_dependent
+"it's a FOREARM crutch, not a regular underarm one, the cuff goes around my forearm",Forearm Crutch (purchase),complaint
+"regular crutches, the normal kind under the arms, a PAIR - why is forearm crutch listed separately?","Crutches, pair",complaint
+"I got a lightweight wheelchair that someone else pushes me in, it folds up for the car",Transport Wheelchair,confused_student
+submitting my child's custom KAFO brace that was made for his leg condition,"Brace, AFO/KAFO (Custom)",parent_or_dependent
+"there's left knee and right knee custom options which is weirdly specific, anyway mine is the left one","Brace, left knee (Custom)",complaint
+my child sees a speech-language pathologist for a stuttering issue,Speech Therapy,parent_or_dependent
+purchased a OneTouch Verio Reflect glucose meter from Rexall,Blood glucose meter,brand_specific
+"the doctor make special brace for my foot and ankle, it is custom only for me, go from foot to below knee","Brace, AFO/KAFO (Custom)",esl_speaker
+"I buy the pad that stick on skin for my electric machine, not machine itself, just the pad replacement","Stimulator, supplies",esl_speaker
+"I keep going back and forth between like 5 categories, these are just footless compression tights!","Compression Calf Sleeves/Tights (footless), any length",complaint
+"need replacement electrode pads for my dad's TENS unit, his pads are worn out","Stimulator, supplies",parent_or_dependent
+"my doctor ordered a blood test to check my prostate, the PSA number",PSA Test (Prostate Specific Antigen),confused_student
+"I went to the dentist for a regular cleaning and checkup, basic stuff",Dental Services,confused_student
+TENS machine purchase,"Stimulator, muscle/nerve (TENS)",terse
+"clinical counsellor, psychologist, psychotherapist - what's the difference? mine is a clinical counsellor with CCC credentials",Clinical Counsellor,complaint
+had physiotherapy at pt Health clinic on Bank Street for my ACL recovery,Physiotherapy,brand_specific
+"I got a little steam machine that puts warm moisture in the air, helps with congestion",Vaporizer (table top),confused_student
+had a podiatry appointment at Ottawa Foot Clinic with Dr. Smith DPM,Podiatry Treatment,brand_specific
+"I have hearing loss and audiologist say I need hearing aid, I buy two for both ear",Hearing Aids,esl_speaker
+"I buy simple cane for walking, one point on bottom, to help balance","Cane, standard",esl_speaker
+purchased BabyFirst audiometric screening package at HearingLife for my toddler,Audiometric Exam,brand_specific
+claiming my father's colonoscopy procedure at the endoscopy clinic,Colonoscopy,parent_or_dependent
+After my hip replacement the surgeon told me to wear full-leg compression stockings at 25 mmhg for six weeks,"Compression Stockings, thigh/full (20-29 mmhg)",storyteller
+Where do I submit a claim for a custom-made AFO or KAFO brace?,"Brace, AFO/KAFO (Custom)",question
+hearing aid repair service,Other hearing services,terse
+my son needs to submit a claim for his footless compression calf sleeves for track,"Compression Calf Sleeves/Tights (footless), any length",parent_or_dependent
+Filing for bilateral thigh-length graduated compression stockings rated 20-30 mmHg for post-surgical lymphedema management,"Compression Stockings, thigh/full (20-29 mmhg)",detailed_clinical
+I go to lab for blood test and they charge extra money just for take the blood out,Blood Withdrawal Fee,esl_speaker
+"these are SAFETY glasses for work, not regular prescription glasses, they're CSA approved with side shields",Safety Glasses,complaint
+ordered a 20-pack of TENS 7000 compatible electrode pads from Amazon,"Stimulator, supplies",brand_specific
+Submitting receipt for a point-of-care capillary blood glucose monitoring device for self-management of type 2 diabetes,Blood glucose meter,detailed_clinical
+had my Oticon hearing aid repaired and re-tubed at HearingLife,Other hearing services,brand_specific
+Where do I claim a reusable cold therapy product like a gel ice pack?,Cold Therapy - Re-usable Items (purchase),question
+Filing for a spring-activated automatic insulin injection device for subcutaneous insulin delivery,Insulin Gun (automatic),detailed_clinical
+had a chiropractic session at Back in Motion clinic on Bank Street,Chiropractic,brand_specific
+"my daughter sees a social worker with a BSW for her anxiety, need to claim the sessions",Social Worker (Bachelors),parent_or_dependent
+purchased an Omnipod 5 tubeless insulin pump system from my endocrinologist's office,Insulin infusion pump,brand_specific
+"so frustrated that this medical supply doesn't have its own category, I'll try 'other medical items'",Other medical items,complaint
+I bought one of those arm cuffs that measures blood pressure at home,Blood pressure monitor,confused_student
+"I buy bottle for use toilet in bed, because I cannot walk after surgery",Urinal (purchase),esl_speaker
+"I filed under 'thigh/full 20-29' but these are actually 40 mmhg, oops","Compression Stockings, thigh/full (30 mmhg & over)",wrong_guess
+"the pharmacist gave me knee socks and said they're medium-firm, I think 25 mmhg?","Compression Stockings, knee length (20-29 mmhg)",confused_student
+What's the right category for a health practitioner who doesn't fit the specific provider types?,Other health specialists,question
+Do I pick the right knee custom brace category for a brace molded to my right leg?,"Brace, right knee (Custom)",question
+"I put this under 'Psychotherapist' but it's actually a digital CBT platform, not in-person sessions",Digital Cognitive Behavioural Therapy,wrong_guess
+I got the injector device that does the shot automatically when you push a button,Insulin Gun (automatic),confused_student
+"my wife sees a homeopath for her seasonal allergies, claiming the sessions",Homeopathic Treatment,parent_or_dependent
+Where do I file for lancets used with my glucose meter?,Lancet,question
+"I bought new hoses and filter things for my breathing machine, not the machine or mask","CPAP, APAP, BIPAP Supplies",confused_student
+Where do I submit for thigh-length compression stockings at 30 mmHg or above?,"Compression Stockings, thigh/full (30 mmhg & over)",question
+I got a plastic seat for the bathtub so I can shower without standing,Bath Bench/Chair (purchase),confused_student
+"I break my arm and doctor put fiberglass cover on it, the hard thing for bone to heal","Cast, fiberglass",esl_speaker
+naturopath ND visit,Naturopathic Treatment,terse
+my mother moved into Perley Rideau Veterans' Health Centre and we need to claim the supplementary costs,Nursing Home and Long Term Care,parent_or_dependent
+"I go to audiologist, she check hearing and help with my hearing machine",Audiologist Services,esl_speaker
+"I buy tube for my inhaler, help me breathe medicine, it is spacer",Aerochamber,esl_speaker
+purchased IMAK Compression Arthritis Gloves from Walmart,Other garment brace services (i.e. compression gloves),brand_specific
+"the 30 and over option is confusing because my stockings say 30-40, is that the same thing?","Compression Stockings, knee length (30 mmhg & over)",complaint
+custom orthotics rx,Custom made foot orthotics,terse
+What category for ear plugs that were custom-made from an ear impression?,Ear Plugs (custom made),question
+"my doctor ordered a blood test to check for a cancer marker, CA-125 I think it's called",CA-125 (Cancer Antigen) Test,confused_student
+I turned 40 and my doctor recommended I start getting regular mammograms for early detection,Mammogram,storyteller
+Which option for a walker that doesn't have any wheels?,Walker - non wheeled (purchase),question
+"I submitted under 'Stimulator muscle/nerve TENS' but I only bought replacement pads, not the machine","Stimulator, supplies",wrong_guess
+prescription medication rx claim,Drug,terse
+"I keep mixing up sensors and transmitters, these are the SENSORS that you stick on and replace every 10 days",Glucose Monitoring System Supplies/Sensors,complaint
+"I fell and hit my head and my roommate called an ambulance, I have the invoice for $240",Ambulance,storyteller
+my son broke his arm at the playground and had a fiberglass cast put on at CHEO,"Cast, fiberglass",parent_or_dependent
+How do I submit a pre-authorization request for an upcoming medical service?,Estimate/Pre-Authorization,question
+"What category for a TENS unit device itself, not the replacement pads?","Stimulator, muscle/nerve (TENS)",question
+My supervisor said I need safety glasses in the chemistry lab so I got prescription ones made with impact-resistant lenses,Safety Glasses,storyteller
+my diabetic father uses an insulin pen and needs to claim the device cost,Insulin Pen Injector,parent_or_dependent
+claiming psychotherapy sessions for my spouse with a registered psychotherapist for workplace burnout,Psychotherapist,parent_or_dependent
+What category covers compression tights that are footless?,"Compression Calf Sleeves/Tights (footless), any length",question
+I went to the physio for rehab exercises after my rotator cuff surgery,Physiotherapy,confused_student
+"the transmitter is NOT the sensor, it's the reusable part that clips on, why are there four separate categories for this",Glucose Monitoring System Transmitter,complaint
+How do I claim hospital charges within my province that aren't covered by the provincial plan?,Hospital (within your province),question
+"I buy special medical thing doctor recommend, but I cannot find right category for it",Other medical items,esl_speaker
+"I had to email my social worker to confirm she has an MSW not a BSW just to pick the right category, this is ridiculous",Social Worker (Masters level),complaint
+purchased a bulk box of BD alcohol swabs from Amazon for daily glucose testing,Alcohol swabs,brand_specific
+Where do I claim a reusable heating pad I bought for pain management?,Heat Therapy - Re-usable items (purchase),question
+bought Moen Home Care SecureMount grab bars from Home Depot,Grab Bar/Bath Bar - permanent fixtures (purchase),brand_specific
+"I got the breathing machine that you use at night for snoring, not the mask part just the machine","CPAP, APAP, BIPAP Machine",confused_student
+Which category for an automatic spring-loaded insulin injection device?,Insulin Gun (automatic),question
+vitamin D blood test level,Vitamin D Test,terse
+"I was on a long haul flight and the doctor suggested I get really mild compression socks, they're only about 10 mmhg","Compression Stockings, any length (up to 14 mmhg)",storyteller
+bought a Spectra S1 Plus breast pump from BuyBuy Baby,Breast Pump (purchase),brand_specific
+knee high 30+ mmhg stockings rx,"Compression Stockings, knee length (30 mmhg & over)",terse
+"I bought a portable toilet chair that sits by the bed, it doesn't have wheels",Stationary Commode (purchase),confused_student
+purchased a Hugo Adjustable Derby cane from Pharma Plus,"Cane, standard",brand_specific
+I selected 'Prescription Glasses' but I bought contacts not glasses,Prescription Contacts,wrong_guess
+got Venosan 7002 thigh-high 23-32 mmHg with lace grip from MedEquip,"Compression Stockings, thigh/full (20-29 mmhg)",brand_specific
+I prefer having control over the injection speed so I use a manual insulin gun where I push the plunger myself,Insulin Gun (manual),storyteller
+physio rehab session,Physiotherapy,terse
+purchased a Sunbeam XpressHeat heating pad from Canadian Tire,Heat Therapy - Re-usable items (purchase),brand_specific
+bought a ResMed AirFit F20 full face mask from CPAP Solutions,"CPAP, APAP, BIPAP Mask",brand_specific
+Which category for treatment with an osteopathic manual practitioner?,Osteopath,question
+"I submitted under 'Blood glucose meter' but it's actually the CGM receiver screen, not a finger prick meter",Glucose Monitoring System Receiver,wrong_guess
+Where do I claim a urinal purchased for home use?,Urinal (purchase),question
+Claiming supplementary charges at a licensed long-term care facility for 24-hour skilled nursing supervision,Nursing Home and Long Term Care,detailed_clinical
+Which category for permanent grab bars I had installed in my bathroom?,Grab Bar/Bath Bar - permanent fixtures (purchase),question
+took my daughter to the allergist for a skin scratch test after she broke out in hives,Scratch Test for Allergies,parent_or_dependent
+Submitting for a manually-operated insulin injection gun device for assisted subcutaneous insulin administration,Insulin Gun (manual),detailed_clinical
+custom left knee brace claim,"Brace, left knee (Custom)",terse
+had shoe modifications done at Aetrex-certified pedorthist at BioPed clinic,Other foot care services (i.e. orthopedic shoe modification),brand_specific
+What category for an app-based cognitive behavioural therapy program?,Digital Cognitive Behavioural Therapy,question
+Which category for full-length compression stockings at 15-19 mmHg that go up to the thigh?,"Compression Stockings, thigh/full (15-19 mmhg)",question
+I got this special foot and ankle brace thing that was made just for me at the orthotics place,"Brace, AFO/KAFO (Custom)",confused_student
+"After my second DVT my vascular doc put me in heavy duty knee-high stockings at 35 mmhg, they're so tight I need a donner to put them on","Compression Stockings, knee length (30 mmhg & over)",storyteller
+"my vision service doesn't fit ANY of the specific categories - it's vision therapy, not an exam or glasses or contacts",Other vision services (i.e. safety glasses),complaint
+I just went for a regular eye checkup to see if I need new glasses,Eye Exam,confused_student
+I had blood work done but it's not allergy testing or any of the specific tests listed,Other laboratory and diagnostic tests,confused_student
+What's the right category for store-bought shoe inserts that aren't custom-made?,Standard foot orthotics or shoe inserts,question
+new prescription glasses,Prescription Glasses,terse
+bought a Drive Medical folding steel bedside commode from Medichair,Stationary Commode (purchase),brand_specific
+"I buy brace for my ankle at store, it is not special made, just regular one",Brace (Non-custom),esl_speaker
+Submitting for disposable hypoallergenic air filters and heated tubing for CPAP system maintenance,"CPAP, APAP, BIPAP Supplies",detailed_clinical
+"I use app on phone for CBT therapy, it is online program, not go to office, do at home",Digital Cognitive Behavioural Therapy,esl_speaker
+hearing aid purchase claim,Hearing Aids,terse
+"there's automatic and manual insulin guns plus pens and pumps, mine is the automatic GUN not a pen",Insulin Gun (automatic),complaint
+submitted my Tao Healing Arts acupuncture receipt from the Centretown clinic,Acupuncture,brand_specific
+"I fell off my bike and knocked out my front tooth, is that different from regular dental?",Dental Accident,confused_student
+bought a reusable ice wrap for my daughter's knee after her volleyball game,Cold Therapy - Re-usable Items (purchase),parent_or_dependent
+I was just diagnosed with diabetes and my pharmacist helped me pick out a basic blood sugar meter that uses finger pricks,Blood glucose meter,storyteller
+claiming insulin pump supplies for my daughter - new infusion sets and reservoirs,Insulin infusion pump supplies,parent_or_dependent
+claiming my spouse's therapy sessions with a master's level social worker for grief counselling,Social Worker (Masters level),parent_or_dependent
+purchased a box of OneTouch Delica Plus lancets from Rexall,Lancet,brand_specific
+I need crutches long-term for my disability so my physio recommended forearm crutches that wrap around my arm instead of going under my armpit,Forearm Crutch (purchase),storyteller
+"I submitted under 'Insulin Pen Injector' but it's actually an automatic insulin gun, not a pen",Insulin Gun (automatic),wrong_guess
+bed safety rails purchase,Bed Rails (purchase),terse
+I was admitted to The Ottawa Hospital Civic Campus for three days after surgery,Hospital (within your province),storyteller
+"I'm claiming the entire SHOES not just orthotics, these were custom built by an orthotist for my feet",Orthopaedic or custom made shoes,complaint
+"my orthodontist took x-rays and impressions before starting treatment, it's separate from the braces",Other Orthodontic/Dental Services (i.e. orthodontic records),confused_student
+getting thigh-high 15 mmhg compression stockings for my pregnant wife,"Compression Stockings, thigh/full (15-19 mmhg)",parent_or_dependent
+orthodontic records x-rays,Other Orthodontic/Dental Services (i.e. orthodontic records),terse
+"I have long stockings that go all the way up my thigh, mild pressure, maybe 15 or so?","Compression Stockings, thigh/full (15-19 mmhg)",confused_student
+hospital stay provincial claim,Hospital (within your province),terse
+What do I select for thigh-high compression stockings rated 20-29 mmHg?,"Compression Stockings, thigh/full (20-29 mmhg)",question
+got 2XU compression calf sleeves from Running Room,"Compression Calf Sleeves/Tights (footless), any length",brand_specific
+my grandfather is bedridden after his fall and we bought a bedside urinal for him,Urinal (purchase),parent_or_dependent
+medical marijuana rx claim,Medical Cannabis,terse
+My dad has trouble walking long distances so I got him a nice rollator with a seat so he can rest when he gets tired,Walker - with wheels (purchase),storyteller
+Which category for a fiberglass cast I had applied at the hospital?,"Cast, fiberglass",question
+"Filing for routine prophylaxis, bitewing radiographs, and composite resin restoration at a general dental practice",Dental Services,detailed_clinical
+custom compression stockings claim,"Compression Stockings, custom, any length",terse
+"my shoe is change by foot doctor, he add special part inside, not new shoe, just change old shoe",Other foot care services (i.e. orthopedic shoe modification),esl_speaker
+I had a full metabolic panel and thyroid function test done at LifeLabs,Other laboratory and diagnostic tests,storyteller
+"I got the walker that you can push and roll around, it has a seat and wheels",Walker - with wheels (purchase),confused_student
+"I chose 'Insulin Gun automatic' but mine is actually manual, you press it by hand",Insulin Gun (manual),wrong_guess
+I filed under 'Brace left knee Custom' by mistake but it's for my right knee,"Brace, right knee (Custom)",wrong_guess
+What's the right category for prescription safety eyewear for work?,Safety Glasses,question
+bought a pair of Stander EZ Adjust bed rails for my father's bed,Bed Rails (purchase),brand_specific
+"just regular prescription glasses, not safety glasses or contacts, just normal glasses with my prescription",Prescription Glasses,complaint
+claiming my daughter's orthodontic records including panoramic x-ray and photos taken before braces,Other Orthodontic/Dental Services (i.e. orthodontic records),parent_or_dependent
+Which category for a tabletop vaporizer that produces steam?,Vaporizer (table top),question
+"I got compression gloves for my arthritis, they're not stockings or a regular brace",Other garment brace services (i.e. compression gloves),confused_student
+taking my elderly father for chiropody foot care appointments every month for his diabetic feet,Chiropody (Foot Care) Treatment,parent_or_dependent
+I found this great social worker through my EAP and after checking her credentials I saw she has a BSW from Carleton,Social Worker (Bachelors),storyteller
+PSA prostate blood test,PSA Test (Prostate Specific Antigen),terse
+I bought a medical device but I can't find it in any of the specific categories,Other medical items,confused_student
+"I selected 'Eye Exam' but this was actually a diagnostic test for glaucoma, not a regular exam",Diagnostic Vision Test,wrong_guess
+pre-auth medical estimate,Estimate/Pre-Authorization,terse
+"they took my blood to check what I'm allergic to, like food and pollen allergies",Blood test for Allergies (IG test not eligible),confused_student
+x-ray imaging fracture,X-Ray,terse
+"replacing my child's CGM transmitter unit, it's the piece that sends data to the receiver",Glucose Monitoring System Transmitter,parent_or_dependent
+Where do I claim a standard single-point walking cane?,"Cane, standard",question
+aerochamber spacer puffer,Aerochamber,terse
+I bought a metal pole with hooks to hang IV bags at home,IV Stand (purchase),confused_student
+glucometer purchase,Blood glucose meter,terse
+"picked left knee by accident last time, it's actually my RIGHT knee custom brace, had to resubmit","Brace, right knee (Custom)",complaint
+"the lab charged me just for taking the blood, separate from the actual test",Blood Withdrawal Fee,confused_student
+"these are the long ones that go way up past my knee to my upper leg, 25 mmhg","Compression Stockings, thigh/full (20-29 mmhg)",confused_student
+Where do I file the ambulance transport bill?,Ambulance,question
+ordered Jobst Elvarex thigh-high 34-46 mmHg flat-knit from my lymphedema clinic,"Compression Stockings, thigh/full (30 mmhg & over)",brand_specific
+had speech therapy at the Children's Hospital of Eastern Ontario for my son's articulation disorder,Speech Therapy,brand_specific
+claiming a comprehensive blood panel for my spouse that doesn't fit the specific test categories,Other laboratory and diagnostic tests,parent_or_dependent
+"I buy the machine that push needle by itself for insulin, automatic type, you just press button",Insulin Gun (automatic),esl_speaker
+my father's vascular doctor prescribed 30+ mmhg knee compression stockings and I'm helping him file,"Compression Stockings, knee length (30 mmhg & over)",parent_or_dependent
+I'm afraid of needles so my diabetes educator recommended an automatic insulin gun that does the injection for you at the push of a button,Insulin Gun (automatic),storyteller
+"Claiming a chiropody treatment session including nail care, callus debridement, and biomechanical assessment",Chiropody (Foot Care) Treatment,detailed_clinical
+clinical counsellor sessions,Clinical Counsellor,terse
+"I go to naturopath doctor, she give natural medicine and talk about food and lifestyle",Naturopathic Treatment,esl_speaker
+"picking up light compression socks for my mom, they're under 14 mmhg for her swollen ankles","Compression Stockings, any length (up to 14 mmhg)",parent_or_dependent
+they strapped a BP cuff on me that took readings all day and night for 24 hours,Ambulatory Blood Pressure Test,confused_student
+custom orthopaedic shoes,Orthopaedic or custom made shoes,terse
+filled my Synthroid prescription at the Shoppers Drug Mart pharmacy,Drug,brand_specific
+"I got these tight leg things but they don't have the foot part, what do I pick?","Compression Calf Sleeves/Tights (footless), any length",confused_student
+I've been sneezing nonstop so my allergist ordered blood work to figure out what I'm reacting to,Blood test for Allergies (IG test not eligible),storyteller
+What category for a breast pump I purchased for nursing?,Breast Pump (purchase),question
+"My old CGM transmitter died after three months so I need a new one, it's the part that snaps into the sensor and sends readings to my phone",Glucose Monitoring System Transmitter,storyteller
+Which category for therapy with a registered psychologist?,Psychologist,question
+ostomy supplies bags,Ostomy,terse
+bought a steam vaporizer for my child's room to help with croup and congestion,Vaporizer (table top),parent_or_dependent
+Submitting under the provincial replacement plan for services eligible under the Ontario Health Insurance Plan,Provincial Replacement Plan,detailed_clinical
+I went in that big tube machine that takes pictures of the inside of your body,MRI (Magnetic Resonance Imaging),confused_student
+my daughter fell off the monkey bars so we went for an x-ray to check if anything is broken,X-Ray,parent_or_dependent
+My TENS electrode pads lost their stickiness after a month of use so I ordered a bulk pack of replacements,"Stimulator, supplies",storyteller
+"I went to someone who gave me little sugar pills and drops, called a homeopath",Homeopathic Treatment,confused_student
+"this isn't a regular brace, it's a custom AFO that was molded to my leg, the categories are so confusing","Brace, AFO/KAFO (Custom)",complaint
+I need to claim a hearing test my employer required for workplace noise exposure,Audiometric Exam,storyteller
+"Which category for a replacement CPAP mask, not the machine itself?","CPAP, APAP, BIPAP Mask",question
+Where do I claim services from a certified audiologist?,Audiologist Services,question
+medical wig hair loss,Wig,terse
+I think these go under 'Other garment brace services' but they're actually footless compression tights,"Compression Calf Sleeves/Tights (footless), any length",wrong_guess
+raised toilet seat purchase,Raised Toilet seat (purchase),terse
+CGM transmitter piece,Glucose Monitoring System Transmitter,terse
+My eye exam showed my prescription changed so I picked new frames and got progressive lenses made up,Prescription Glasses,storyteller
+my doctor recommended genetic testing because breast cancer runs in our family,Screening (for DNA/Genetic purposes),storyteller
+Claiming bilateral weight-bearing anteroposterior and lateral radiographic imaging of the knees,X-Ray,detailed_clinical
+What category for a lightweight transport wheelchair that folds for travel?,Transport Wheelchair,question
+home care aide services,In Home Support Services,terse
+I'm over 50 and my GP recommended yearly PSA screening so I got the blood test done,PSA Test (Prostate Specific Antigen),storyteller
+"I go to clinic to sleep one night, they put wire on me and watch how I breathe",Sleep Study,esl_speaker
+purchased an Amoena Isadora mastectomy bra from Lady Grace,Mastectomy bra,brand_specific
+had a DonJoy Defiance custom left knee brace made at Promedics,"Brace, left knee (Custom)",brand_specific
+I've been dealing with TMJ pain so I started seeing an osteopath who does cranial work,Osteopath,storyteller
+compression socks under 14mmhg,"Compression Stockings, any length (up to 14 mmhg)",terse
+fiberglass cast fracture,"Cast, fiberglass",terse
+bought a NovoPen Echo Plus manual injection assist from my diabetes supplier,Insulin Gun (manual),brand_specific
+blood allergy panel test,Blood test for Allergies (IG test not eligible),terse
+my child needs vision therapy for a lazy eye and it doesn't fit any other category,Other vision services (i.e. safety glasses),parent_or_dependent
+osteopath treatment session,Osteopath,terse
+"I go to a therapist and their license says registered psychotherapist, how is that different from psychologist?",Psychotherapist,confused_student
+Claiming psychotherapy sessions with a Registered Psychotherapist licensed by the College of Registered Psychotherapists of Ontario,Psychotherapist,detailed_clinical
+I got varicose veins during pregnancy and my OB told me to get thigh-high stockings at about 15 mmhg for the swelling,"Compression Stockings, thigh/full (15-19 mmhg)",storyteller
+"I picked up medicine the doctor prescribed, just regular pills from the pharmacy",Drug,confused_student
+purchased a Drive Medical Fly-Lite transport wheelchair from Amazon,Transport Wheelchair,brand_specific
+mastectomy bra prosthetic,Mastectomy bra,terse
+I had that scan where they put gel on you and use a wand to see inside,Ultrasound,confused_student
+What category for treatment sessions with a licensed homeopath?,Homeopathic Treatment,question
+"I need buy more sensor patch for glucose machine, the one you stick on arm",Glucose Monitoring System Supplies/Sensors,esl_speaker
+Which category for a custom-made brace specifically for my left knee?,"Brace, left knee (Custom)",question
+"I filed under the wrong pressure level last time, these are definitely 20-29 mmhg knee length, had to redo the whole claim","Compression Stockings, knee length (20-29 mmhg)",complaint
+I selected 'Brace left knee Custom' but it's actually a generic one from the store,Brace (Non-custom),wrong_guess
+I saw someone called an athletic therapist at the sports medicine place,Athletic Therapy,confused_student
+shower chair purchase claim,Bath Bench/Chair (purchase),terse
+CGM receiver device,Glucose Monitoring System Receiver,terse
+I got a little tube thing I blow into to check my lung function at home,Peak Flow Meter,confused_student
+genetic DNA screening test,Screening (for DNA/Genetic purposes),terse
+"none of the specific mental health categories match my provider type, she's a certified therapeutic counsellor, where does that go?",Other mental health services,complaint
+How do I submit a dental treatment estimate for pre-authorization?,Dental Estimate for Services,question
+"this is NOT a regular eye exam, it's a diagnostic test the specialist ordered, different thing entirely",Diagnostic Vision Test,complaint
+Submitting a comprehensive dental treatment plan estimate for prior authorization of recommended restorative procedures,Dental Estimate for Services,detailed_clinical
+claiming an insulin infusion pump for my teenage daughter who was recently diagnosed with type 1 diabetes,Insulin infusion pump,parent_or_dependent
+breast pump electric purchase,Breast Pump (purchase),terse
+I got that metal frame thing that goes around the toilet to help me stand up,Versa Frame (purchase),confused_student
+"Where do I claim a manual insulin injection gun, not the automatic kind?",Insulin Gun (manual),question
+Where do I claim a wig purchased for medical hair loss?,Wig,question
+underarm crutches pair,"Crutches, pair",terse
+"I buy the small screen that show glucose number from sensor, it is receiver not the sensor",Glucose Monitoring System Receiver,esl_speaker
+"my daughter started a co-op in a lab and needs prescription safety glasses, claiming the cost",Safety Glasses,parent_or_dependent
+Filing for skilled in-home personal support worker services for post-operative activities of daily living assistance,In Home Support Services,detailed_clinical
+I tried traditional talk therapy but it wasn't working so I started seeing a drama therapist and it's been really helpful for my PTSD,Other mental health services,storyteller
+audiologist hearing assessment,Audiologist Services,terse
+insulin pen device claim,Insulin Pen Injector,terse
+claiming MSW social worker sessions booked through BetterHelp,Social Worker (Masters level),brand_specific
+What's the right category for orthotics that were custom-made from a mold of my feet?,Custom made foot orthotics,question
+"I saw someone who does manual therapy on my muscles and joints, an osteopath",Osteopath,confused_student
+I bought a gel thing you freeze and put on your sore muscles,Cold Therapy - Re-usable Items (purchase),confused_student
+"my social worker she have master degree, MSW, she do therapy for my stress",Social Worker (Masters level),esl_speaker
+bought Juzo Soft thigh-high 15-20 mmHg with open toe from HealthKart,"Compression Stockings, thigh/full (15-19 mmhg)",brand_specific
+Claiming a pair of standard axillary crutches with padded handgrips and underarm cushions,"Crutches, pair",detailed_clinical
+"I signed up for an online therapy program on my phone, it's CBT but not with a real person in a room",Digital Cognitive Behavioural Therapy,confused_student
+I submitted under 'Standard foot orthotics or shoe inserts' but mine were custom-made from a foot impression,Custom made foot orthotics,wrong_guess
+"I go to lab for blood test, doctor want check vitamin D in my body",Vitamin D Test,esl_speaker
+"Submitting for a four-wheeled rollator with hand brakes, padded seat, and storage basket for ambulatory mobility assistance",Walker - with wheels (purchase),detailed_clinical
+ordered Sigvaris Essential Opaque knee-high 30-40 mmHg through my clinic,"Compression Stockings, knee length (30 mmhg & over)",brand_specific
+Where do I submit a claim for shoes that were custom-made for my foot condition?,Orthopaedic or custom made shoes,question
+MedicAlert ID bracelet,Medic Alert Bracelet,terse
+"Claiming a standard aluminum folding pickup walker with non-skid rubber ferrules, non-wheeled",Walker - non wheeled (purchase),detailed_clinical
+"my physio told me to get a special pillow for my neck, it's got a curved shape",Cervical Pillow,confused_student
+bought a MedicAlert bracelet for my son who has a severe peanut allergy,Medic Alert Bracelet,parent_or_dependent
+"someone came to my house to help me with stuff after my surgery, like a home nurse",In Home Support Services,confused_student
+"I buy two crutch that go under arm, regular type, pair together","Crutches, pair",esl_speaker
+"my therapist is a PSYCHOLOGIST with a doctorate, not a psychotherapist or counsellor, the categories need better descriptions",Psychologist,complaint
+I tried 'Eye Exam' but this is actually vision therapy sessions for convergence issues,Other vision services (i.e. safety glasses),wrong_guess
+purchased a replacement Dexcom G6 transmitter from my diabetes clinic,Glucose Monitoring System Transmitter,brand_specific
+"I lose hair because of medicine treatment, I buy wig to cover head",Wig,esl_speaker
+emergency medical service other,Other emergency services,terse
+phlebotomy draw fee,Blood Withdrawal Fee,terse
+I did a sleep study and they said I have sleep apnea so I just bought my own CPAP machine from the sleep clinic,"CPAP, APAP, BIPAP Machine",storyteller
+I bought something that makes the toilet higher so it's easier to sit down and stand up,Raised Toilet seat (purchase),confused_student
+I need to get pre-approval from GreenShield before my procedure so my provider submitted an estimate,Estimate/Pre-Authorization,storyteller
+"I chose 'thigh/full 30 and over' but my receipt says 25 mmhg, wrong category","Compression Stockings, thigh/full (20-29 mmhg)",wrong_guess
+purchased a case of Tena Intimates overnight pads from Well.ca,Incontinence Supplies,brand_specific
+claiming a post-mastectomy bra for my mother after her breast cancer surgery,Mastectomy bra,parent_or_dependent
+tabletop steam vaporizer,Vaporizer (table top),terse
+I submitted under 'Forearm Crutch' but these are regular underarm crutches,"Crutches, pair",wrong_guess
+mammogram breast screening,Mammogram,terse
+Filing for clinical counselling sessions with a Registered Social Worker credentialed with a Master of Social Work degree,Social Worker (Masters level),detailed_clinical
+I picked 'Custom made foot orthotics' but these are just standard insoles from the pharmacy shelf,Standard foot orthotics or shoe inserts,wrong_guess
+"my daughter sees a clinical counsellor for test anxiety, need to claim her sessions",Clinical Counsellor,parent_or_dependent
+"I buy small device that send sugar number to phone, it connect to sensor, it is transmitter part",Glucose Monitoring System Transmitter,esl_speaker
+I submitted under 'Psychotherapist' but my therapist is actually a Canadian Certified Clinical Counsellor,Clinical Counsellor,wrong_guess
+I bought a small humidifier for my bedroom to help with dry air,Humidifier (Table Top),confused_student
+Claiming CSA Z94.3 certified prescription polycarbonate safety spectacles with side shields for occupational hazard protection,Safety Glasses,detailed_clinical
+transport wheelchair lightweight,Transport Wheelchair,terse
+purchasing a stationary commode for my grandmother's bedroom since she can't walk to the bathroom,Stationary Commode (purchase),parent_or_dependent
+I selected 'Brace Non-custom' but mine is a custom ankle-foot orthosis made by an orthotist,"Brace, AFO/KAFO (Custom)",wrong_guess
+installed a versa frame around the toilet for my elderly mother's bathroom safety,Versa Frame (purchase),parent_or_dependent
+thigh high 30+ mmhg stockings,"Compression Stockings, thigh/full (30 mmhg & over)",terse
+"I buy electric machine that make my muscle feel better, it send small shock through pad on skin","Stimulator, muscle/nerve (TENS)",esl_speaker
+provincial plan replacement claim,Provincial Replacement Plan,terse
+I picked 'Walker non wheeled' but mine actually has four wheels and brakes,Walker - with wheels (purchase),wrong_guess
+Which category for an IV pole I bought for home infusion therapy?,IV Stand (purchase),question
+"doctor say I need strong sock for knee, 25 mmhg, I buy from pharmacy","Compression Stockings, knee length (20-29 mmhg)",esl_speaker
+thigh length 20-29 mmhg compression,"Compression Stockings, thigh/full (20-29 mmhg)",terse
+nursing home long term care,Nursing Home and Long Term Care,terse
+"I buy the tube and filter for CPAP machine, not machine and not mask, just parts","CPAP, APAP, BIPAP Supplies",esl_speaker
+tooth knocked out accident,Dental Accident,terse
+"I see someone for therapy and their title says clinical counsellor, is that different from a psychologist?",Clinical Counsellor,confused_student
+purchased Phonak Audeo Paradise hearing aids from Connect Hearing,Hearing Aids,brand_specific
+"I see homeopath doctor, she give me small medicine and ask many question about my health",Homeopathic Treatment,esl_speaker
+I need more of those sticky pad things for my shock machine,"Stimulator, supplies",confused_student
+"the doctor put a hard shell on my broken wrist, it's not plaster it's the lighter kind","Cast, fiberglass",confused_student
+"my doctor gave me the maximum strength long ones that go all the way up, they're super tight","Compression Stockings, thigh/full (30 mmhg & over)",confused_student
+booked psychologist sessions through Psychology Today directory at CBT Associates,Psychologist,brand_specific
+got a custom Ossur Rebound right knee brace fitted at the sports medicine clinic,"Brace, right knee (Custom)",brand_specific
+need to claim the blood draw fee from LifeLabs for my spouse's recent blood work,Blood Withdrawal Fee,parent_or_dependent
+I got some kind of vision treatment that's not an exam or glasses or contacts,Other vision services (i.e. safety glasses),confused_student
+What category for emergency medical services that aren't ambulance transport?,Other emergency services,question
+Filing claim for bilateral knee-length graduated compression stockings rated 20-30 mmHg prescribed for post-thrombotic syndrome,"Compression Stockings, knee length (20-29 mmhg)",detailed_clinical
+overnight sleep study test,Sleep Study,terse
+"I got the regular crutches that go under your armpits, a pair of them","Crutches, pair",confused_student
+had custom Sensaphonics ear plugs made at my audiologist's office for noise protection,Ear Plugs (custom made),brand_specific
+Which category for a treatment appointment with a licensed podiatrist?,Podiatry Treatment,question
+purchased Superfeet Green insoles from The Running Room,Standard foot orthotics or shoe inserts,brand_specific
+my kid sprained her ankle at soccer and we picked up a ready-made brace at the pharmacy,Brace (Non-custom),parent_or_dependent
+"my son sees a child psychologist for ADHD assessment and therapy, claiming those sessions",Psychologist,parent_or_dependent
+"Submitting a receipt for a prefabricated hinged knee stabilizer brace, non-custom, OTC purchase",Brace (Non-custom),detailed_clinical
+I lost my hair from chemo and bought a wig to wear,Wig,confused_student
+Submitting for bilateral orthopedic shoe modification including rocker sole addition and medial heel wedge insertion,Other foot care services (i.e. orthopedic shoe modification),detailed_clinical
+peak flow meter asthma,Peak Flow Meter,terse
+"I got one of those metal frame things you pick up and move, no wheels on it",Walker - non wheeled (purchase),confused_student
+need to claim CGM sensor supplies for my daughter's type 1 diabetes management,Glucose Monitoring System Supplies/Sensors,parent_or_dependent
+I bought one of those bottle things for going to the bathroom when you're stuck in bed,Urinal (purchase),confused_student
+"this isn't a new custom shoe and it's not orthotics, they MODIFIED my existing shoes, which category is that?",Other foot care services (i.e. orthopedic shoe modification),complaint
+"claiming a vitamin D test for my spouse, her doctor suspected a deficiency",Vitamin D Test,parent_or_dependent
+my husband had a private MRI for his shoulder injury and I need to submit the receipt,MRI (Magnetic Resonance Imaging),parent_or_dependent
+"I chose 'Glucose Monitoring System Supplies/Sensors' but this is the reusable transmitter, not a disposable sensor",Glucose Monitoring System Transmitter,wrong_guess
+I slept overnight at a clinic wired up to machines that monitored my breathing and stuff,Sleep Study,confused_student
+Where do I claim orthodontic records like x-rays and impressions?,Other Orthodontic/Dental Services (i.e. orthodontic records),question
+I buy compression tight for my leg but it is not have foot part,"Compression Calf Sleeves/Tights (footless), any length",esl_speaker
+had a polysomnography study done at the Ottawa Sleep Centre,Sleep Study,brand_specific
+Submitting for a single ergonomic forearm crutch with adjustable cuff and contoured handgrip,Forearm Crutch (purchase),detailed_clinical
+had my cleaning and a filling done at Pretoria Bridge Dental,Dental Services,brand_specific
+"ordering prescription contacts for my teenage son, his optometrist fitted him for them",Prescription Contacts,parent_or_dependent
+"My grandma had knee surgery and the hospital gave her a standard walker with rubber feet, no wheels, and I paid for it",Walker - non wheeled (purchase),storyteller
+took my daughter for her annual eye exam at the optometrist,Eye Exam,parent_or_dependent
+Which category for a commode that has wheels on it?,Wheeled Commode (purchase),question
+had a naturopathic consultation at the Ottawa Integrative Health Centre,Naturopathic Treatment,brand_specific
+"I need the tubing and cannula things that go with my insulin pump, not the pump itself",Insulin infusion pump supplies,confused_student
+started Invisalign treatment at Village Orthodontics and need to claim the initial fee,Orthodontic Services (Braces - initial and monthly fee),brand_specific
+I submitted under 'Social Worker Masters level' but my social worker actually has a BSW not an MSW,Social Worker (Bachelors),wrong_guess
+"I have neck pain so I go to physiotherapy and she say buy special pillow for neck, cervical pillow",Cervical Pillow,esl_speaker
+had Sigvaris custom compression stockings made at Orthomed in Ottawa,"Compression Stockings, custom, any length",brand_specific
+custom molded ear plugs,Ear Plugs (custom made),terse
+Filing for a pure-tone and speech audiometric examination including tympanometry for hearing threshold assessment,Audiometric Exam,detailed_clinical
+"make sure I'm in the right spot this time - it's a walker WITH wheels, the rolling kind",Walker - with wheels (purchase),complaint
+"I submitted under 'Walker with wheels' but mine has no wheels at all, just rubber tips",Walker - non wheeled (purchase),wrong_guess
+I twisted my wrist playing volleyball so I ran to Shoppers and grabbed an off-the-shelf wrist brace,Brace (Non-custom),storyteller
+"I got socks that go up to my knee and the package says 15-19, is that the pressure?","Compression Stockings, knee length (15-19 mmhg)",confused_student
+Which category for knee-length compression stockings rated between 15 and 19 mmHg?,"Compression Stockings, knee length (15-19 mmhg)",question
+What category for specialized eye testing that goes beyond a routine exam?,Diagnostic Vision Test,question
+taking my kids for their regular dental cleanings and need to submit the receipts,Dental Services,parent_or_dependent
+helping my mother claim her heavy-duty thigh-high 30+ mmhg stockings for her chronic lymphedema,"Compression Stockings, thigh/full (30 mmhg & over)",parent_or_dependent
+my gynecologist ordered a CA-125 test because of a cyst they found on my ovary during ultrasound,CA-125 (Cancer Antigen) Test,storyteller
+I've been going to a kinesiologist for exercise-based rehab after my car accident,Other health specialists,storyteller
+Which category for a massage therapy session with a registered massage therapist?,Massage,question
+Filing a claim for a custom-fabricated articulated ankle-foot orthosis molded from patient impression for foot drop correction,"Brace, AFO/KAFO (Custom)",detailed_clinical
+Claiming bilateral graduated compression arm sleeves for post-mastectomy lymphedema management,Other garment brace services (i.e. compression gloves),detailed_clinical
+Which category for the receiver that displays readings from my continuous glucose sensor?,Glucose Monitoring System Receiver,question
+"it's just a plain walker with no wheels, why are there separate categories for wheeled and non-wheeled",Walker - non wheeled (purchase),complaint
+"it's the injection device where you push it in yourself by hand, no automatic spring",Insulin Gun (manual),confused_student
+forearm elbow crutch,Forearm Crutch (purchase),terse
+"my wife sees a reflexologist for stress management, what category does that fall under?",Other health specialists,parent_or_dependent
+My vascular surgeon referred me to a certified fitter who took molds of both legs and made compression stockings specifically for me,"Compression Stockings, custom, any length",storyteller
+Claiming a patient-specific custom-fabricated left knee orthosis with medial-lateral stabilizers for ACL deficiency,"Brace, left knee (Custom)",detailed_clinical
+purchased a Honeywell HCM-350 Cool Mist humidifier from Amazon,Humidifier (Table Top),brand_specific
